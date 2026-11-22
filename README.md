@@ -2,6 +2,12 @@
 
 PlanterModZombier is an unofficial community project to translate the original *Plants vs. Zombies* into Danish. The project currently has one maintainer. Suggestions, corrections, and reports of missing translations are welcome through [GitHub Issues](https://github.com/attacksnack/PlanterModZombier/issues).
 
+## Screenshots
+
+![Danish main menu](screenshots/main-menu.png)
+
+![Crazy Dave's shop in Danish](screenshots/shop.png)
+
 ## Install the Danish translation
 
 1. Close *Plants vs. Zombies*.
