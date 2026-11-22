@@ -1,0 +1,468 @@
+Klik og træk planter for at lave grupper på 3
+
+[ADVICE_BEGHOULED_TWIST_TO_MATCH_3]
+Klik for at dreje planterne og lave grupper på 3
+
+[ADVICE_BEGHOULED_MATCH_3]
+Lav {SCORE} grupper for at gennemføre banen
+
+[ADVICE_BEGHOULED_NO_MOVES]
+Ingen mulige træk!
+
+[ADVICE_BEGHOULED_USE_CRATER_1]
+Zombierne spiste en af dine planter!
+
+[ADVICE_BEGHOULED_USE_CRATER_2]
+Brug lidt solenergi på at fylde krateret!
+
+[ADVICE_BEGHOULED_SAVE_SUN]
+Saml solenergi for at opgradere dine planter!
+
+[ADVICE_SLOT_MACHINE_PULL]
+Træk i håndtaget for at få nye frø!
+
+[ADVICE_SLOT_MACHINE_SPIN_AGAIN]
+Prøv lykken igen!
+
+[ADVICE_SLOT_MACHINE_COLLECT_SUN]
+Saml {SCORE} solenergi for at gennemføre banen
+
+[SLOT_MACHINE_PULL_TOOLTIP]
+Det koster 25 solenergi at trække
+
+[ADVICE_SLOT_MACHINE_3_OF_A_KIND]
+Tre ens! 3 gratis planter!
+
+[ADVICE_SLOT_MACHINE_2_OF_A_KIND]
+To ens! Gratis plante!
+
+[ADVICE_SLOT_MACHINE_2_SUNS]
+To ens! Bonus-solenergi!
+
+[ADVICE_SLOT_MACHINE_2_DIAMONDS]
+To ens! Diamanter!
+
+[ADVICE_SLOT_MACHINE_SUN_JACKPOT]
+Solenergi-jackpot!
+
+[ADVICE_SLOT_MACHINE_DIAMOND_JACKPOT]
+Diamant-jackpot!
+
+[SLOT_MACHINE_SUN_TOOLTIP]
+Solenergi
+
+[SLOT_MACHINE_DIAMOND_TOOLTIP]
+Diamant
+
+[ADVICE_BUNGEES_INCOMING]
+Bungeezombier på vej!!!
+
+[ADVICE_CLICKED_ON_SUN]
+Bliv ved med at samle solenergi!
+Du får brug for den til at dyrke flere planter!
+
+[ADVICE_CLICKED_ON_COIN]
+Spar penge op, så du kan købe seje ting!
+
+[ADVICE_SEED_REFRESH]
+Frøene skal bruge tid på at blive klar, før de kan plantes igen
+
+[ADVICE_CANT_AFFORD_PLANT]
+Du skal bruge mere solenergi for at gøre det!
+
+[ADVICE_PLANT_NEEDS_REPEATER]
+Plant først en dobbeltærteskytte!
+
+[ADVICE_PLANT_NEEDS_MELONPULT]
+Plant først en vintermelon!
+
+[ADVICE_PLANT_NEEDS_SUNFLOWER]
+Plant først en solsikke!
+
+[ADVICE_PLANT_NEEDS_SPIKEWEED]
+Plant først piggræs!
+
+[ADVICE_PLANT_NEEDS_KERNELPULT]
+Plant først to majskatapulter!
+
+[ADVICE_PLANT_NEEDS_MAGNETSHROOM]
+Plant først en magnetsvamp!
+
+[ADVICE_PLANT_NEEDS_FUMESHROOM]
+Plant først en gassvamp!
+
+[ADVICE_PLANT_NEEDS_LILYPAD]
+Plant først et åkandeblad!
+
+[PLAYERS_HOUSE]
+{PLAYER}s hus
+
+[PLAYERS_BACKYARD]
+{PLAYER}s baghave
+
+[PLAYERS_ROOF]
+{PLAYER}s tag!
+
+[ADVICE_PORTAL_RELOCATING]
+Portalen flytter...
+
+[ZEN_SELL_HEADER]
+Er du sikker?
+
+[ZEN_SELL_LINES]
+Vil du sælge denne plante til Crazy Dave?
+
+[DIALOG_WARNING]
+Advarsel
+
+[DIALOG_ZEN_GARDEN_FULL]
+Åh nej! Din have er helt fuld!
+
+[DIALOG_BUTTON_OK]
+OK
+
+[DIALOG_BUTTON_CANCEL]
+ANNULLER
+
+[DIALOG_BUTTON_YES]
+JA
+
+[DIALOG_BUTTON_NO]
+NEJ
+
+[BUTTON_OK]
+OK
+
+[BUTTON_CANCEL]
+Annuller
+
+[BUTTON_YES]
+Ja
+
+[BUTTON_NO]
+Nej
+
+[NEW_PLANT]
+DU HAR FÅET EN NY PLANTE!
+
+[NEXT_LEVEL_BUTTON]
+NÆSTE BANE!
+
+[CONTINUE_BUTTON]
+Fortsæt
+
+[VIEW_ALMANAC_BUTTON]
+Se leksikon
+
+[MAIN_MENU_BUTTON]
+Hovedmenu
+
+[AWARD_MAIN_MENU_BUTTON]
+HOVEDMENU
+
+[REPICK_BUTTON]
+Vælg igen
+
+[SHOVEL]
+Skovl
+
+[GOT_SHOVEL]
+Du har fået skovlen!
+
+[SHOVEL_DESCRIPTION]
+Lader dig grave en plante op
+så der bliver plads til
+en anden plante
+
+[FOUND_NOTE]
+Du fandt en besked:
+
+[SUBURBAN_ALMANAC]
+Forstadens leksikon
+
+[FOUND_SUBURBAN_ALMANAC]
+Du fandt forstadens leksikon!
+
+[SUBURBAN_ALMANAC_DESCRIPTION]
+Holder styr på alle de planter og zombier, du møder
+
+[KEYS]
+Crazy Daves bilnøgle
+
+[FOUND_KEYS]
+Du fandt Crazy Daves bilnøgle!
+
+[KEYS_DESCRIPTION]
+Nu kan du besøge
+Crazy Daves butik!
+
+[VASE]
+Mystisk vase
+
+[FOUND_VASE]
+Du fandt en mystisk vase!
+
+[VASE_DESCRIPTION]
+Nu kan du spille
+Vaseknuser-tilstand!
+
+[WATERING_CAN]
+Vandkande
+
+[FOUND_WATERING_CAN]
+Du fandt en vandkande!
+
+[WATERING_CAN_DESCRIPTION]
+Nu kan du spille
+Zen-have-tilstand!
+
+[TACO]
+Taco
+
+[FOUND_TACO]
+Du fandt en taco!
+
+[TACO_DESCRIPTION]
+Hvad vil du dog gøre med en taco?
+
+[WATERING_CAN_TOOLTIP]
+vand en plante
+
+[FERTILIZER_TOOLTIP]
+gød en plante
+
+[TREE_FERTILIZER_TOOLTIP]
+giv træet næring
+
+[BUG_SPRAY_TOOLTIP]
+sprøjt mod insekter
+
+[PHONOGRAPH_TOOLTIP]
+spil musik for en plante
+
+[CHOCOLATE_TOOLTIP]
+chokolade
+
+[GLOVE_TOOLTIP]
+flyt en plante
+
+[MONEY_SIGN_TOOLTIP]
+sælg en plante
+
+[WHEELBARROW_TOOLTIP]
+holder en plante under transport
+
+[NEXT_GARDEN_TOOLTIP]
+besøg en anden have
+
+[SHOVEL_TOOLTIP]
+fjern en plante
+
+[BEGHOULED_REPEATER_UPGRADE_TOOLTIP]
+Opgradér alle dine ærteskytter til dobbeltærteskytter
+
+[BEGHOULED_FUMESHROOM_UPGRADE_TOOLTIP]
+Opgradér alle dine pufsvampe til gassvampe
+
+[BEGHOULED_TALLNUT_UPGRADE_TOOLTIP]
+Opgradér alle dine valnødder til højvalnødder
+
+[BEGHOULED_SHUFFLE_TOOLTIP]
+Bland planterne
+
+[BEGHOULED_CRATER_TOOLTIP]
+Fyld krateret igen
+
+[BEGHOULED_SEED_ALREADY_PURCHASED]
+Købt
+
+[BEGHOULED_NO_CRATERS]
+Ingen kratere at fylde
+
+[FREE_PLANTING_CHEAT]
+Snydekode til gratis plantning
+
+[WAITING_FOR_SEED]
+genoplader...
+
+[NOT_ENOUGH_SUN]
+ikke nok solenergi
+
+[REQUIRES_REPEATER]
+kræver dobbeltærteskytte
+
+[REQUIRES_MELONPULT]
+kræver melonkatapult
+
+[REQUIRES_SUNFLOWER]
+kræver solsikke
+
+[REQUIRES_SPIKEWEED]
+kræver piggræs
+
+[REQUIRES_KERNELPULTS]
+kræver 2 majskatapulter
+
+[REQUIRES_MAGNETSHROOM]
+kræver magnetsvamp
+
+[REQUIRES_FUMESHROOM]
+kræver gassvamp
+
+[REQUIRES_LILY_PAD]
+kræver åkandeblad
+
+[WAITING_TO_REFRESH]
+venter på genopladning
+
+[CLICK_TO_VIEW]
+klik for at se
+
+[LETS_ROCK_BUTTON]
+SÅ KØRER VI!
+
+[VIEW_LAWN]
+SE PLÆNEN
+
+[ALMANAC_BUTTON]
+LEKSIKON
+
+[SHOP_BUTTON]
+BUTIK
+
+[CLOSE_BUTTON]
+LUK
+
+[ALMANAC_INDEX]
+LEKSIKONETS INDHOLD
+
+[VIEW_PLANTS]
+Se planter
+
+[VIEW_ZOMBIES]
+Se zombier
+
+[BACK_TO_MENU]
+Tilbage til menuen
+
+[ROLL_CREDITS]
+Vis rulleteksterne!
+
+[PAGE_X]
+SIDE {PAGE}
+
+[RESTART_BUTTON]
+Start forfra
+
+[RESTART_LABEL]
+START FORFRA
+
+[NEW_GAME_BUTTON]
+Nyt spil
+
+[LEAVE_BUTTON]
+FORLAD
+
+[QUIT_BUTTON]
+Afslut
+
+[REGISTER_BUTTON]
+Registrer
+
+[QUIT_MESSAGE]
+Er du sikker på, at du vil 
+afslutte spillet?
+
+[QUIT_HEADER]
+Afslut
+
+[AWW_YEAH_BUTTON]
+ÅH JA!
+
+[NAH_BUTTON]
+NEJ TAK!
+
+[MORE_SEEDS_HEADER]
+Flere frø?
+
+[MORE_SEEDS_BODY]
+Vil du gerne kunne plante flere slags frø?
+
+[STORE_NEXT_LEVEL_BUTTON]
+NÆSTE BANE
+
+[STORE_MAIN_MENU_BUTTON]
+HOVEDMENU
+
+[STORE_BACK_TO_GAME]
+TILBAGE
+
+[STORE_BACK_TO_ZEN]
+TILBAGE
+
+[SEED_CHOOSER_UPGRADE_WARNING]
+Er du sikker på, at du vil bruge {UPGRADE_TO} uden {UPGRADE_FROM}?
+
+[SEED_CHOOSER_SEEING_STARS_WARNING]
+Er du sikker på, at du vil spille denne bane uden stjernefrugt?
+
+[SEED_CHOOSER_LILY_WARNING]
+Er du sikker på, at du vil spille denne bane uden åkandeblade?
+
+[SEED_CHOOSER_ART_WALLNUT_WARNING]
+Er du sikker på, at du vil spille denne bane uden valnødder?
+
+[SEED_CHOOSER_ART_2_WARNING]
+Er du sikker på, at du vil spille denne bane uden frø til stjernefrugt, paraplyblade og valnødder?
+
+[SEED_CHOOSER_FLYER_WARNING]
+Du har ikke valgt nogen planter, der kan bekæmpe ballon-zombier. Er du sikker på, at du vil fortsætte?
+
+[SEED_CHOOSER_SUN_WARNING]
+Du har ikke valgt nogen planter, der producerer solenergi. Er du sikker på, at du vil fortsætte?
+
+[SEED_CHOOSER_NIGHT_SUN_WARNING]
+Nu hvor det er nat, har du mere end nogensinde brug for solsikker. Er du sikker på, at du vil spille banen uden dem?
+
+[SEED_CHOOSER_PUFFSHROOM_WARNING]
+Denne bane bliver ekstremt svær uden pufsvampe. Er du sikker på, at du vil fortsætte uden dem?
+
+[SEED_CHOOSER_POOL_WARNING]
+Er du sikker på, at du vil spille denne bane uden vandplanter?
+
+[SEED_CHOOSER_ROOF_WARNING]
+Er du sikker på, at du vil spille denne bane uden blomsterkrukker?
+
+[ADVICE_ALMOST_THERE]
+Næsten i mål!
+
+[ADVICE_BEGHOULED_ALMOST_THERE]
+5 grupper tilbage!
+
+[ZOMBIQUARIUM_SNORKEL_TOOLTIP]
+Køb snorkelzombie
+
+[ZOMBIQUARIUM_TROPHY_TOOLTIP]
+Køb trofæ
+
+[ADVICE_ZOMBIQUARIUM_CLICK_TO_FEED]
+Klik på akvariet for at fodre zombierne
+
+[ADVICE_ZOMBIQUARIUM_COLLECT_SUN]
+Saml {SCORE} solenergi for at gennemføre banen
+
+[ZOMBIQUARIUM_DEATH_MESSAGE]
+Alle dine zombiekæledyr er omkommet!
+
+[I_ZOMBIE_DEATH_MESSAGE]
+Du har mistet alle dine zombier!
+
+[ADVICE_ZOMBIQUARIUM_CLICK_TROPHY]
+Klik på trofæet for at gennemføre banen!
+
+[ADVICE_ZOMBIQUARIUM_BUY_SNORKEL]
+Klik for at købe flere snorkelzombier!
+
+[TRY_AGAIN]
+Prøv igen
+

@@ -1,0 +1,468 @@
+[ONE_FLAG]
+1 flag
+
+[COUNT_FLAGS]
+{COUNT} flag
+
+[SURVIVAL_DEATH_MESSAGE]
+Du overlevede i {FLAGS}
+før du led en
+GRUFULD ZOMBIEDØD!!!
+
+[ENDLESS_PUZZLE_DEATH_MESSAGE]
+Du nåede en række på {STREAK}
+
+[ENDLESS_STREAK]
+Række: {STREAK}
+ 
+[LEVEL]
+Bane
+
+[GAME_OVER]
+SPILLET ER SLUT
+
+[PICK_AREA]
+Overlevelse
+
+[PICK_CHALLENGE]
+Minispil
+
+[ONE_MORE_CHALLENGE_TOOLTIP]
+Gennemfør 1 minispil mere for at låse op
+
+[ONE_MORE_SCARY_POTTER_TOOLTIP]
+Vind 1 Vasebryder-trofæ mere for at låse op
+
+[ONE_MORE_IZOMBIE_TOOLTIP]
+Vind 1 Jeg, zombie-trofæ mere for at låse op
+
+[ONE_MORE_SURVIVAL_TOOLTIP]
+Vind 1 overlevelsestrofæ mere for at låse op
+
+[10_SURVIVAL_TOOLTIP]
+Vind 10 overlevelsestrofæer for at låse op
+
+[FINISH_ADVENTURE_TOOLTIP]
+Gennemfør eventyrtilstand for at låse op
+
+[SURVIVAL_DAY_NORMAL]
+Overlevelse: Dag
+
+[SURVIVAL_NIGHT_NORMAL]
+Overlevelse: Nat
+
+[SURVIVAL_POOL_NORMAL]
+Overlevelse: Pool
+
+[SURVIVAL_FOG_NORMAL]
+Overlevelse: Tåge
+
+[SURVIVAL_ROOF_NORMAL]
+Overlevelse: Tag
+
+[SURVIVAL_DAY_HARD]
+Overlevelse: Dag (Svær)
+
+[SURVIVAL_NIGHT_HARD]
+Overlevelse: Nat (Svær)
+
+[SURVIVAL_POOL_HARD]
+Overlevelse: Pool (Svær)
+
+[SURVIVAL_FOG_HARD]
+Overlevelse: Tåge (Svær)
+
+[SURVIVAL_ROOF_HARD]
+Overlevelse: Tag (Svær)
+
+[SURVIVAL_DAY_ENDLESS]
+Overlevelse: Dag (Endeløs)
+
+[SURVIVAL_NIGHT_ENDLESS]
+Overlevelse: Nat (Endeløs)
+
+[SURVIVAL_POOL_ENDLESS]
+Overlevelse: Endeløs
+
+[SURVIVAL_FOG_ENDLESS]
+Overlevelse: Tåge (Endeløs)
+
+[SURVIVAL_ROOF_ENDLESS]
+Overlevelse: Tag (Endeløs)
+
+[WAR_AND_PEAS]
+Zombotanik
+
+[SEEING_STARS]
+Stjernestund
+
+[CAN_YOU_DIG_IT]
+Kan du grave det?
+
+[SCARY_POTTER_1]
+Vaseknuser
+
+[SCARY_POTTER_2]
+Til venstre
+
+[SCARY_POTTER_3]
+Den tredje vase
+
+[SCARY_POTTER_4]
+Kædereaktion
+
+[SCARY_POTTER_5]
+M er for metal
+
+[SCARY_POTTER_6]
+Skræmmende Potter
+
+[SCARY_POTTER_7]
+Hokey Pokey
+
+[SCARY_POTTER_8]
+Endnu en kædereaktion
+
+[SCARY_POTTER_9]
+Vasernes es
+
+[SCARY_POTTER_10]
+Vaseknuser: Ansigtsknuser
+
+[SCARY_POTTER_ENDLESS]
+Vaseknuser: Endeløs
+
+[SCARY_POTTER]
+Gåde
+
+[PORTAL_COMBAT]
+Portal-kamp
+
+[BEGHOULED]
+Beghouled
+
+[BEGHOULED_TWIST]
+Beghouled Twist
+
+[WALL_NUT_BOWLING]
+Valnøddebowling
+
+[GRAVE_DANGER]
+Gravfarligt
+
+[I_ZOMBIE]
+Jeg, zombie
+
+[WHACK_A_ZOMBIE]
+Slå en zombie
+
+[SLOT_MACHINE]
+Spilleautomat
+
+[ZOMBIQUARIUM]
+Zombikvarium
+
+[LITTLE_TROUBLE]
+Store problemer, lille zombie
+
+[BOBSLED_BONANZA]
+Bobslædefest
+
+[ITS_RAINING_SEEDS	]
+Det regner med frø	
+
+[INVISIGHOUL]
+Usynlig-spøgelse
+
+[DARK_STORMY_NIGHT]
+Mørk og stormfuld nat
+
+[AIR_RAID]
+Luftangreb
+
+[COLUMN_AS_YOU_SEE_EM]
+Kolonner, som du ser dem
+
+[BUNGEE_BLITZ]
+Bungeeblitz
+
+[POGO_PARTY]
+Pogo-fest
+
+[FINAL_BOSS]
+Dr. Zomboss' hævn
+
+[LAST_STAND]
+Sidste skanse
+
+[ART_CHALLENGE_WALL_NUT]
+Kunstudfordring: Valnød
+
+[SUNNY_DAY]
+Solskinsdag
+
+[UNSODDED]
+Uden græs
+
+[BIG_TIME]
+Den helt store
+
+[ART_CHALLENGE_SUNFLOWER]
+Kunstudfordring: Solsikke
+
+[ZOMBIES_ON_SPEED]
+Hurtig zombie, kvik zombie
+
+[ICE_LEVEL]
+Isbane
+
+[ZEN_GARDEN]
+Zenhave	
+
+[HIGH_GRAVITY]
+Høj tyngdekraft
+
+[WAR_AND_PEAS_2]
+Zombotanik 2
+
+[I_ZOMBIE_TOO]
+Jeg, zombie 2
+
+[WALL_NUT_BOWLING_EXTREME]
+Valnøddebowling 2
+
+[BEAT_GAME_MESSAGE1]
+Du fik den gyldne solsikketrofæ
+
+[BEAT_GAME_MESSAGE2]
+Wow! Du har fået alle trofæerne! Nu er det tid til at spille flere endeløse spil! Og glem ikke at passe din zenhave!
+
+[GOLD_SUNFLOWER_TROPHY]
+Gyldent solsikketrofæ
+
+[SILVER_SUNFLOWER_TROPHY]
+Sølvfarvet solsikketrofæ
+
+[WIN_MESSAGE1]
+Du har besejret bosszombien!
+
+[WIN_MESSAGE2]
+Tillykke! Du har med stor triumf afværget zombieangrebet! Din græsplæne er sikker ... indtil videre!
+
+[GOT_TROPHY]
+Du fik et trofæ!
+
+[TROPHY]
+Trofæ
+
+[NOW_YOU_CAN_PLAY]
+Nu kan du spille
+{MODE}!
+
+[CHALLENGE_UNLOCKED]
+Du har låst op for et nyt minispil!
+
+[GET_MORE_TROPHIES]
+Bliv ved med at samle trofæer!
+
+[SUN]
+Sol
+
+[MATCHES]
+Tændstikker
+
+[MODE_LOCKED]
+Låst!
+
+[SURVIVAL_LOCKED_MESSAGE]
+Spil mere af eventyrtilstanden for at 
+låse op for overlevelsestilstand.
+
+[MINIGAME_LOCKED_MESSAGE]
+Spil mere af eventyrtilstanden for at 
+låse op for minispillene.
+
+[PUZZLE_LOCKED_MESSAGE]
+Spil mere af eventyrtilstanden for at 
+låse op for gådetilstand.
+
+[CLICK_TO_START]
+KLIK FOR AT STARTE!
+
+[LOADING]
+INDLÆSER...
+
+[CREDITS]
+Medvirkende
+
+[BACK_TO_GAME]
+Tilbage til spillet
+
+[RESTART_LEVEL_BUTTON]
+Genstart bane
+
+[ADVICE_ZEN_GARDEN_PICK_UP_WATER]
+Klik på vandkanden for at samle den op!
+
+[ADVICE_ZEN_GARDEN_WATER_PLANT]
+Klik på en spire for at vande den!	
+
+[ADVICE_ZEN_GARDEN_KEEP_WATERING]
+Bliv ved med at vande dine planter, når de bliver tørstige!
+
+[ADVICE_ZEN_GARDEN_VISIT_STORE]
+Dine planter skal bruge gødning for at vokse!
+Besøg butikken for at hente noget gødning!
+
+[ADVICE_ZEN_GARDEN_FERTILIZE]
+Gød nu dine planter, og se dem vokse!
+
+[ADVICE_ZEN_GARDEN_NEED_MORE_FERTILIZER]
+Du skal gøde begge planter!
+Her, få noget mere gødning!
+
+[ADVICE_ZEN_GARDEN_CONTINUE_ADVENTURE]
+Det er alt, hvad du kan gøre lige nu!
+Kom tilbage senere, når dine planter har brug for mere pleje!
+
+[CHOOSE_SEED_TO_COPY]
+Vælg et frø, der skal kopieres
+
+[NOT_ALLOWED_ON_THIS_LEVEL]
+Ikke tilladt på denne bane
+
+[FULL_VERSION_ONLY]
+Kun i fuldversionen
+
+[GET_FULL_VERSION_BODY]
+Køb fuldversionen af dette spil 
+for at bruge denne fantastiske plante!
+
+[GET_FULL_VERSION_TITLE]
+Kun fuldversionen
+
+[BUY_PVZ_TITLE]
+Få fuldversionen
+
+[BUY_PVZ_BODY]
+Vil du købe fuldversionen?
+
+[GET_FULL_VERSION_YES_BUTTON]
+Få fuldversionen
+
+[GET_FULL_VERSION_NO_BUTTON]
+Måske senere
+
+[FULL_VERSION_TO_BUY]
+Denne genstand er kun tilgængelig i 
+spillets fulde version!
+
+[CRAZY_DAVE_WANTS]
+Skøre Dave valgte denne
+
+[NOCTURNAL_WARNING]
+Nataktiv – sover om dagen
+
+[NOT_RECOMMENDED_FOR_LEVEL]
+Anbefales ikke til banen
+
+[CHOOSE_YOUR_PLANTS]
+VÆLG DINE PLANTER!
+
+[ADVICE_USE_SHOVEL_ON_POTS]
+Klik på en vase for at se, hvad der er indeni!
+
+[ADVICE_DESTROY_POTS_TO_FINISH_LEVEL]
+Ødelæg alle zombier og vaser for at gennemføre banen!
+
+[SUBURBAN_ALMANAC_INDEX]
+Forstadsalmanak – Indeks
+
+[SUBURBAN_ALMANAC_PLANTS]
+Forstadsalmanak – Planter
+
+[SUBURBAN_ALMANAC_ZOMBIES]
+Forstadsalmanak – Zombier
+
+[ZOMBATAR_DELETE_HEADER]
+Slet denne Zombatar?
+
+[ZOMBATAR_DELETE_BODY]
+Er du sikker på, at du vil slette denne Zombatar?
+
+[ZOMBATAR_DELETE_BUTTON]
+SLET
+
+[ZOMBATAR_DELETE_BUTTON2]
+SLET?
+
+[ZOMBATAR_SAVE_BODY]
+Din Zombatar er blevet gemt på dit skrivebord som en jpg-billedfil!
+
+[ZOMBATAR_SAVE_BUTTON]
+OK
+
+[ZOMBATAR_COLOR_NOT_APPLICABLE]
+Farve kan ikke anvendes på denne genstand.
+
+[ZOMBATAR_COLOR_ITEM_NOT_CHOSEN]
+Vælg venligst en Zombatar-genstand ovenfor.
+
+[ZOMBATAR_FINISHED_WARNING_HEADER]
+ADVARSEL!
+
+[ZOMBATAR_FINISHED_WARNING_TEXT]
+Er du sikker på, at du er færdig med at lave din Zombatar?
+Hvis du ønsker at foretage ændringer, efter du klikker på "Færdig"
+nedenfor, skal du begynde forfra.
+
+[ZOMBATAR_FINISHED_BUTTON_TEXT]
+Sådan. Giv mig den!
+
+[ZOMBATAR_BACK_BUTTON_TEXT]
+Vent! Jeg er ikke færdig!
+
+[ZOMBATAR_START_TEXT]
+Vælg din zombies 
+hudfarve nedenfor for at komme i gang.
+
+Når du er klar til at ændre andre dele,
+skal du klikke på kategorierne til venstre.
+
+
+[ZOMBATAR_FEATURE_DESCRIPTION]
+Beskrivelse af Zombatar-afsnittet kommer her!
+
+[ZOMBATAR_ACCEPT_ULA_BUTTON]
+Jeg accepterer
+
+
+
+[STORE_PAGE]
+Side {PAGE} af {NUM_PAGES}
+
+[STORE_UPGRADE_SLOTS]
+{SLOTS}
+pladser
+
+[ADVICE_I_ZOMBIE_EAT_ALL_BRAINS]
+Spis alle hjernerne for at klare banen!
+
+[ADVICE_I_ZOMBIE_PLANTS_NOT_REAL]
+Bliv ikke forskrækket
+Planterne er ikke virkelige
+
+[SQUIRRELS]
+Egern
+
+[ADVICE_SQUIRRELS_ONE_LEFT]
+{COUNT} egern tilbage!
+
+[ADVICE_SQUIRRELS_LEFT]
+{COUNT} egern tilbage!
+
+[ADVICE_SQUIRREL_ZOMBIE]
+Åh nej! Find alle egernene, før 
+zombien når frem til dit hus!
+
+[BRAINS]

@@ -1,0 +1,322 @@
+[LOCALE]
+Danish_Denmark
+[CURRENCY_SYMBOL]
+$
+[CURRENCY_STRING]
+{CURRENCY_SYMBOL}{AMOUNT}
+[PEASHOOTER]
+Ærteskytte
+[PEASHOOTER_TOOLTIP]
+Skyder ærter mod fjenden
+[SUNFLOWER]
+Solsikke
+[SUNFLOWER_TOOLTIP]
+Giver dig ekstra sol
+[CHERRY_BOMB]
+Kirsebærbombe
+[CHERRY_BOMB_TOOLTIP]
+Sprænger alle zombier i et område i luften
+[WALL_NUT]
+Valnød
+[WALL_NUT_TOOLTIP]
+Holder zombierne tilbage og beskytter dine andre planter
+[REPEATER]
+Dobbeltærteskytte
+[REPEATER_TOOLTIP]
+Skyder to ærter ad gangen
+[POTATO_MINE]
+Kartoffelmine
+[POTATO_MINE_TOOLTIP]
+Eksploderer ved berøring, men skal først bruge tid på at blive armeret
+[SNOW_PEA]
+Sneært
+[SNOW_PEA_TOOLTIP]
+Skyder frosne ærter, der skader og gør fjenden langsommere
+[CHOMPER]
+Slugger
+[CHOMPER_TOOLTIP]
+Slug­er en zombie hel, men er sårbar, mens den tygger
+[PUFF_SHROOM]
+Pufsvamp
+[PUFF_SHROOM_TOOLTIP]
+Skyder sporer på kort afstand mod fjenden
+[SUN_SHROOM]
+Solsvamp
+[SUN_SHROOM_TOOLTIP]
+Giver små sole i begyndelsen og normale sole senere
+[FUME_SHROOM]
+Gassvamp
+[FUME_SHROOM_TOOLTIP]
+Skyder gas, der kan trænge gennem sikkerhedsdøre
+[GRAVE_BUSTER]
+Gravæder
+[GRAVE_BUSTER_TOOLTIP]
+Plant den på en grav for at fjerne graven
+[HYPNO_SHROOM]
+Hypnosesvamp
+[HYPNO_SHROOM_TOOLTIP]
+Får en zombie til at kæmpe for dig
+[SCAREDY_SHROOM]
+Bangebuksesvamp
+[SCAREDY_SHROOM_TOOLTIP]
+Langtrækkende skytte, der gemmer sig, når fjender kommer tæt på
+[ICE_SHROOM]
+Issvamp
+[ICE_SHROOM_TOOLTIP]
+Lam­mer midlertidigt alle zombier på skærmen
+[DOOM_SHROOM]
+Dommedagssvamp
+[DOOM_SHROOM_TOOLTIP]
+Udsletter et stort område og efterlader et krater
+[LILY_PAD]
+Åkandeblad
+[LILY_PAD_TOOLTIP]
+Lader dig plante landplanter oven på den
+[SQUASH]
+Squash
+[SQUASH_TOOLTIP]
+Mas­er zombier
+[THREEPEATER]
+Trippelærteskytte
+[THREEPEATER_TOOLTIP]
+Skyder ærter i tre baner
+[TANGLE_KELP]
+Filtret tang
+[TANGLE_KELP_TOOLTIP]
+Vandplante, der trækker en zombie ned under vandet
+[JALAPENO]
+Jalapeño
+[JALAPENO_TOOLTIP]
+Udsletter alle zombier i en hel bane
+[SPIKEWEED]
+Piggræs
+[SPIKEWEED_TOOLTIP]
+Punkterer dæk og skader zombier, der træder på den
+[TORCHWOOD]
+Fak­keltræ
+[TORCHWOOD_TOOLTIP]
+Ærter, der passerer gennem den, bliver til ildkugler
+[TALL_NUT]
+Højvalnød
+[TALL_NUT_TOOLTIP]
+En solid mur, der ikke kan springes over
+[SEA_SHROOM]
+Havsvamp
+[SEA_SHROOM_TOOLTIP]
+Vandplante, der skyder sporer på kort afstand
+[PLANTERN]
+Lanterneplante
+[PLANTERN_TOOLTIP]
+Oplyser et område, så du kan se gennem tågen
+[CACTUS]
+Kaktus
+[CACTUS_TOOLTIP]
+Skyder pigge, der kan sprænge balloner
+[BLOVER]
+Vindblomst
+[BLOVER_TOOLTIP]
+Blæser alle ballon-zombier og tågen væk
+[SPLIT_PEA]
+Delingsært
+[SPLIT_PEA_TOOLTIP]
+Skyder ærter både fremad og bagud
+[STARFRUIT]
+Stjernefrugt
+[STARFRUIT_TOOLTIP]
+Skyder stjerner i 5 retninger
+[PUMPKIN]
+Græskar
+[PUMPKIN_TOOLTIP]
+Beskytter planter, der befinder sig inde i dens skal
+[MAGNET_SHROOM]
+Magnetsvamp
+[MAGNET_SHROOM_TOOLTIP]
+Fjerner hjelme og andre metalgenstande fra zombier
+[CABBAGE_PULT]
+Kålkatapult
+[CABBAGE_PULT_TOOLTIP]
+Kaster kål efter fjenden
+[FLOWER_POT]
+Blomsterkrukke
+[FLOWER_POT_TOOLTIP]
+Lader dig plante på taget
+[KERNEL_PULT]
+Majskatapult
+[KERNEL_PULT_TOOLTIP]
+Kaster majskorn og smør efter zombier
+[GARLIC]
+Hvidløg
+[GARLIC_TOOLTIP]
+Leder zombierne over i andre baner
+[UMBRELLA_LEAF]
+Paraplyblad
+[UMBRELLA_LEAF_TOOLTIP]
+Beskytter nærliggende planter mod bungee-zombier og katapulter
+[MARIGOLD]
+Morgenfrue
+[MARIGOLD_TOOLTIP]
+Giver dig sølv- og guldmønter
+[MELON_PULT]
+Melonkatapult
+[MELON_PULT_TOOLTIP]
+Gør stor skade på grupper af zombier
+[GATLING_PEA]
+Gatlingært
+[GATLING_PEA_TOOLTIP]
+Skyder fire ærter ad gangen
+(kræver dobbeltærteskytte)
+[TWIN_SUNFLOWER]
+Dobbeltsolsikke
+[TWIN_SUNFLOWER_TOOLTIP]
+Giver dobbelt så meget sol som en solsikke
+(kræver solsikke)
+[GLOOM_SHROOM]
+Mørkesvamp
+[GLOOM_SHROOM_TOOLTIP]
+Udsender kraftig giftgas i området omkring sig
+(kræver gassvamp)
+[CATTAIL]
+Dunhammer
+[CATTAIL_TOOLTIP]
+Angriber alle baner og skyder ballon-zombier ned
+(kræver åkandeblad)
+[WINTER_MELON]
+Vintermelon
+[WINTER_MELON_TOOLTIP]
+Gør stor skade på grupper af zombier og gør dem langsommere
+(kræver melonkatapult)
+[GOLD_MAGNET]
+Guldmagnet
+[GOLD_MAGNET_TOOLTIP]
+Samler mønter og diamanter for dig
+(kræver magnetsvamp)
+[SPIKEROCK]
+Pigsten
+[SPIKEROCK_TOOLTIP]
+Punkterer flere dæk og skader zombier, der går hen over den
+(kræver piggræs)
+[COB_CANNON]
+Majskolbekanon
+[COB_CANNON_TOOLTIP]
+Klik for at affyre dødbringende majskolber
+(kræver 2 majskatapulter)
+[IMITATER]
+Imitator
+[IMITATER_TOOLTIP]
+Lader dig have to af den samme plante
+[COFFEE_BEAN]
+Kaffebønne
+[COFFEE_BEAN_TOOLTIP]
+Plant den på en svamp for at vække den
+[EXPLODE_O_NUT]
+Eksplosivvalnød
+[EXPLODE_O_NUT_TOOLTIP]
+Eksploderer ved berøring
+[GIANT_WALLNUT]
+Kæmpevalnød
+[SPROUT]
+Spire
+[MARIGOLD_SPROUT]
+Morgenfruespire
+[ZOMBIE]
+Zombie
+[FLAG_ZOMBIE]
+Flagzombie
+[CONEHEAD_ZOMBIE]
+Keglehovedzombie
+[BUCKETHEAD_ZOMBIE]
+Spandhovedzombie
+[POLE_VAULTING_ZOMBIE]
+Stangspringerzombie
+[NEWSPAPER_ZOMBIE]
+Aviszombie
+[SCREEN_DOOR_ZOMBIE]
+Sikkerhedsdørszombie
+[FOOTBALL_ZOMBIE]
+Fodboldzombie
+[DANCING_ZOMBIE]
+Dansezombie
+[BACKUP_DANCER]
+Backupdanser
+[DUCKY_TUBE_ZOMBIE]
+Baderingzombie
+[SNORKEL_ZOMBIE]
+Snorkelzombie
+[ZOMBONI]
+Zomboni
+[ZOMBIE_BOBSLED_TEAM]
+Zombieslædehold
+[DOLPHIN_RIDER_ZOMBIE]
+Delfinrytterzombie
+[JACK_IN_THE_BOX_ZOMBIE]
+Overraskelsesæskezombie
+[BALLOON_ZOMBIE]
+Ballonzombie
+[DIGGER_ZOMBIE]
+Graverzombie
+[POGO_ZOMBIE]
+Pogozombie
+[ZOMBIE_YETI]
+Zombie-yeti
+[BUNGEE_ZOMBIE]
+Bungeezombie
+[LADDER_ZOMBIE]
+Stigezombie
+[CATAPULT_ZOMBIE]
+Katapultzombie
+[GARGANTUAR]
+Gargantuar
+[REDEYED_GARGANTUAR]
+Gigagargantuar
+[IMP]
+Imp
+[BOSS]
+Dr. Zomboss
+[DOG_WALKING_ZOMBIE]
+Hundelufterzombie
+[DOG_ZOMBIE]
+Hundezombie
+[PROPELLER_ZOMBIE]
+Propelzombie
+[PEASHOOTER_DESCRIPTION_HEADER]
+Ærteskytterne er din første forsvarslinje. De skyder ærter mod de angribende zombier.
+[PEASHOOTER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal
+{SHORTLINE}
+{FLAVOR}Hvordan kan én enkelt plante vokse og skyde så mange ærter så hurtigt? Ærteskytten siger:
+"Hårdt arbejde, engagement og en sund, velafbalanceret morgenmad bestående af sollys og fiberrig
+kuldioxid gør det hele muligt."
+[SUNFLOWER_DESCRIPTION_HEADER]
+Solsikker er uundværlige, hvis du vil producere ekstra sol. Prøv at plante så mange, du kan!
+[SUNFLOWER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Solproduktion:{STAT} normal
+{SHORTLINE}
+{FLAVOR}Solsikken kan ikke lade være med at vippe i takt til musikken. Hvilken musik? Jo, Jordens egen livgivende jazzrytme, der pulserer med en frekvens, som kun solsikken kan høre.
+[WALL_NUT_DESCRIPTION_HEADER]
+Valnødder har hårde skaller, som du kan bruge til at beskytte dine andre planter.
+[WALL_NUT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} høj
+{SHORTLINE}
+{FLAVOR}"Folk spekulerer på, hvordan jeg har det med konstant at blive tygget på af zombier," siger Valnød.
+"Hvad de ikke forstår, er, at mine begrænsede sanser kun registrerer en slags kilden, som en afslappende rygmassage."
+[CHERRY_BOMB_DESCRIPTION_HEADER]
+Kirsebærbomber kan sprænge alle zombier i et område i luften. De har en kort lunte, så plant dem tæt på zombierne.
+[CHERRY_BOMB_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} enorm
+{KEYWORD}Rækkevidde:{STAT} alle zombier i et mellemstort område
+{KEYWORD}Anvendelse:{STAT} engangsbrug, øjeblikkelig
+{SHORTLINE}
+{FLAVOR}"Jeg vil eksplodere," siger Kirsebær nr. 1. "Nej, lad os detonere i stedet!" siger
+hans bror, Kirsebær nr. 2. Efter grundige overvejelser bliver de enige om at eksplodetonere.
+[POTATO_MINE_DESCRIPTION_HEADER]
+Kartoffelminer har et kraftigt brag, men de skal bruge lidt tid på at blive armeret. Du bør plante dem foran zombierne. De eksploderer ved berøring.
+[POTATO_MINE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} enorm
+{KEYWORD}Rækkevidde:{STAT} alle zombier i et lille område
+{KEYWORD}Anvendelse:{STAT} engangsbrug, forsinket aktivering
+{SHORTLINE}

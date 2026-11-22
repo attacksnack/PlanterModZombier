@@ -1,0 +1,468 @@
+Hjerner spist
+
+[COST]
+Pris
+
+[WAIT_TIME]
+Genopladning
+
+[WAIT_TIME_SHORT]
+hurtig
+
+[WAIT_TIME_LONG]
+langsom
+
+[WAIT_TIME_VERY_LONG]
+meget langsom
+
+[ADVICE_PEASHOOTER_DIED]
+En af dine ærteskytter døde!
+Prøv at plante dem længere mod venstre!
+
+[ADVICE_FOUND_PLANT]
+Du fandt en plante til din zenhave!
+
+[ADVICE_FOUND_CHOCOLATE]
+Du fandt noget chokolade!
+Giv det til Stinky for at få ham til at bevæge sig hurtigere i et stykke tid!
+
+[ADVICE_STINKY_SLEEPING]
+Sneglen Stinky faldt i søvn! Klik for at vække ham!
+
+[START_ONSLAUGHT]
+Start stormløb
+
+[CONTINUE_ONSLAUGHT]
+Fortsæt stormløb
+
+[LAST_STAND_DEATH_MESSAGE]
+Du overlevede i {FLAGS}!!
+
+[SUCCESSFULLY_DEFENDED]
+Du forsvarede dig med succes i {FLAGS}
+
+[FLAGS_COMPLETED]
+{FLAGS} gennemført
+
+[I_ZOMBIE_1]
+Jeg, zombie
+
+[I_ZOMBIE_2]
+Jeg, zombie også
+
+[I_ZOMBIE_3]
+Kan du grave det?
+
+[I_ZOMBIE_4]
+Helt skør
+
+[I_ZOMBIE_5]
+Død zeppelin
+
+[I_ZOMBIE_6]
+Jeg smadrer!
+
+[I_ZOMBIE_7]
+Zombiedans
+
+[I_ZOMBIE_8]
+Et hit efter tre slag
+
+[I_ZOMBIE_9]
+Alle jeres hjerner tilhører os
+
+[I_ZOMBIE_ENDLESS]
+Jeg, zombie – uendelig
+
+[UNLOCKED_I_ZOMBIE_LEVEL]
+Du har låst op for en ny
+Jeg, zombie-bane!
+
+[UNLOCKED_VASEBREAKER_LEVEL]
+Du har låst op for en ny
+Vaseknuser-bane!
+
+[EARN_MORE_TROPHIES_FOR_ENDLESS_SURVIVAL]
+Vind flere overlevelsespokaler for at låse op for den sidste overlevelsestilstand
+
+[YOU_UNLOCKED_A_SURVIVAL]
+Du har låst op for en ny overlevelsestilstand!
+
+[YOU_UNLOCKED_ENDLESS_SURVIVAL]
+Du har låst op for uendelig overlevelsestilstand!
+
+[NOT_ENCOUNTERED_YET]
+???
+
+[CHALLENGE_DISABLED_BUTTON]
+?
+
+[NOT_ENCOUNTERED_YET_DESCRIPTION]
+(ikke mødt endnu)
+
+[CLICK_TO_CONTINUE]
+Klik for at fortsætte
+
+[SOLD_OUT]
+Udsolgt
+
+[COMING_SOON]
+Kommer snart
+
+[ZEN_ONLY_AQUATIC_PLANTS]
+Du kan kun have vandplanter her. Det er under vand!
+
+[RESTART_LEVEL_HEADER]
+Genstart bane?
+
+[RESTART_PUZZLE_HEADER]
+Genstart puslespil?
+
+[RESTART_CHALLENGE_HEADER]
+Genstart udfordring?
+
+[RESTART_SURVIVAL_HEADER]
+Genstart overlevelse?
+
+[RESTART_LEVEL_BODY]
+Vil du prøve denne bane 
+igen fra begyndelsen?
+
+[RESTART_PUZZLE_BODY]
+Vil du prøve dette puslespil
+igen fra begyndelsen?
+
+[RESTART_CHALLENGE_BODY]
+Vil du prøve denne udfordring
+igen fra begyndelsen?
+
+[RESTART_SURVIVAL_BODY]
+Vil du prøve denne overlevelsesbane 
+igen fra begyndelsen?
+
+[SILVER_SUNFLOWER_TOOLTIP]
+Saml alle pokalerne i minispil, puslespil og overlevelse for at få den gyldne solsikkepokal!
+
+[GOLD_SUNFLOWER_TOOLTIP]
+Du har gennemført 
+eventyrtilstanden 1 gang!
+
+[GOLD_SUNFLOWER_TOOLTIP_PLURAL]
+Du har gennemført 
+eventyrtilstanden {COUNT} gange!
+
+[TREE_OF_WISDOM_1]
+Tak, fordi du fodrer mig! Bliv ved med at give mig mad, så giver jeg dig værdifuld information!
+
+[TREE_OF_WISDOM_2]
+Kødædere og valnødder fungerer utrolig godt sammen. Det er ikke så mærkeligt, når man tænker på, at de var bofæller på college.
+
+[TREE_OF_WISDOM_3]
+Hvis du nogensinde lytter til noget, jeg siger, så lyt til dette: Du skal have to kolonner med solsikker. Jeg mener det gravalvorligt.
+
+[TREE_OF_WISDOM_4]
+Snorkelzombier. Jeg hader dem. Hvordan klarer man dem? Med valnødder på åkandeblade, sådan!
+
+[TREE_OF_WISDOM_5]
+Psst! Prøv at skrive 'future', mens du spiller, for at opleve zombier ... fra FREMTIDEN!
+
+[TREE_OF_WISDOM_6]
+Hvor mange kirsebærbomber skal der til for at besejre en gargantuar? Her er et tip: Mere end én, færre end tre. Her er et mere tydeligt tip: To.
+
+[TREE_OF_WISDOM_7]
+Hvis du leder efter svampeplanter til din zenhave, har du større held med at spille på baner, hvor det er nat.
+
+[TREE_OF_WISDOM_8]
+Jeg ville ikke bekymre mig om at skade din græsplæne permanent med dødsrørhatte. Med tiden heler jorden af sig selv.
+
+[TREE_OF_WISDOM_9]
+Har du prøvet at klikke på blomsterne i hovedmenuen? Giv det et forsøg! Jeg venter her.
+
+[TREE_OF_WISDOM_10]
+Ifølge legenden spiser frosne zombier langsommere. Jeg kan fortælle dig, at legenden har ret.
+
+[TREE_OF_WISDOM_11]
+Har du hørt om den sky yetizombie? Nogle siger, at den kan lide at gemme sig, hvor der er kulsort.
+
+[TREE_OF_WISDOM_12]
+Hvad er billigere end gratis? Intet! Derfor er pufsvampe uundværlige på alle natbaner!
+
+[TREE_OF_WISDOM_13]
+Håber du på at finde vandplanter til din zenhave? Jeg vil vædde mit floem på, at du har størst held med at lede på poolbaner.
+
+[TREE_OF_WISDOM_14]
+Har du lagt mærke til, at gargantuarer nogle gange bruger ANDRE ZOMBIER til at smadre dine planter? Tja, hvad der nu virker.
+
+[TREE_OF_WISDOM_15]
+Sneglen Stinky elsker virkelig sin chokolade. Måske elsker han den lidt for meget, ved du? Han kan ikke sidde stille i en time, efter han har fået noget.
+
+[TREE_OF_WISDOM_16]
+Hvis du tror, at overlevelsestilstanden 'uendelig' kun giver poolplanter til din zenhave, så tro om igen! Den giver alle slags planter.
+
+[TREE_OF_WISDOM_17]
+Ofte spørger folk: Hvor finder man chokolade? Et bedre spørgsmål ville være: Hvor finder man IKKE chokolade? Det dukker op i alle spiltyper!
+
+[TREE_OF_WISDOM_18]
+Gravrydderne, hva'? Vælg dem kun, når du kan se grave i højre side af skærmen sammen med zombierne. Sådan gør jeg.
+
+[TREE_OF_WISDOM_19]
+Jeg har hørt, at spandhovedzombier kan tåle fem gange så mange slag som almindelige zombier.
+
+[TREE_OF_WISDOM_20]
+Jeg har hørt, at hvis man skriver 'mustache', sker der en frygtindgydende forvandling med de udøde!
+
+[TREE_OF_WISDOM_21]
+Gør flere sneærteskytter på række zombierne langsommere end én enkelt? Det triste, men sande svar er 'nej'.
+
+[TREE_OF_WISDOM_22]
+Du ved godt, at zombier kommer op af gravsten, ikke? Så hvad afholder dig fra at bruge gravryddere til at fjerne dem i overlevelse om natten? Er det stolthed?
+
+[TREE_OF_WISDOM_23]
+Hvis du vil vide, hvor lang en bane bliver, så tæl flagene på banemåleren. Så er du godt på vej.
+
+[TREE_OF_WISDOM_24]
+Tagrensere. Klassiske genstande. Jeg kan varmt anbefale dem. Det bedste ved dem? De giver dig en chance for at klare Pogo Party.
+
+[TREE_OF_WISDOM_25]
+Hvis du spekulerer på, om en hypnosvamp får en danserzombie til at tilkalde dansere, der hjælper dig, så sats alt på 'ja'.
+
+[TREE_OF_WISDOM_26]
+Tjen penge hurtigt! Ved at spille uendelig overlevelse! Send mig derefter dit bankkontonummer via e-mail!
+
+[TREE_OF_WISDOM_27]
+Man skulle tro, at fakkeltræer ville slukke sneærteskytter. Og det ville være rigtigt, for du er godt nok kvik, min ven.
+
+[TREE_OF_WISDOM_28]
+De afskyelige Zombotany-zombier! Hvem tror de, de er, når de skyder på dine planter? Godt, at valnødder kan stoppe dem fuldstændigt.
+
+[TREE_OF_WISDOM_29]
+Minispillene Pogo Party og Bobslædebonanza er virkelig, virkelig, virkelig svære. Vil du fjerne et af 'virkelig' fra beskrivelsen? Brug squashplanten.
+
+[TREE_OF_WISDOM_30]
+Lige når du troede, at jalapeñoer ikke kunne være mere nyttige, fortæller Visdommens Træ dig, at de også ødelægger Zomboniernes isspor! BANG!
+
+[TREE_OF_WISDOM_31]
+Når du har købt kopiplanten, kan du prøve at klikke på den lille tegning i øverste venstre hjørne af din almanak for at se opslaget om den.
+
+[TREE_OF_WISDOM_32]
+Antallet af mønter, du får i Valnøddebowling, afhænger af, hvor sej du er – målt på, hvor mange rikochetter du kan få ud af hver valnød.
+
+[TREE_OF_WISDOM_33]
+Bank venligst ikke på glasset! Eller gør det faktisk bare; højreklik i dit akvarie eller under Zombiekvariet for at gøre dine undervandsvæsner døve.
+
+[TREE_OF_WISDOM_34]
+Da jeg blot var et agern, sagde min bedstefar: 'Knægt, vaseknuser-puslespil er meget lettere, hvis du først knuser vaserne i højre side.' 
+
+[TREE_OF_WISDOM_35]
+Dansere i Jeg, zombie kan virke dyre, men i den rette situation er de hver en øre værd.
+
+[TREE_OF_WISDOM_36]
+Jeg havde en drøm. I den sprang dunhammerpigge balloner og sendte zombier ned på jorden. Jeg ved ikke, hvad det betyder.
+
+[TREE_OF_WISDOM_37]
+Det er stort set umuligt at dyrke vandplanter i din zenhave uden akvariehaven. Bare så du ved det.
+
+[TREE_OF_WISDOM_38]
+Graverzombier bryder naturens orden med deres underjordiske metoder. Det er kun fair at bruge magnetsvampe til at stjæle deres hakker.
+
+[TREE_OF_WISDOM_39]
+Hver dag bringer nye udfordringer og muligheder. Nå ja, og nye morgenfruer i Skøre Daves butik.
+
+[TREE_OF_WISDOM_40]
+Svampehaven! Hvad kan den bruges til? Absolut ingenting! Bortset fra at dyrke svampe, selvfølgelig.
+
+[TREE_OF_WISDOM_41]
+Træt? Deprimeret? Er stiger på højvalnødder ved at tage modet fra dig? En hurtig magnetsvamp fjerner dine bekymringer!
+
+[TREE_OF_WISDOM_42]
+Højvalnøddernes højde er berømt på grund af deres effektivitet mod delfinryttere og pogo-zombier.
+
+[TREE_OF_WISDOM_43]
+Sprængkraften fra en kirsebærbombe eller jalapeño er mere end nok til at slå en stige af en valnød.
+
+[TREE_OF_WISDOM_44]
+Det er fristende at give al din chokolade til sneglen Stinky. Han er sådan en chokoladegris. Men husk: Planterne i zenhaven kan også lide chokolade!
+
+[TREE_OF_WISDOM_45]
+Fakkeltræets ild er varmere end vrede, men Zombonier, skærmdøre, stiger og katapulter kan tåle varmen.
+
+[TREE_OF_WISDOM_46]
+Hvis du er afhængig af opgraderingsplanter i Uendelig overlevelse, skal du være meget opmærksom på, at de bliver dyrere, jo flere du har på græsplænen.
+
+[TREE_OF_WISDOM_47]
+Imp-zombierne i Jeg, zombie virker svage. Men de er hurtige og gode til at hente den sidste hjerne, når du har ryddet resten af modstanden af vejen.
+
+[TREE_OF_WISDOM_48]
+Hvis du skriver 'trickedout', skal du ikke blive overrasket, hvis der sker noget skørt med dine plæneklippere.
+
+[TREE_OF_WISDOM_49]
+Tak, fordi du fodrer mig! Jeg har ikke mere ny visdom lige nu, men måske har jeg mere, hvis du får mig til at vokse mig høj nok!
+
+[TREE_OF_WISDOM_101]
+Mmmm, jeg kunne godt bruge noget lækker gødning!
+
+[TREE_OF_WISDOM_102]
+Jeg tror, jeg har set den sky før.
+
+[TREE_OF_WISDOM_103]
+Tag jer ikke af mig. Jeg står bare herovre og vokser.
+
+[TREE_OF_WISDOM_104]
+Jeg omsætter næringsstoffer som en gal!
+
+[TREE_OF_WISDOM_105]
+Jeg forstår aldrig, hvorfor I dyr bruger hele dagen på at bevæge jer rundt, som I gør.
+
+[TREE_OF_WISDOM_106]
+Jeg oplever tiden i et langt langsommere tempo end dig!
+
+[TREE_OF_WISDOM_107]
+Jeg tror, jeg er flerårig!
+
+[TREE_OF_WISDOM_108]
+Det prikker i mit ved!
+
+[TREE_OF_WISDOM_109]
+Man kan få masser af visdom bare ved at stå stille.
+
+[TREE_OF_WISDOM_110]
+Jeg har hørt lidt om det der "vinter". Jeg kan ikke sige, at jeg glæder mig til det.
+
+[TREE_OF_WISDOM_201]
+Mmmm ... sollys er LÆKKERT!
+
+[TREE_OF_WISDOM_202]
+Ups, undskyld ... jeg slap lige lidt ilt ud.
+
+[TREE_OF_WISDOM_203]
+Hold da op, jeg kan gro blade!
+
+[TREE_OF_WISDOM_204]
+Jeg kan mærke, at en vækstspurt er på vej! 
+
+[TREE_OF_WISDOM_205]
+På dette stadie mangler jeg viden om verden!
+
+[TREE_OF_WISDOM_301]
+Jeg sætter virkelig pris på alle de penge, du bruger på gødning!
+
+[TREE_OF_WISDOM_302]
+Den sky ligner en enorm samling af vanddråber!
+
+[TREE_OF_WISDOM_303]
+Har du mødt min fætter Yggdrasil? Han er meget populær i Sverige. Masser af fans.
+
+[TREE_OF_WISDOM_304]
+Jeg læser sociologi på et onlineuniversitet. Jeg lærer virkelig meget.
+
+[TREE_OF_WISDOM_305]
+Efter nøje observation har jeg udledt, at det er Jorden, der kredser om solen, og ikke omvendt, sådan som det ser ud.
+
+[TREE_OF_WISDOM_401]
+Når man har eksisteret lige så længe som jeg, sover man mindre og hallucinerer mere.
+
+[TREE_OF_WISDOM_402]
+Hvis du forveksler skoven med træerne, så husk: En skov er en samling af enkelte træer og ikke omvendt.
+
+[TREE_OF_WISDOM_403]
+Historien gentager sig, men detaljerne bliver altid forkerte.
+
+[TREE_OF_WISDOM_404]
+Hvis fortid, nutid og fremtid alle eksisterer samtidigt som "bloktid", må oplevelsen af "nu" så ikke blot være en avanceret illusion?
+
+[TREE_OF_WISDOM_405]
+Mod er let; hengivenhed koster ekstra.
+
+[TREE_OF_WISDOM_500]
+Her er lidt visdom, der tåler at blive gentaget ...
+
+[TREE_OF_WISDOM_600]
+Træmad, tak!
+
+[TREE_OF_WISDOM_800]
+Hej, jeg er 30 meter høj! Fejr det med mig ved at skrive 'daisies', så zombierne efterlader små margueritter, når de dør.
+
+[TREE_OF_WISDOM_900]
+Hold da op! Jeg er 150 meter høj! Det skal fejres med dans! Skriv 'dance' for at få zombierne til at danse løs!
+
+[TREE_OF_WISDOM_1000]
+WOW! Jeg er 300 meter høj! Fejr det med mig ved at skrive 'pinata', så zombierne spytter slik ud, når de bliver ødelagt!
+
+[TREE_OF_WISDOM_1100]
+Tak, fordi du fodrer mig! Jeg har givet dig al min visdom, men du kan stadig få mig til at vokse mig højere!
+
+[TREE_OF_WISDOM_HIEGHT]
+{HEIGHT} fod høj
+
+[UNLOCKED_MINIGAMES]
+Minispil låst op!
+Spil dem fra hovedmenuen!
+
+[UNLOCKED_PUZZLE_MODE]
+Puslespiltilstand låst op!
+Spil den fra hovedmenuen!
+
+[UNLOCKED_SURVIVAL_MODE]
+Overlevelsestilstand låst op!
+Spil den fra hovedmenuen!
+
+[CREDITS_GAMENAME]
+PLANTER MOD ZOMBIER
+
+[CREDITS_ROLES1]
+^PLANTER MOD ZOMBIER
+[CREDITS_NAMES1]
+
+[CREDITS_ROLES2]
+^
+[CREDITS_NAMES2]
+
+[CREDITS_ROLES3]
+SPILDESIGN
+PROGRAMMERING
+GRAFIK
+MUSIK OG LYD
+BAGGRUNDSGRAFIK
+BRUGERFLADEGRAFIK
+TEKSTER
+
+[CREDITS_NAMES3]
+GEORGE FAN
+TOD SEMPLE
+RICH WERNER
+LAURA SHIGIHARA
+ENRIQUE CORTS
+MATT HOLMBERG
+STEPHEN NOTLEY
+
+[CREDITS_ROLES4]
+^
+[CREDITS_NAMES4]
+
+
+[CREDITS_ROLES5]
+STUDIELEDER
+TESTLEDER
+KVALITETSTEST
+POPCAP-FRAMEWORK
+MURMELDYRSSÆLGER
+SÆRLIG TAK
+
+[CREDITS_NAMES5]
+SUKHBIR SIDHU
+MIKE RACIOPPI
+SHAWN CONARD, ED MILLER, ADAM MACDONNELL
+BRIAN FIETE, CHRIS HARGROVE, DAVID PARTON
+DAVID P. WYCLIFF
+JASON KAPALKA, JOHN VECHEY, DAVE HAAS, 
+DAVE ROBERTS, ED BROWN, LINDSEY KURZ, 
+JEFF GATES, MYSTICSAGE, DAVE ROHRL, 
+POPCAP BETA TESTERS
+
+[CREDITS_ROLES6]
+^
+[CREDITS_NAMES6]
+
+[CREDITS_ROLES7]
+^ÅRETS SPIL-INDHOLD
+[CREDITS_NAMES7]

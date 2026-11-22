@@ -1,0 +1,467 @@
+{NO_CLICK}Hvad siger du til det?
+[CRAZY_DAVE_1560]
+Fint!
+[CRAZY_DAVE_1570]
+Øv, mand!
+
+[UPGRADE_DIALOG_BODY]
+Opgrader til {SLOTS} frøpladser?
+
+[CRAZY_DAVE_1601]
+Hold da op, de zombier bliver bare ved med at komme!
+[CRAZY_DAVE_1602]
+Denne gang vil jeg vælge nogle frø til dig!
+[CRAZY_DAVE_1603]
+Jeg vælger... de her tre!
+
+[CRAZY_DAVE_1700]
+{NO_CLICK}Jeg giver dig ${SELL_PRICE} for den {PLANT_TYPE}!
+
+[CRAZY_DAVE_2000]
+{NO_SOUND}{NO_CLICK}Plant dem på dine dobbeltærteskydere for at forvandle dem til gatlingærter! Gatlingærter skyder fire ærter ad gangen!
+
+[CRAZY_DAVE_2001]
+{NO_SOUND}{NO_CLICK}Plant dem på dine solsikker for at forvandle dem til dobbeltsolsikker! Dobbeltsolsikker giver dobbelt så meget sol som en almindelig solsikke!
+
+[CRAZY_DAVE_2002]
+{NO_SOUND}{NO_CLICK}Plant dem på dine gassvampe for at forvandle dem til mørkesvampe! Mørkesvampe angriber hurtigt i et lille område!
+
+[CRAZY_DAVE_2003]
+{NO_SOUND}{NO_CLICK}Plant dem på dine åkandeblade for at forvandle dem til dunhaler! Dunhaler kan angribe i alle rækker og nedskyde ballon-zombier!
+
+[CRAZY_DAVE_2004]
+{NO_SOUND}{NO_CLICK}Plant dem på dine melonkatapulter for at forvandle dem til vintermeloner! Vintermeloner gør stor skade og gør grupper af zombier langsommere!
+
+[CRAZY_DAVE_2005]
+{NO_SOUND}{NO_CLICK}Plant dem på dine magnetsvampe for at forvandle dem til guldmagneter! Guldmagneter samler mønter og diamanter for dig!
+
+[CRAZY_DAVE_2006]
+{NO_SOUND}{NO_CLICK}Plant dem på dine piggræsser for at forvandle dem til pigsten! Pigsten gør dobbelt så stor skade og er ekstremt holdbare!
+
+[CRAZY_DAVE_2007]
+{NO_SOUND}{NO_CLICK}Plant dem på dine majskatapulter for at forvandle dem til majskanoner! Klik på en majskanon for at affyre et dødbringende angreb!
+
+[CRAZY_DAVE_2008]
+{NO_SOUND}{NO_CLICK}Denne imitator lader dig bruge to af den samme plante i et niveau!
+
+[CRAZY_DAVE_2009]
+{NO_SOUND}{NO_CLICK}Denne ekstra plæneklipper giver dig endnu et forsvar, når en plæneklipper er blevet brugt!
+
+[CRAZY_DAVE_2010]
+{NO_SOUND}{NO_CLICK}Denne morgenfruespire hører hjemme i din zenhave! Dyrk den til fuld størrelse, så får du en fin belønning!
+
+[CRAZY_DAVE_2011]
+{NO_SOUND}{NO_CLICK}Denne ekstra frøplads lader dig vælge 7 planter pr. niveau!
+
+[CRAZY_DAVE_2012]
+{NO_SOUND}{NO_CLICK}Denne ekstra frøplads lader dig vælge 8 planter pr. niveau!
+
+[CRAZY_DAVE_2013]
+{NO_SOUND}{NO_CLICK}Denne ekstra frøplads lader dig vælge 9 planter pr. niveau!
+
+[CRAZY_DAVE_2014]
+{NO_SOUND}{NO_CLICK}Denne ekstra frøplads lader dig vælge 10 planter pr. niveau!
+
+[CRAZY_DAVE_2015]
+{NO_CLICK}Alle dimsedutter sælges til spotpriser!!
+
+[CRAZY_DAVE_2016]
+{NO_CLICK}SLÅ TIL NU! JEG ER GAAAAAL!! {SCREAM}
+
+[CRAZY_DAVE_2017]
+{NO_CLICK}Vores priser er utrolige!!!
+
+[CRAZY_DAVE_2018]
+{NO_CLICK}Jeg spiser mad fra gulvet!
+
+[CRAZY_DAVE_2019]
+{NO_SOUND}{NO_CLICK}Den gyldne vandkande lader dig vande flere planter på én gang!
+
+[CRAZY_DAVE_2020]
+{NO_SOUND}{NO_CLICK}Dine zenhaveplanter skal bruge gødning for at vokse!
+
+[CRAZY_DAVE_2021]
+{NO_SOUND}{NO_CLICK}Denne grammofon lader dig spille musik for dine zenhaveplanter! Den holder dem glade en hel dag!
+
+[CRAZY_DAVE_2022]
+{NO_SOUND}{NO_CLICK}Zenhaveplanter har brug for insektspray fra tid til anden! Det holder dem glade en hel dag!
+
+[CRAZY_DAVE_2023]
+{NO_SOUND}{NO_CLICK}Havehandsken lader dig flytte rundt på dine zenhaveplanter!
+
+[CRAZY_DAVE_2024]
+{NO_SOUND}{NO_CLICK}Du skal bruge denne trillebør til at transportere dine zenhaveplanter mellem haverne!
+
+[CRAZY_DAVE_2025]
+{NO_SOUND}{NO_CLICK}Sneglen Stinky hjælper dig med at samle mønter i din zenhave!
+
+[CRAZY_DAVE_2026]
+{NO_SOUND}{NO_CLICK}Disse poolrensere giver et ekstra forsvar på baner med en pool!
+
+[CRAZY_DAVE_2027]
+{NO_SOUND}{NO_CLICK}Disse tagrensere giver et ekstra forsvar på de svære tagbaner!
+
+[CRAZY_DAVE_2028]
+{NO_SOUND}{NO_CLICK}Denne haverive slår den første zombie ihjel, der træder på den! Den holder i 3 niveauer!
+
+[CRAZY_DAVE_2029]
+{NO_SOUND}{NO_CLICK}Dette akvarium er et sted, hvor du kan have dine vandlevende zenhaveplanter!
+
+[CRAZY_DAVE_2030]
+{NO_SOUND}{NO_CLICK}Visdommens træ giver dig værdifulde tips og hemmeligheder, hvis du får det til at vokse sig højt nok!
+
+[CRAZY_DAVE_2031]
+{NO_SOUND}{NO_CLICK}Køb noget træmad, så dit Visdommens træ kan vokse sig stort og højt!
+
+[CRAZY_DAVE_2032]
+{NO_SOUND}{NO_CLICK}Denne svampehave er et sted, hvor du kan have de zenhaveplanter, der falder i søvn om dagen!
+
+[CRAZY_DAVE_2033]
+{NO_SOUND}{NO_CLICK}Valnød-førstehjælp lader dig plante friske valnødder oven på beskadigede! Det virker også på højvalnødder og græskar!
+
+[CRAZY_DAVE_2034]
+{NO_SOUND}{NO_CLICK}Få flere niveauer, flere planter og flere zombier i den fulde version af spillet!
+
+[CRAZY_DAVE_2100]
+Hey, se lige! Du har fundet en vandkande!
+[CRAZY_DAVE_2101]
+I anledning af denne
+begivenhed giver jeg dig:
+Din helt egen zenhave!
+[CRAZY_DAVE_2102]
+Hey, jeg giver dig endda et par spirer at starte med!
+[CRAZY_DAVE_2103]
+Dyrk dem til fuld størrelse, så får du en fin belønning!
+[CRAZY_DAVE_2104]
+God fornøjelse!
+
+[CRAZY_DAVE_2200]
+Zombierne bad mig om at hjælpe dem med at øve sig i at invadere huse.
+[CRAZY_DAVE_2201]
+Jeg sagde, det var i orden, så længe ingen planter kom til skade.
+[CRAZY_DAVE_2202]
+Så jeg satte en masse papfigurer ud på din græsplæne.
+[CRAZY_DAVE_2203]
+God fornøjelse!
+
+[CRAZY_DAVE_2300]
+Åh nej, han er her.
+[CRAZY_DAVE_2301]
+Du må hellere gøre dig klar.
+[CRAZY_DAVE_2302]
+Det bliver noget af en kamp!
+[CRAZY_DAVE_2303]
+Men hør her, jeg ved, hvad hans svaghed er:
+[CRAZY_DAVE_2304]
+Du skal ramme ham i bugspytkirtlen!
+[CRAZY_DAVE_2305]
+Nej, det var en anden fyr...
+[CRAZY_DAVE_2306]
+Du skal... øh... sparke ham i...
+[CRAZY_DAVE_2307]
+Hmm...
+[CRAZY_DAVE_2308]
+Du skal trykke op op ned ned venstre højre...
+[CRAZY_DAVE_2309]
+øh...
+[CRAZY_DAVE_2310]
+Vent, nu husker jeg! Det er... {MOUTH_SMALL_OH}
+
+[CRAZY_DAVE_2400]
+Goddag, nabo!
+[CRAZY_DAVE_2401]
+Jeg hedder Gakkede Dave.
+[CRAZY_DAVE_2402]
+Men du kan bare kalde mig Gakkede Dave.
+[CRAZY_DAVE_2403]
+Hør, jeg har en overraskelse til dig.
+[CRAZY_DAVE_2404]
+Men først skal du rydde din græsplæne.
+[CRAZY_DAVE_2405]
+Brug din skovl til at grave planterne op!
+[CRAZY_DAVE_2406]
+LAD GRAVNINGEN BEGYNDE!{MOUTH_SMALL_OH} {SCREAM}
+
+[CRAZY_DAVE_2410]
+Okay, fint, og nu til overraskelsen...
+[CRAZY_DAVE_2411]
+Vi skal spille BOWLING!{MOUTH_SMALL_SMILE}
+[CRAZY_DAVE_2412]
+{SHOW_WALLNUT}HER, TAG DENNE VALNØD!!
+[CRAZY_DAVE_2413]
+Hvorfor gav jeg dig en valnød i hånden?{MOUTH_SMALL_OH}
+[CRAZY_DAVE_2414]
+{SHAKE}FORDI JEG ER GAAAAAL!!!!!{MOUTH_BIG_SMILE}
+[CRAZY_DAVE_2415]
+AF STED! BOWL DIG TIL SEJR!{MOUTH_BIG_SMILE} {SCREAM}
+
+[CRAZY_DAVE_2500]
+Min kammerat Harvey Flaxcaster og jeg plejede at smadre vaser, når vi kedede os.
+[CRAZY_DAVE_2501]
+Harvey er ude af byen, så du må med mig, Harvey nr. 2!
+[CRAZY_DAVE_2502]
+SMADR DEM, SOM OM DU MENER DET, HARVEY! {SCREAM}
+
+[CRAZY_DAVE_2600]
+Hey, velkommen til zenhaveafdelingen i min butik!
+[CRAZY_DAVE_2601]
+{SHOW_FERTILIZER}Du får lidt gødning, fordi du kiggede forbi!
+[CRAZY_DAVE_2602]
+Se dig omkring, og se, om der er andet, du kan lide!
+
+[CRAZY_DAVE_2700]
+Hold da op, du smadrede de vaser grundigt!
+[CRAZY_DAVE_2701]
+Du smadrede dem lige så grundigt, som dengang jeg brækkede ryggen ved at rode i skraldespandene!
+[CRAZY_DAVE_2702]
+Her, jeg har taget nogle flere vaser med til dig.
+[CRAZY_DAVE_2703]
+Du skal dog passe på ikke at smadre dem for hurtigt.
+[CRAZY_DAVE_2704]
+Du skulle nødig ende med flere zombier, end du kan klare, hæ hæ.
+
+[CRAZY_DAVE_2800]
+Fint!
+[CRAZY_DAVE_2801]
+Det her burde være de sidste.
+[CRAZY_DAVE_2802]
+Smadr dem her, så er du færdig!
+
+[CRAZY_DAVE_3000]
+Det her er Vaseknuser.
+[CRAZY_DAVE_3001]
+Nogle af banerne er virkelig svære.
+[CRAZY_DAVE_3002]
+Held og lykke!
+
+[CRAZY_DAVE_3100]
+Hej, nabo! Jeg har fået nogle nye varer til salg!
+
+[CRAZY_DAVE_3200]
+{SHOW_TREE_FOOD}Hej {PLAYER_NAME}! Her er dit Visdommens træ! Jeg har taget noget træmad med, så du kan komme i gang.
+
+[CRAZY_DAVE_3300]
+{TIME_275}Så er det slut, min ven!{DELAY_50}
+[CRAZY_DAVE_3301]
+{TIME_275}Jeps, du vidste godt, at den her snak ville komme.{DELAY_50}
+[CRAZY_DAVE_3302]
+{TIME_325}Vil du videre? Så skal du have DEN FULDE VERSION.{DELAY_50}
+[CRAZY_DAVE_3303]
+{TIME_275}Okay, jeg skal være ærlig over for dig, ven...{DELAY_50}
+[CRAZY_DAVE_3304]
+{TIME_325}Hvis du får DEN FULDE VERSION, giver jeg dig flere PLANTER!{DELAY_25}
+[CRAZY_DAVE_3305]
+{TIME_175}{SCREAM}{HANDING}SOM DEN HER!{DELAY_50}
+[CRAZY_DAVE_3306]
+{TIME_175}{SCREAM}{HANDING}OG DEN HER!{DELAY_50}
+[CRAZY_DAVE_3307]
+{TIME_275}{HANDING}og senere får du endda OGSÅ DEN HER!{DELAY_50}
+[CRAZY_DAVE_3308]
+{TIME_125}{SHORT_SOUND}{HANDING}Hvorfor?{DELAY_50}
+[CRAZY_DAVE_3309]
+{TIME_225}{SHAKE}Fordi jeg er GAAAAAL!!!!!{MOUTH_BIG_SMILE}{DELAY_150}
+[CRAZY_DAVE_3310]
+{TIME_150}Og hey...{DELAY_50}
+[CRAZY_DAVE_3311]
+{TIME_175}Vil du have action?{DELAY_50}
+[CRAZY_DAVE_3312]
+{TIME_200}{SCREAM}SÅ SKAL DU FÅ ACTION!{DELAY_300}
+[CRAZY_DAVE_3313]
+{TIME_300}{SCREAM2}25 EKSTRA NIVEAUER MED ACTION!{DELAY_300}
+[CRAZY_DAVE_3314]
+{TIME_300}{SCREAM}40 MINISPIL OG GÅDER!{DELAY_50}
+[CRAZY_DAVE_3315]
+{TIME_200}TERRAKOTTA!!!{DELAY_100}
+[CRAZY_DAVE_3316]
+{TIME_300}{SCREAM2}DET ER NOK TIL AT BLÆSE HOVEDET AF DIG OG SENDE DET TIL MARS OG TILBAGE!!{DELAY_300}
+[CRAZY_DAVE_3317]
+{TIME_150}Nå, hvad venter du på?
+
+[CRAZY_DAVE_3400]
+{NO_CLICK}For at bruge valnød-førstehjælp skal du blot plante en frisk valnød oven på den beskadigede!
+
+[CRAZY_DAVE_4000]
+{NO_CLICK}{MOUTH_BIG_OH}Du har lige købt den sidste plante!
+[CRAZY_DAVE_4001]
+{NO_CLICK}{SCREAM}Du har sørme samlet alle planterne!
+[CRAZY_DAVE_4002]
+{NO_CLICK}Hvorfor findes der ikke et ord for sådan en bedrift?
+[CRAZY_DAVE_4003]
+{NO_CLICK}I've got it... 
+[CRAZY_DAVE_4004]
+{NO_CLICK}{SHAKE}Planteolog!!!{MOUTH_BIG_SMILE}
+
+[MENU_BUTTON]
+Menu
+
+[ADVICE_MORE_ZOMBIES]
+Flere zombier nærmer sig!
+
+[ADVICE_MORE_SCARY_POTS]
+Flere vaser på vej!
+Nuværende sejrsrække: {STREAK}
+
+[ADVICE_SCARY_POTTER_TUTORIAL]
+MIDLERTIDIGT - Dave har sat flere vaser på din græsplæne!
+{STREAK} af 5 bølger klaret
+
+[ADVICE_3_IN_A_ROW]
+Flere vaser på vej!
+{STREAK} af 3 bølger klaret
+
+[LONGEST_STREAK]
+Længste
+sejrsrække: {STREAK}
+
+[ADVICE_MORE_IZOMBIE]
+Godt klaret!
+Nuværende sejrsrække: {STREAK}
+
+[ADVICE_CLICK_ON_SUN]
+Klik på den faldende sol for at samle den op!
+
+[ADVICE_GRAVEBUSTERS_ON_GRAVES]
+Gravædere kan kun plantes på grave
+
+[ADVICE_LILYPAD_ON_WATER]
+Åkandeblade kan kun plantes i vand
+
+[ADVICE_TANGLEKELP_ON_WATER]
+Filtret tang kan kun plantes i vand
+
+[ADVICE_SEASHROOM_ON_WATER]
+Havsvampe kan kun plantes i vand
+
+[ADVICE_POTATO_MINE_ON_LILY]
+Kartoffelminer kan ikke plantes på åkandeblade
+
+[ADVICE_NOT_PASSED_LINE]
+Placér din valnød til venstre for bowlinglinjen
+
+[ADVICE_I_ZOMBIE_NOT_PASSED_LINE]
+Placér zombien på højre side af linjen
+
+[ADVICE_I_ZOMBIE_LEFT_OF_LINE]
+Placér bungee-zombien på venstre side af linjen
+
+[ADVICE_ONLY_ON_REPEATERS]
+Kan kun plantes på dobbeltærteskydere
+
+[ADVICE_ONLY_ON_MELONPULT]
+Kan kun plantes på melonkatapulter
+
+[ADVICE_ONLY_ON_SUNFLOWER]
+Kan kun plantes på solsikker
+
+[ADVICE_ONLY_ON_SPIKEWEED]
+Kan kun plantes på piggræs
+
+[ADVICE_ONLY_ON_KERNELPULT]
+Kan kun plantes på et par majskatapulter
+
+[ADVICE_ONLY_ON_MAGNETSHROOM]
+Kan kun plantes på magnetsvampe
+
+[ADVICE_ONLY_ON_FUMESHROOM]
+Kan kun plantes på gassvampe
+
+[ADVICE_ONLY_ON_LILYPAD]
+Kan kun plantes på åkandeblade
+
+[ADVICE_WRONG_ART_TYPE]
+Du kan kun plante {SEED}-frø der
+
+[ADVICE_PLANT_NEED_POT1]
+Du kan kun plante i blomsterkrukker					 
+[ADVICE_PLANT_NEED_POT2]
+Plant først en blomsterkrukke
+
+[ADVICE_PLANT_NOT_ON_GRAVE]
+Du kan ikke plante på grave
+
+[ADVICE_PLANT_NOT_ON_CRATER]
+Du kan ikke plante i kratere
+
+[ADVICE_CANT_PLANT_THERE]
+Du kan ikke plante der
+
+[ADVICE_PLANT_NOT_ON_WATER]
+Plant først et åkandeblad
+
+[ADVICE_PLANTING_NEED_SLEEPING]
+Kaffebønner kan kun plantes på sovende svampe
+
+[ADVICE_PLANTING_NEEDS_GROUND]
+Piggræs kan kun plantes på fast jord
+
+[ADVICE_MORE_SUNFLOWERS]
+Jo flere solsikker du har,
+desto hurtigere kan du dyrke planter!
+
+[ADVICE_SHOVEL_REFRESH]
+Skovlen skal lige køle af, før du kan grave igen
+
+[ADVICE_HUGE_WAVE]
+EN KÆMPEBØLGE AF ZOMBIER NÆRMER SIG!
+
+[ADVICE_CLICK_PEASHOOTER]
+Klik på ærteskytten for at plante endnu en!
+
+[ADVICE_PLANT_SUNFLOWER1]
+Solsikker er en utrolig vigtig plante!
+
+[ADVICE_PLANT_SUNFLOWER2]
+Prøv at plante mindst 3 af dem!
+
+[ADVICE_PLANT_SUNFLOWER3]
+Hvis du planter mindst 3 solsikker, øger du dine
+chancer for at overleve et zombieangreb!
+
+[ADVICE_PLANT_SUNFLOWER4]
+Prøv at plante mindst 3 solsikker!
+
+[ADVICE_PLANT_SUNFLOWER5]
+Hvis du planter solsikker, øger du dine chancer
+for at overleve zombieangrebet!
+
+[ADVICE_CLICK_SEED_PACKET]
+Klik på en frøpakke for at samle den op!
+
+[ADVICE_ENOUGH_SUN]
+Fremragende! Du har samlet
+nok til din næste plante!
+
+[ADVICE_CLICK_ON_GRASS]
+Klik på græsset for at plante dit frø!
+
+[ADVICE_PLANTED_PEASHOOTER]
+Godt klaret!
+
+[ADVICE_ZOMBIE_ONSLAUGHT]
+Lad ikke zombierne nå frem til dit hus!
+
+[ADVICE_CLICK_SHOVEL]
+Klik på skovlen for at samle den op!
+
+[ADVICE_CLICK_PLANT]
+Klik på en plante for at fjerne den!
+
+[ADVICE_KEEP_DIGGING]
+Bliv ved med at grave, indtil din græsplæne er fri for planter!
+
+[ADVICE_SURVIVE_FLAGS]
+Kan du overleve {FLAGS} bølger?
+
+[ADVICE_SURVIVE_ENDLESS]
+Hvor mange bølger kan du overleve?
+
+[ADVICE_FILL_IN_WALLNUTS]
+Fyld alle de markerede felter med valnødder!
+
+[ADVICE_FILL_IN_SPACES]
+Fyld alle de markerede felter!
+
+[ADVICE_FILL_IN_STARFRUIT]
+Fyld alle de markerede felter med stjernefrugter!
+
+[ADVICE_BEGHOULED_DRAG_TO_MATCH_3]

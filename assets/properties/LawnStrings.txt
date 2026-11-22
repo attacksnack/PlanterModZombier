@@ -1,0 +1,3954 @@
+[LOCALE]
+Danish_Denmark
+
+[CURRENCY_SYMBOL]
+$
+
+[CURRENCY_STRING]
+{CURRENCY_SYMBOL}{AMOUNT}
+
+[PEASHOOTER]
+Ærteskytte
+
+[PEASHOOTER_TOOLTIP]
+Skyder ærter mod fjenden
+
+[SUNFLOWER]
+Solsikke
+
+[SUNFLOWER_TOOLTIP]
+Giver dig ekstra sol
+
+[CHERRY_BOMB]
+Kirsebærbombe
+
+[CHERRY_BOMB_TOOLTIP]
+Sprænger alle zombier i et område i luften
+
+[WALL_NUT]
+Valnød
+
+[WALL_NUT_TOOLTIP]
+Holder zombierne tilbage og beskytter dine andre planter
+
+[REPEATER]
+Dobbeltærteskytte
+
+[REPEATER_TOOLTIP]
+Skyder to ærter ad gangen
+
+[POTATO_MINE]
+Kartoffelmine
+
+[POTATO_MINE_TOOLTIP]
+Eksploderer ved berøring, men skal først bruge tid på at blive armeret
+
+[SNOW_PEA]
+Sneært
+
+[SNOW_PEA_TOOLTIP]
+Skyder frosne ærter, der skader og gør fjenden langsommere
+
+[CHOMPER]
+Sluger
+
+[CHOMPER_TOOLTIP]
+Slug­er en zombie hel, men er sårbar mens den tygger
+
+[PUFF_SHROOM]
+Pufsvamp
+
+[PUFF_SHROOM_TOOLTIP]
+Skyder sporer på kort afstand mod fjenden
+
+[SUN_SHROOM]
+Solsvamp
+
+[SUN_SHROOM_TOOLTIP]
+Giver små sole i begyndelsen og normale sole senere
+
+[FUME_SHROOM]
+Gassvamp
+
+[FUME_SHROOM_TOOLTIP]
+Skyder gas, der kan trænge gennem sikkerhedsdøre
+
+[GRAVE_BUSTER]
+Gravæder
+
+[GRAVE_BUSTER_TOOLTIP]
+Plant den på en grav for at fjerne graven
+
+[HYPNO_SHROOM]
+Hypnosesvamp
+
+[HYPNO_SHROOM_TOOLTIP]
+Får en zombie til at kæmpe for dig
+
+[SCAREDY_SHROOM]
+Bangebuksesvamp
+
+[SCAREDY_SHROOM_TOOLTIP]
+Langtrækkende skytte, der gemmer sig, når fjender kommer tæt på
+
+[ICE_SHROOM]
+Issvamp
+
+[ICE_SHROOM_TOOLTIP]
+Lam­mer midlertidigt alle zombier på skærmen
+
+[DOOM_SHROOM]
+Dommedagssvamp
+
+[DOOM_SHROOM_TOOLTIP]
+Udsletter et stort område og efterlader et krater
+
+[LILY_PAD]
+Åkandeblad
+
+[LILY_PAD_TOOLTIP]
+Lader dig plante landplanter oven på den
+
+[SQUASH]
+Squash
+
+[SQUASH_TOOLTIP]
+Mas­er zombier
+
+[THREEPEATER]
+Trippelærteskytte
+
+[THREEPEATER_TOOLTIP]
+Skyder ærter i tre baner
+
+[TANGLE_KELP]
+Filtret tang
+
+[TANGLE_KELP_TOOLTIP]
+Vandplante, der trækker en zombie ned under vandet
+
+[JALAPENO]
+Jalapeño
+
+[JALAPENO_TOOLTIP]
+Udsletter alle zombier i en hel bane
+
+[SPIKEWEED]
+Piggræs
+
+[SPIKEWEED_TOOLTIP]
+Punkterer dæk og skader zombier, der træder på den
+
+[TORCHWOOD]
+Fak­keltræ
+
+[TORCHWOOD_TOOLTIP]
+Ærter, der passerer gennem den, bliver til ildkugler
+
+[TALL_NUT]
+Høj valnød
+
+[TALL_NUT_TOOLTIP]
+En solid mur, der ikke kan springes over
+
+[SEA_SHROOM]
+Havsvamp
+
+[SEA_SHROOM_TOOLTIP]
+Vandplante, der skyder sporer på kort afstand
+
+[PLANTERN]
+Lanterneplante
+
+[PLANTERN_TOOLTIP]
+Oplyser et område, så du kan se gennem tågen
+
+[CACTUS]
+Kaktus
+
+[CACTUS_TOOLTIP]
+Skyder pigge, der kan sprænge balloner
+
+[BLOVER]
+Vindblomst
+
+[BLOVER_TOOLTIP]
+Blæser alle ballon-zombier og tågen væk
+
+[SPLIT_PEA]
+Delingsært
+
+[SPLIT_PEA_TOOLTIP]
+Skyder ærter både fremad og bagud
+
+[STARFRUIT]
+Stjernefrugt
+
+[STARFRUIT_TOOLTIP]
+Skyder stjerner i 5 retninger
+
+[PUMPKIN]
+Græskar
+
+[PUMPKIN_TOOLTIP]
+Beskytter planter, der befinder sig inde i dens skal
+
+[MAGNET_SHROOM]
+Magnetsvamp
+
+[MAGNET_SHROOM_TOOLTIP]
+Fjerner hjelme og andre metalgenstande fra zombier
+
+[CABBAGE_PULT]
+Kålkatapult
+
+[CABBAGE_PULT_TOOLTIP]
+Kaster kål efter fjenden
+
+[FLOWER_POT]
+Blomsterkrukke
+
+[FLOWER_POT_TOOLTIP]
+Lader dig plante på taget
+
+[KERNEL_PULT]
+Majskatapult
+
+[KERNEL_PULT_TOOLTIP]
+Kaster majskorn og smør efter zombier
+
+[GARLIC]
+Hvidløg
+
+[GARLIC_TOOLTIP]
+Leder zombierne over i andre baner
+
+[UMBRELLA_LEAF]
+Paraplyblad
+
+[UMBRELLA_LEAF_TOOLTIP]
+Beskytter nærliggende planter mod bungee-zombier og katapulter
+
+[MARIGOLD]
+Morgenfrue
+
+[MARIGOLD_TOOLTIP]
+Giver dig sølv- og guldmønter
+
+[MELON_PULT]
+Melonkatapult
+
+[MELON_PULT_TOOLTIP]
+Gør stor skade på grupper af zombier
+
+[GATLING_PEA]
+Gatlingært
+
+[GATLING_PEA_TOOLTIP]
+Skyder fire ærter ad gangen
+(kræver dobbeltærteskytte)
+
+[TWIN_SUNFLOWER]
+Dobbeltsolsikke
+
+[TWIN_SUNFLOWER_TOOLTIP]
+Giver dobbelt så meget sol som en solsikke
+(kræver solsikke)
+
+[GLOOM_SHROOM]
+Mørkesvamp
+
+[GLOOM_SHROOM_TOOLTIP]
+Udsender kraftig giftgas i området omkring sig
+(kræver gassvamp)
+
+[CATTAIL]
+Dunhammer
+
+[CATTAIL_TOOLTIP]
+Angriber alle baner og skyder ballon-zombier ned
+(kræver åkandeblad)
+
+[WINTER_MELON]
+Vintermelon
+
+[WINTER_MELON_TOOLTIP]
+Gør stor skade på grupper af zombier og gør dem langsommere
+(kræver melonkatapult)
+
+[GOLD_MAGNET]
+Guldmagnet
+
+[GOLD_MAGNET_TOOLTIP]
+Samler mønter og diamanter for dig
+(kræver magnetsvamp)
+
+[SPIKEROCK]
+Pigsten
+
+[SPIKEROCK_TOOLTIP]
+Punkterer flere dæk og skader zombier, der går hen over den
+(kræver piggræs)
+
+[COB_CANNON]
+Majskolbekanon
+
+[COB_CANNON_TOOLTIP]
+Klik for at affyre dødbringende majskolber
+(kræver 2 majskatapulter)
+
+[IMITATER]
+Imitator
+
+[IMITATER_TOOLTIP]
+Lader dig have to af den samme plante
+
+[COFFEE_BEAN]
+Kaffebønne
+
+[COFFEE_BEAN_TOOLTIP]
+Plant den på en svamp for at vække den
+
+[EXPLODE_O_NUT]
+Eksplosiv valnød
+
+[EXPLODE_O_NUT_TOOLTIP]
+Eksploderer ved berøring
+
+[GIANT_WALLNUT]
+Kæmpevalnød
+
+[SPROUT]
+Spire
+
+[MARIGOLD_SPROUT]
+Morgenfruespire
+
+[ZOMBIE]
+Zombie
+
+[FLAG_ZOMBIE]
+Flagzombie
+
+[CONEHEAD_ZOMBIE]
+Keglehovedzombie
+
+[BUCKETHEAD_ZOMBIE]
+Spandhovedzombie
+
+[POLE_VAULTING_ZOMBIE]
+Stangspringerzombie
+
+[NEWSPAPER_ZOMBIE]
+Aviszombie
+
+[SCREEN_DOOR_ZOMBIE]
+Sikkerhedsdørszombie
+
+[FOOTBALL_ZOMBIE]
+Fodboldzombie
+
+[DANCING_ZOMBIE]
+Dansezombie
+
+[BACKUP_DANCER]
+Backupdanser
+
+[DUCKY_TUBE_ZOMBIE]
+Baderingzombie
+
+[SNORKEL_ZOMBIE]
+Snorkelzombie
+
+[ZOMBONI]
+Zomboni
+
+[ZOMBIE_BOBSLED_TEAM]
+Zombieslædehold
+
+[DOLPHIN_RIDER_ZOMBIE]
+Delfinrytterzombie
+
+[JACK_IN_THE_BOX_ZOMBIE]
+Overraskelsesæskezombie
+
+[BALLOON_ZOMBIE]
+Ballonzombie
+
+[DIGGER_ZOMBIE]
+Graverzombie
+
+[POGO_ZOMBIE]
+Pogozombie
+
+[ZOMBIE_YETI]
+Zombie-yeti
+
+[BUNGEE_ZOMBIE]
+Bungeezombie
+
+[LADDER_ZOMBIE]
+Stigezombie
+
+[CATAPULT_ZOMBIE]
+Katapultzombie
+
+[GARGANTUAR]
+Gargantuar
+
+[REDEYED_GARGANTUAR]
+Gigagargantuar
+
+[IMP]
+Imp
+
+[BOSS]
+Dr. Zomboss
+
+[DOG_WALKING_ZOMBIE]
+Hundelufterzombie
+
+[DOG_ZOMBIE]
+Hundezombie
+
+[PROPELLER_ZOMBIE]
+Propelzombie
+
+[PEASHOOTER_DESCRIPTION_HEADER]
+Ærteskytterne er din første forsvarslinje. De skyder ærter mod de angribende zombier.
+
+[PEASHOOTER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal
+{SHORTLINE}
+{FLAVOR}Hvordan kan én enkelt plante vokse og skyde så mange ærter så hurtigt? Ærteskytten siger:
+"Hårdt arbejde, engagement og en sund, velafbalanceret morgenmad bestående af sollys og fiberrig
+kuldioxid gør det hele muligt."
+
+[SUNFLOWER_DESCRIPTION_HEADER]
+Solsikker er uundværlige, hvis du vil producere ekstra sol. Prøv at plante så mange, du kan!
+
+[SUNFLOWER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Solproduktion:{STAT} normal
+{SHORTLINE}
+{FLAVOR}Solsikken kan ikke lade være med at vippe i takt til musikken. Hvilken musik? Jo, Jordens egen livgivende jazzrytme, der pulserer med en frekvens, som kun solsikken kan høre.
+
+[WALL_NUT_DESCRIPTION_HEADER]
+Valnødder har hårde skaller, som du kan bruge til at beskytte dine andre planter.
+
+[WALL_NUT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} høj
+{SHORTLINE}
+{FLAVOR}"Folk spekulerer på, hvordan jeg har det med konstant at blive tygget på af zombier," siger Valnød.
+"Hvad de ikke forstår, er, at mine begrænsede sanser kun registrerer en slags kilden, som en afslappende rygmassage."
+
+[CHERRY_BOMB_DESCRIPTION_HEADER]
+Kirsebærbomber kan sprænge alle zombier i et område i luften. De har en kort lunte, så plant dem tæt på zombierne.
+
+[CHERRY_BOMB_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} enorm
+{KEYWORD}Rækkevidde:{STAT} alle zombier i et mellemstort område
+{KEYWORD}Anvendelse:{STAT} engangsbrug, øjeblikkelig
+{SHORTLINE}
+{FLAVOR}"Jeg vil eksplodere," siger Kirsebær nr. 1. "Nej, lad os detonere i stedet!" siger
+hans bror, Kirsebær nr. 2. Efter grundige overvejelser bliver de enige om at eksplodetonere.
+
+[POTATO_MINE_DESCRIPTION_HEADER]
+Kartoffelminer har et kraftigt brag, men de skal bruge lidt tid på at blive armeret. Du bør plante dem foran zombierne. De eksploderer ved berøring.
+
+[POTATO_MINE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} enorm
+{KEYWORD}Rækkevidde:{STAT} alle zombier i et lille område
+{KEYWORD}Anvendelse:{STAT} engangsbrug, forsinket aktivering
+{SHORTLINE}
+{FLAVOR}Nogle mener, at kartoffelminen er doven, og at han altid udsætter alting til sidste øjeblik. Kartoffelminen siger ingenting. Han har for travlt med at tænke på sin investeringsstrategi.
+[REPEATER_DESCRIPTION_HEADER]
+Dobbeltærteskytter skyder to ærter ad gangen.
+
+[REPEATER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal (for hver ært)
+{KEYWORD}Skudhastighed:{STAT} 2x
+{SHORTLINE}
+{FLAVOR}Dobbeltærteskytten er barsk. Han kommer fra gaden. Han finder sig ikke i noget fra nogen, hverken planter eller zombier, og han skyder ærter for at holde folk på afstand. Men inderst inde længes dobbeltærteskytten efter kærlighed.
+
+[SNOW_PEA_DESCRIPTION_HEADER]
+Sneærter skyder frosne ærter, der skader og gør fjenden langsommere.
+
+[SNOW_PEA_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal, gør zombier langsommere
+{SHORTLINE}
+{FLAVOR}Folk fortæller ofte sneærten, hvor "cool" han er, eller opfordrer ham til at "tage det køligt". De siger, at han skal "holde sig iskold". Sneærten ruller bare med øjnene. Han har hørt det hele før.
+
+[CHOMPER_DESCRIPTION_HEADER]
+Slugerplanter kan sluge en zombie hel, men er sårbare, mens de tygger.
+
+[CHOMPER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} enorm
+{KEYWORD}Rækkevidde:{STAT} meget kort
+{KEYWORD}Særligt:{STAT} lang pause mellem hvert bid
+{SHORTLINE}
+{FLAVOR}Slugeren var tæt på at få et job med at udføre stunts i Little Shop of Horrors, men det gik i vasken, da hans agent krævede for meget på forhånd. Slugeren er dog ikke bitter. Han siger, at det bare er en del af branchen.
+
+[PUFF_SHROOM_DESCRIPTION_HEADER]
+Pufsvampe er billige, men kan kun skyde over kort afstand.
+
+[PUFF_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal
+{KEYWORD}Rækkevidde:{STAT} kort
+{NOCTURNAL}Sover om dagen
+{SHORTLINE}
+{FLAVOR}"Jeg blev først for nylig klar over, at zombier findes," siger pufsvampen. "Ligesom mange andre svampe troede jeg bare, at de var eventyrfigurer eller filmmonstre. Hele denne oplevelse har virkelig åbnet mine øjne."
+
+[SUN_SHROOM_DESCRIPTION_HEADER]
+Solsvampe giver små sole i begyndelsen og normale sole senere.
+
+[SUN_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Solproduktion:{STAT} lav, derefter normal
+{NOCTURNAL}Sover om dagen
+{SHORTLINE}
+{FLAVOR}Solsvampen hader sol. Han hader den så meget, at når den ophober sig i hans system, spytter han den ud så hurtigt, han kan. Han kan simpelthen ikke udstå den. For ham er sol noget vulgært.
+
+[FUME_SHROOM_DESCRIPTION_HEADER]
+Gassvampe skyder gas, der kan trænge gennem sikkerhedsdøre.
+
+[FUME_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal, trænger gennem sikkerhedsdøre
+{KEYWORD}Rækkevidde:{STAT} alle zombier i gasskyen
+{NOCTURNAL}Sover om dagen
+{SHORTLINE}
+{FLAVOR}"Jeg havde et blindgydejob, hvor jeg producerede gærsporer til et bageri," siger gassvampen. "Så fortalte pufsvampen, velsigne ham, mig om denne fantastiske mulighed for at blæse zombier væk. Nu føler jeg virkelig, at jeg gør en forskel."
+
+[GRAVE_BUSTER_DESCRIPTION_HEADER]
+Plant gravædere på grave for at fjerne dem.
+
+[GRAVE_BUSTER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Anvendelse:{STAT} engangsbrug, skal plantes på grave
+{KEYWORD}Særligt:{STAT} fjerner grave
+{SHORTLINE}
+{FLAVOR}På trods af sit frygtindgydende udseende vil gravæderen gerne have, at alle ved, at han elsker killinger og bruger sin fritid som frivillig på et lokalt rehabiliteringscenter for zombier. "Det er bare det rigtige at gøre," siger han.
+
+[HYPNO_SHROOM_DESCRIPTION_HEADER]
+Når hypnosesvampe bliver spist, får de zombien til at vende om og kæmpe for dig.
+
+[HYPNO_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Anvendelse:{STAT} engangsbrug, ved berøring
+{KEYWORD}Særligt:{STAT} får en zombie til at kæmpe for dig
+{NOCTURNAL}Sover om dagen
+{SHORTLINE}
+{FLAVOR}"Zombier er vores venner," erklærer hypnosesvampen. "De er nogle stærkt misforståede væsner, som spiller en vigtig rolle i vores økosystem. Vi kan og bør gøre mere for at få dem over på vores side."
+
+[SCAREDY_SHROOM_DESCRIPTION_HEADER]
+Bangebuksesvampe er langtrækkende skytter, der gemmer sig, når fjender kommer tæt på.
+
+[SCAREDY_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal
+{KEYWORD}Særligt:{STAT} holder op med at skyde, når en fjende er tæt på
+{NOCTURNAL}Sover om dagen
+{SHORTLINE}
+{FLAVOR}"Hvem der?" hvisker bangebuksesvampen med næsten uhørlig stemme. "Gå væk. Jeg vil ikke se nogen. Medmindre det er manden fra cirkusset."
+
+[ICE_SHROOM_DESCRIPTION_HEADER]
+Issvampe lammer midlertidigt alle zombier på skærmen.
+
+[ICE_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} meget lille, lammer zombier
+{KEYWORD}Rækkevidde:{STAT} alle zombier på skærmen
+{KEYWORD}Anvendelse:{STAT} engangsbrug, øjeblikkelig
+{NOCTURNAL}Sover om dagen
+{SHORTLINE}
+{FLAVOR}Issvampen rynker panden, ikke fordi han er ulykkelig eller misbilliger noget, men på grund af en barndomsskade, der lammede hans ansigtsnerver.
+
+[DOOM_SHROOM_DESCRIPTION_HEADER]
+Dommedagssvampe ødelægger alt i et stort område og efterlader et krater, hvor der ikke kan plantes.
+
+[DOOM_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} enorm
+{KEYWORD}Rækkevidde:{STAT} alle zombier i et kæmpestort område
+{KEYWORD}Anvendelse:{STAT} engangsbrug, øjeblikkelig
+{KEYWORD}Særligt:{STAT} efterlader et krater
+{NOCTURNAL}Sover om dagen
+{SHORTLINE}
+{FLAVOR}"Du kan være glad for, at jeg er på din side," siger dommedagssvampen. "Jeg kunne ødelægge alt, hvad du holder af. Det ville ikke være svært."
+
+[LILY_PAD_DESCRIPTION_HEADER]
+Åkandeblade lader dig plante landplanter oven på dem.
+
+[LILY_PAD_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Særligt:{STAT} landplanter kan plantes oven på den
+{AQUATIC}Skal plantes i vand
+{SHORTLINE}
+{FLAVOR}Åkandeblad klager aldrig. Åkandeblad vil aldrig vide, hvad der foregår. Plant en plante oven på åkandeblad, og han siger ikke et ord. Har han overraskende meninger eller chokerende hemmeligheder? Ingen ved det. Åkandeblad holder det hele for sig selv.
+
+[SQUASH_DESCRIPTION_HEADER]
+Squashplanter maser den første zombie, der kommer tæt på.
+
+[SQUASH_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} enorm
+{KEYWORD}Rækkevidde:{STAT} kort, rammer alle zombier, den lander på
+{KEYWORD}Anvendelse:{STAT} engangsbrug
+{SHORTLINE}
+{FLAVOR}"Jeg er klar!" råber squashen. "Lad os gøre det! Sæt mig ind! Der er ingen bedre! Jeg er din mand! Kom nu! Hvad venter du på? Jeg har brug for det her!"
+
+[THREEPEATER_DESCRIPTION_HEADER]
+Trippelærteskytter skyder ærter i tre baner.
+
+[THREEPEATER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal (for hver ært)
+{KEYWORD}Rækkevidde:{STAT} tre baner
+{SHORTLINE}
+{FLAVOR}Trippelærteskytten kan lide at læse, spille backgammon og sidde helt stille i lange perioder i parken. Han nyder at gå til koncerter, især moderne jazz. "Jeg leder bare efter den eneste ene," siger han. Trippelærteskyttens yndlingstal er 5.
+
+[TANGLE_KELP_DESCRIPTION_HEADER]
+Filtret tang er vandplanter, der trækker den første zombie, der nærmer sig, ned under vandet.
+
+[TANGLE_KELP_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} enorm
+{KEYWORD}Anvendelse:{STAT} engangsbrug, ved berøring
+{AQUATIC}Skal plantes i vand
+{SHORTLINE}
+{FLAVOR}"Jeg er fuldstændig usynlig," tænker den filtrede tang. "Jeg gemmer mig lige her under overfladen, og ingen vil få øje på mig." Vennerne fortæller ham, at de sagtens kan se ham, men han ændrer sig aldrig.
+
+[JALAPENO_DESCRIPTION_HEADER]
+Jalapeñoer udsletter alle zombier i en hel bane.
+
+[JALAPENO_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} enorm
+{KEYWORD}Rækkevidde:{STAT} alle zombier i en bane
+{KEYWORD}Anvendelse:{STAT} engangsbrug, øjeblikkelig
+{SHORTLINE}
+{FLAVOR}"NNNNNGGGGGG!!!!!!!!" siger jalapeñoen. Han er ikke ved at eksplodere, ikke denne gang. Men snart. Åh, meget snart. Det er tæt på. Han ved det, han kan mærke det, hele hans liv har ført frem til dette øjeblik.
+
+[SPIKEWEED_DESCRIPTION_HEADER]
+Piggræs punkterer dæk og skader alle zombier, der træder på det.
+
+[SPIKEWEED_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal
+{KEYWORD}Rækkevidde:{STAT} alle zombier, der går hen over den
+{KEYWORD}Særligt:{STAT} kan ikke spises af zombier
+{SHORTLINE}
+{FLAVOR}Hockey er piggræssets store besættelse. Han har sæsonkort til de bedste pladser. Han holder nøje øje med sine yndlingsspillere og vinder konsekvent kontorets hockeypulje. Der er kun ét problem: Han er rædselsslagen for pucke.
+
+[TORCHWOOD_DESCRIPTION_HEADER]
+Fakkeltræer forvandler ærter, der passerer gennem dem, til ildkugler, som gør dobbelt så meget skade.
+
+[TORCHWOOD_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Særligt:{STAT} fordobler skaden fra ærter, der passerer gennem den. Ildkugler skader nærliggende zombier ved nedslag
+{SHORTLINE}
+{FLAVOR}Alle kan lide og respekterer fakkeltræet. De kan lide ham for hans integritet, hans urokkelige venskab og hans evne til at øge ærters skade markant. Men fakkeltræet har en hemmelighed: Han kan ikke læse.
+
+[TALL_NUT_DESCRIPTION_HEADER]
+Høje valnødder er solide murplanter, som ikke kan springes over.
+
+[TALL_NUT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} meget høj
+{KEYWORD}Særligt:{STAT} kan ikke springes over eller hoppes over
+{SHORTLINE}
+{FLAVOR}Folk spekulerer på, om der er rivalisering mellem valnød og høj valnød. Høj valnød ler med en dyb, fyldig latter. "Hvordan skulle der kunne være noget imellem os? Vi er brødre. Hvis I vidste, hvad valnød har gjort for mig..." Høj valnøds stemme dør hen, og han smiler indforstået.
+
+[SEA_SHROOM_DESCRIPTION_HEADER]
+Havsvampe er vandplanter, der skyder sporer på kort afstand.
+
+[SEA_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal
+{KEYWORD}Rækkevidde:{STAT} kort
+{AQUATIC}Skal plantes i vand
+{NOCTURNAL}Sover om dagen
+{SHORTLINE}
+{FLAVOR}Havsvampen har aldrig set havet. Det står i hans navn, og han har hørt masser om det, men han har bare aldrig fundet tid til det. En dag skal det dog nok ske.
+
+[PLANTERN_DESCRIPTION_HEADER]
+Lanterneplanter oplyser et område, så du kan se gennem tågen.
+
+[PLANTERN_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Rækkevidde:{STAT} én bane
+{KEYWORD}Særligt:{STAT} lader dig se gennem tågen
+{SHORTLINE}
+{FLAVOR}Lanterneplanten trodser videnskaben. Sådan er det bare. Andre planter spiser lys og udskiller ilt; lanterneplanten spiser mørke og udskiller lys. Lanterneplanten er hemmelighedsfuld omkring, hvordan den gør det. "Jeg vil ikke sige 'trolddom', jeg ville heller ikke bruge udtrykket 'mørke kræfter', jeg... Jeg tror, jeg har sagt nok."
+
+[CACTUS_DESCRIPTION_HEADER]
+Kaktusser skyder pigge, der kan ramme både mål på jorden og i luften.
+
+[CACTUS_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal
+{KEYWORD}Rækkevidde:{STAT} jord og luft
+{SHORTLINE}
+{FLAVOR}Hun er ganske vist lidt stikkende, men kaktussens pigge skjuler et blødt hjerte fyldt med kærlighed og velvilje. Hun vil bare gerne kramme og krammes. De fleste kan ikke helt håndtere det, men kaktussen tager det roligt. Hun har set et bæltedyr i et stykke tid, og det ser virkelig ud til at fungere.
+
+[BLOVER_DESCRIPTION_HEADER]
+Vindblomster blæser alle ballon-zombier og tågen væk.
+
+[BLOVER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Anvendelse:{STAT} engangsbrug, øjeblikkelig
+{KEYWORD}Særligt:{STAT} blæser alle ballon-zombier væk
+{SHORTLINE}
+{FLAVOR}Da vindblomsten var fem år, fik han en skinnende ny fødselsdagskage. Han ønskede sig noget, pustede og pustede, men kunne kun slukke 60 % af lysene. I stedet for at give op brugte han nederlaget som motivation til at gøre en endnu større indsats lige siden.
+
+[SPLIT_PEA_DESCRIPTION_HEADER]
+Delingsærter skyder ærter både fremad og bagud.
+
+[SPLIT_PEA_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal
+{KEYWORD}Rækkevidde:{STAT} fremad og bagud
+{KEYWORD}Skudhastighed:{STAT} 1x fremad, 2x bagud
+{SHORTLINE}
+{FLAVOR}"Ja, jeg er tvilling," siger delingsærten. "Jeg ved det, stor overraskelse. Men det betaler sig i mit arbejde at have to hoveder -- eller rettere ét hoved med en stor, hovedlignende udvækst bagpå."
+
+[STARFRUIT_DESCRIPTION_HEADER]
+Stjernefrugter skyder stjerner i 5 retninger.
+
+[STARFRUIT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal
+{KEYWORD}Rækkevidde:{STAT} 5 retninger
+{SHORTLINE}
+{FLAVOR}"Åh, mand," siger stjernefrugten. "Jeg var hos tandlægen forleden, og han sagde, at jeg har fire huller. Jeg har -- tæl efter -- ÉN tand! Fire huller i én tand? Hvordan kan det ske?"
+
+[PUMPKIN_DESCRIPTION_HEADER]
+Græskar beskytter planter, der befinder sig inde i deres skaller.
+
+[PUMPKIN_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} høj
+{KEYWORD}Særligt:{STAT} kan plantes oven på en anden plante
+{SHORTLINE}
+{FLAVOR}Græskar har ikke hørt fra sin fætter Renfield på det seneste. Åbenbart er Renfield en stor stjerne, en slags... hvad var det nu... sportshelt? Peggle-mester? Græskar forstår det ikke rigtig. Han passer bare sit arbejde.
+
+[MAGNET_SHROOM_DESCRIPTION_HEADER]
+Magnetsvampe fjerner hjelme og andre metalgenstande fra zombier.
+
+[MAGNET_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Rækkevidde:{STAT} nærliggende zombier
+{KEYWORD}Særligt:{STAT} fjerner metalgenstande fra zombier
+{NOCTURNAL}Sover om dagen
+{SHORTLINE}
+{FLAVOR}Magnetisme er en stærk kraft. Meget stærk. Nogle gange skræmmer den magnetsvampen en smule. Han er ikke sikker på, om han kan håndtere den slags ansvar.
+
+[CABBAGE_PULT_DESCRIPTION_HEADER]
+Kålkatapulter kaster kål efter fjenden.
+
+[CABBAGE_PULT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal
+{KEYWORD}Rækkevidde:{STAT} i bue
+{SHORTLINE}
+{FLAVOR}Kålkatapulten har det fint med at kaste kål efter zombier. Det er trods alt det, han får løn for, og han er god til det. Han forstår bare ikke, hvordan zombierne overhovedet kommer op på taget.
+
+[FLOWER_POT_DESCRIPTION_HEADER]
+Blomsterkrukker lader dig plante på taget.
+
+[FLOWER_POT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Særligt:{STAT} lader dig plante på taget
+{SHORTLINE}
+{FLAVOR}"Jeg er en krukke til planter. Men jeg er også en plante. ER DIT SIND EKSPLODERET ENDNU?"
+
+[KERNEL_PULT_DESCRIPTION_HEADER]
+Majskatapulter kaster majskorn og smør efter zombier.
+
+[KERNEL_PULT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} let (majskorn), normal (smør)
+{KEYWORD}Rækkevidde:{STAT} i bue
+{KEYWORD}Særligt:{STAT} smør lammer zombier
+{SHORTLINE}
+{FLAVOR}Majskatapulten er den ældste af katapultbrødrene. Af de tre er han den eneste, der konsekvent husker de andres fødselsdage. Han minder dem også lidt for ofte om det.
+
+[COFFEE_BEAN_DESCRIPTION_HEADER]
+Brug kaffebønner til at vække sovende svampe.
+
+[COFFEE_BEAN_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Anvendelse:{STAT} engangsbrug, øjeblikkelig
+{KEYWORD}Særligt:{STAT} kan plantes oven på en anden plante og vækker svampe
+{SHORTLINE}
+{FLAVOR}"Hej, venner, hej!" siger kaffebønnen. "Hej! Hvad så? Hvem er det? Hej! Så du den tingest? Hvilken ting? Wow! Løver!" Ja, kaffebønnen bliver bestemt let begejstret.
+
+[GARLIC_DESCRIPTION_HEADER]
+Hvidløg leder zombierne over i andre baner.
+
+[GARLIC_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Anvendelse:{STAT} ved berøring
+{KEYWORD}Særligt:{STAT} leder zombierne over i andre baner
+{SHORTLINE}
+{FLAVOR}At lede zombier over i andre baner er ikke bare hvidløgets arbejde. Det er hans passion. Han har en avanceret doktorgrad i omdirigering fra universitetet i Bruxelles. Han kan tale hele dagen om baneretninger og frastødningssystemer. Derhjemme skubber han endda ting ind på alternative veje. På en eller anden måde finder hans kone sig i det.
+
+[UMBRELLA_LEAF_DESCRIPTION_HEADER]
+Paraplyblade beskytter nærliggende planter mod bungee-zombier og katapulter.
+
+[UMBRELLA_LEAF_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Særligt:{STAT} beskytter tilstødende planter mod bungee-zombier og katapulter
+{SHORTLINE}
+{FLAVOR}"SPROING!" siger paraplybladet. "Kunne du lide det? Jeg kan gøre det igen. SPROING! Woo! Det er mig, der springer op for at beskytte tingene omkring mig. Ja. Lige sådan. PRÆCIS sådan. Tro på det."
+
+[MARIGOLD_DESCRIPTION_HEADER]
+Morgenfruer giver dig sølv- og guldmønter.
+
+[MARIGOLD_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Særligt:{STAT} giver mønter
+{SHORTLINE}
+{FLAVOR}Morgenfruen bruger meget tid på at beslutte, om hun skal spytte en sølvmønt eller en guldmønt ud. Hun tænker over det og vurderer mulighederne. Hun laver grundig research og følger med i de nyeste publikationer. Sådan holder vindere sig foran.
+
+[MELON_PULT_DESCRIPTION_HEADER]
+Melonkatapulter gør stor skade på grupper af zombier.
+
+[MELON_PULT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} stor
+{KEYWORD}Rækkevidde:{STAT} i bue
+{KEYWORD}Særligt:{STAT} meloner skader nærliggende fjender ved nedslag
+{SHORTLINE}
+{FLAVOR}Melonkatapulten lider ikke af falsk beskedenhed. "For sol mod skade leverer jeg det hårdeste slag på græsplænen," siger han. "Jeg praler ikke. Regn på det. Så vil du se."
+
+[GATLING_PEA_DESCRIPTION_HEADER]
+Gatlingærter skyder fire ærter ad gangen.
+
+[GATLING_PEA_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal (for hver ært)
+{KEYWORD}Skudhastighed:{STAT} 4x
+{KEYWORD}Skal plantes oven på dobbeltærteskytter
+{SHORTLINE}
+{FLAVOR}Gatlingærtens forældre blev bekymrede, da han fortalte, at han ville i militæret. "Men skat, det er så farligt!" sagde de i kor. Gatlingærten nægtede at rokke sig. "Livet er farligt," svarede han med stålsat overbevisning i øjnene.
+
+[TWIN_SUNFLOWER_DESCRIPTION_HEADER]
+Dobbeltsolsikker giver dobbelt så meget sol som en normal solsikke.
+
+[TWIN_SUNFLOWER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Solproduktion:{STAT} dobbelt
+{KEYWORD}Skal plantes oven på solsikker
+{SHORTLINE}
+{FLAVOR}Det var en vanvittig nat med forbudt videnskab, der bragte dobbeltsolsikken til live. Torden bragede over dem, mærkelige lys flimrede, og selv den hylende vind syntes at hvæse sin vrede protest. Men forgæves. Dobbeltsolsikken var i live, I LIVE!
+
+[GLOOM_SHROOM_DESCRIPTION_HEADER]
+Mørkesvampe udsender kraftig gas i området omkring sig.
+
+[GLOOM_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skal plantes oven på gassvampe
+{SHORTLINE}
+{FLAVOR}"Jeg har altid nydt at udsende kraftig gas," siger mørkesvampen. "Jeg ved godt, at mange ikke synes om det. De siger, det er uhøfligt, eller at det lugter dårligt. Det eneste, jeg kan sige, er: Vil du hellere have, at zombierne æder din hjerne?"
+
+[CATTAIL_DESCRIPTION_HEADER]
+Dunhamre kan angribe alle baner og også skyde ballon-zombier ned.
+
+[CATTAIL_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skal plantes oven på åkandeblade
+{SHORTLINE}
+{FLAVOR}"Vov!" siger dunhammeren. "Vov vov vov! Forvirrer det dig? Forventer du, at jeg skal sige 'miav' som en kat, bare fordi ordet 'kat' indgår i mit navn, og jeg også ligner en kat? Sådan fungerer tingene ikke her. Jeg nægter at blive sat i bås."
+
+[WINTER_MELON_DESCRIPTION_HEADER]
+Vintermeloner gør stor skade på grupper af zombier og gør dem langsommere.
+
+[WINTER_MELON_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} meget stor
+{KEYWORD}Rækkevidde:{STAT} i bue
+{KEYWORD}Skudhastighed:{STAT} 1/2x
+{KEYWORD}Særligt:{STAT} meloner skader og fryser nærliggende fjender ved nedslag
+{KEYWORD}Skal plantes oven på melonkatapulter
+{SHORTLINE}
+{FLAVOR}Vintermelonen forsøger at berolige sine nerver. Han hører zombierne nærme sig. Klarer han den? Klarer nogen den?
+
+[GOLD_MAGNET_DESCRIPTION_HEADER]
+Guldmagneter samler mønter og diamanter for dig.
+
+[GOLD_MAGNET_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skal plantes oven på magnet-svampe
+{SHORTLINE}
+{FLAVOR}"Hvordan endte jeg her?" spørger Guldmagnet. "Jeg var på hurtigsporet – hjørnekontor, fulde 
+pension og aktieoptioner. Jeg skulle være vicepræsident for driften i Midtvesten. Nu er jeg her, på denne 
+plæne, i overhængende fare for at blive ædt ihjel. Uh! En mønt!"
+
+[COB_CANNON_DESCRIPTION_HEADER]
+Klik på Majskanonen for at affyre dødbringende majskolber.
+
+[COB_CANNON_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skal plantes oven på to majskatapulter ved siden af hinanden
+{SHORTLINE}
+{FLAVOR}Hvad er historien egentlig med Majskanonen? Han har læst på Harvard. Han arbejder som advokat i et prestigefyldt 
+advokatfirma i New York. Han kan sprænge hele grupper af zombier i luften med ét eneste majsskud. Det ved alle. 
+Men hvad er det egentlig, der driver ham inderst inde?
+
+[IMITATER_DESCRIPTION_HEADER]
+Kopiplanter lader dig bruge to af den samme plante i en bane!
+
+[IMITATER_DESCRIPTION]
+{SHORTLINE}
+{FLAVOR}"Jeg husker Zombikrigene tilbage i '76," siger Kopiplanten med en hæs, gammelmandsagtig stemme. "Dengang 
+havde vi ikke alle de smarte ærteskydere og jalapeñoer. Vi havde kun mod. Mod og en ske."
+
+[SPIKEROCK_DESCRIPTION_HEADER]
+Pigsten punkterer flere dæk og skader zombier, der går hen over dem.
+
+[SPIKEROCK_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skal plantes oven på piggræs
+{SHORTLINE}
+{FLAVOR}Pigsten er netop vendt hjem fra en rejse til Europa. Han havde det fantastisk og mødte nogle vidunderlige mennesker, 
+og hans horisont blev virkelig udvidet. Han anede ikke, at museer kunne være så store, eller at man kunne hænge så mange malerier op i dem. 
+Det kom virkelig bag på ham.
+
+[ZOMBIE_DESCRIPTION_HEADER]
+En helt almindelig zombie
+
+[ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav {270}
+{SHORTLINE}
+{FLAVOR}Denne zombie elsker hjerner. Han kan ikke få nok. Hjerner, hjerner, hjerner, dag og nat. 
+Gamle og stinkende hjerner? Rådne hjerner? Hjerner, der tydeligvis har overskredet sidste holdbarhedsdato? Det er lige meget. Den almindelige zombie vil have dem. 
+
+[FLAG_ZOMBIE_DESCRIPTION_HEADER]
+Flagzombien varsler ankomsten af en kæmpe flok eller "bølge" af zombier.
+
+[FLAG_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav {270}
+{SHORTLINE}
+{FLAVOR}Der er ingen tvivl om, at Flagzombien elsker hjerner. Men på et tidspunkt udviklede han også 
+en fascination af flag. Måske er det, fordi flagene altid har hjerner på sig. Det er svært at sige.
+
+[CONEHEAD_ZOMBIE_DESCRIPTION_HEADER]
+Hans trafikkegle på hovedet gør ham dobbelt så sejlivet som almindelige zombier.
+
+[CONEHEAD_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {640}
+{SHORTLINE}
+{FLAVOR}Keglehovedzombien slæbte sig tankeløst fremad ligesom alle andre zombier.
+Men noget fik ham til at standse, samle en trafikkegle op og sætte den på hovedet. Nå ja. Han elsker fest.
+
+[BUCKETHEAD_ZOMBIE_DESCRIPTION_HEADER]
+Hans spand på hovedet gør ham ekstremt modstandsdygtig over for skade.
+
+[BUCKETHEAD_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} høj {1370}
+{KEYMETAL}Svaghed:{METAL} Magnet-svamp
+{SHORTLINE}
+{FLAVOR}Spandhoved-zombien gik altid med en spand. Dels for at understrege sin egenart 
+i en verden, der var ligeglad. Men mest af alt havde han bare glemt, at den sad der.
+
+[POLE_VAULTING_ZOMBIE_DESCRIPTION_HEADER]
+Stangspringerzombien springer over forhindringer med en stang.
+
+[POLE_VAULTING_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {500}
+{KEYWORD}Hastighed:{STAT} hurtig, derefter normal (efter springet)
+{KEYWORD}Særligt:{STAT} springer over den første plante, han møder
+{SHORTLINE}
+{FLAVOR}Nogle zombier går skridtet videre, stræber højere og presser sig selv ud over 
+det normale for at opnå storhed. Det er lige præcis Stangspringerzombien. Typisk ham.
+
+[NEWSPAPER_ZOMBIE_DESCRIPTION_HEADER]
+Hans avis giver en smule beskyttelse.
+
+[NEWSPAPER_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav {270}
+{KEYWORD}Avisens robusthed:{STAT} lav {150}
+{KEYWORD}Hastighed:{STAT} normal, derefter hurtig (når avisen mistes)
+{SHORTLINE}
+{FLAVOR}Aviszombien var *så* tæt på at færdiggøre sin sudoku. Det er ikke så mærkeligt, at han flipper ud.
+
+[SCREEN_DOOR_ZOMBIE_DESCRIPTION_HEADER]
+Hans insektnetdør er et effektivt skjold.
+
+[SCREEN_DOOR_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav {270}
+{KEYWORD}Insektnetdørens robusthed:{STAT} høj {1100}
+{KEYWORD}Svaghed:{STAT} fume-shroom{METAL} and Magnet-svamp{KEYWORD}
+{SHORTLINE}
+{FLAVOR}Han fik sin insektnetdør fra det sidste dårligt forsvarede hus, han besøgte, efter at han ÅD HUSEJERENS HJERNE.
+
+[FOOTBALL_ZOMBIE_DESCRIPTION_HEADER]
+Fodboldzombien laver de store spil.
+
+[FOOTBALL_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} meget høj {1670}
+{KEYWORD}Hastighed:{STAT} hurtig
+{KEYMETAL}Svaghed:{METAL} Magnet-svamp
+{SHORTLINE}
+{FLAVOR}Fodboldzombien giver 110 procent, hver gang han er på banen. Han er en holdspiller, 
+der bidrager både offensivt og defensivt. Han aner ikke, hvad amerikansk fodbold er.
+
+[DANCING_ZOMBIE_DESCRIPTION_HEADER]
+Enhver lighed mellem Dansezombien og nulevende eller afdøde personer er rent tilfældig.
+
+[DANCING_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {500}
+{KEYWORD}Særligt:{STAT} summons back-up dancers
+{SHORTLINE}
+{FLAVOR}Dansezombiens seneste album, "GrarrBRAINSarblarbl", stormer allerede op ad hitlisterne for de udøde.
+
+[BACKUP_DANCER_DESCRIPTION_HEADER]
+Disse zombier dukker op i grupper på fire, hver gang Dansezombien fyrer den af.
+
+[BACKUP_DANCER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav {270}
+{SHORTLINE}
+{FLAVOR}Backupdanserzombien brugte seks år på at perfektionere sin kunst på Chewliard 
+Scenekunstskole i Zombiew York.
+
+[DUCKY_TUBE_ZOMBIE_DESCRIPTION_HEADER]
+Baderingens form som en and gør, at zombien kan flyde på vandet.
+
+[DUCKY_TUBE_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav {270}
+{AQUATIC}Vises kun i bassinet
+{SHORTLINE}
+{FLAVOR}Det kræver en særlig slags zombie at være Baderingzombie. Ikke alle zombier kan klare det. 
+Nogle bryder sammen. De kan ikke holde til det. De går deres vej og opgiver hjerner for altid.
+
+[SNORKEL_ZOMBIE_DESCRIPTION_HEADER]
+Snorkelzombier kan svømme under vandet.
+
+[SNORKEL_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav {270}
+{KEYWORD}Særligt:{STAT} dykker for at undgå angreb
+{AQUATIC}Vises kun i bassinet
+{SHORTLINE}
+{FLAVOR}Zombier trækker ikke vejret. De har ikke brug for luft. Så hvorfor har Snorkelzombien brug for en snorkel for at svømme under vandet?{KEYWORD}
+{FLAVOR}Svar: gruppepres.
+
+[ZOMBONI_DESCRIPTION_HEADER]
+Zombonien udsætter dine planter for is, damp og tryk.
+
+[ZOMBONI_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} høj {1350}
+{KEYWORD}Særligt:{STAT} knuser planter og efterlader et isspor
+{SHORTLINE}
+{FLAVOR}Må ikke forveksles med ismaskinen af mærket Zamboni®. Zamboni® og billedet af ismaskinen er registrerede varemærker tilhørende Frank J. Zamboni & Co., Inc., og "Zomboni" bruges med tilladelse. Hvis du har brug for isbehandling uden zombier, kan du besøge www.zamboni.com!
+
+[ZOMBIE_BOBSLED_TEAM_DESCRIPTION_HEADER]
+Disse zombier optræder i hold på fire.
+
+[ZOMBIE_BOBSLED_TEAM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav (each zombie) {270}
+{KEYWORD}Bobslædens robusthed:{STAT} lav {300}
+{KEYWORD}Særligt:{STAT} vises kun på is
+{SHORTLINE}
+{FLAVOR}Zombiebobslædeholdet har arbejdet hårdt for at nå så langt. De bor sammen, spiser hjerner 
+sammen og træner sammen for at blive en sammentømret zombieenhed.
+
+[DOLPHIN_RIDER_ZOMBIE_DESCRIPTION_HEADER]
+Delfinrytterzombier bruger delfiner til at udnytte svagheder i dit bassinforsvar.
+
+[DOLPHIN_RIDER_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {500}
+{KEYWORD}Hastighed:{STAT} hurtig, then slav (after jump)
+{KEYWORD}Særligt:{STAT} springer over den første plante, han møder
+{AQUATIC}Vises kun i bassinet
+{SHORTLINE}
+{FLAVOR}Delfinen er også en zombie.
+
+[ZOMBIE_YETI_DESCRIPTION_HEADER]
+Et sjældent og besynderligt væsen.
+
+[ZOMBIE_YETI_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} høj {1350}
+{KEYWORD}Særligt:{STAT} runs away after a short while
+{SHORTLINE}
+{FLAVOR}Man ved kun lidt om Yeti-zombien ud over hans navn, fødselsdato, personnummer, 
+uddannelseshistorik, tidligere arbejdserfaring og foretrukne sandwich (roastbeef og schweizerost).
+
+[JACK_IN_THE_BOX_ZOMBIE_DESCRIPTION_HEADER]
+Denne zombie har en eksplosiv overraskelse med sig.
+
+[JACK_IN_THE_BOX_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {500}
+{KEYWORD}Hastighed:{STAT} hurtig
+{KEYWORD}Særligt:{STAT} jack-in-the-box explodes
+{KEYMETAL}Svaghed:{METAL} Magnet-svamp
+{SHORTLINE}
+{FLAVOR}Denne zombie ryster, ikke fordi han fryser, men fordi han er vanvittig.
+
+[BALLOON_ZOMBIE_DESCRIPTION_HEADER]
+Ballonzombien svæver over kamppladsen og er immun over for de fleste angreb.
+
+[BALLOON_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav {270}
+{KEYWORD}Særligt:{STAT} flying
+{KEYWORD}Svaghed:{STAT} cactus and blover
+{SHORTLINE}
+{FLAVOR}Ballonzombien har virkelig været heldig. Det med ballonen virker faktisk, og 
+ingen af de andre zombier har opdaget det.
+
+[DIGGER_ZOMBIE_DESCRIPTION_HEADER]
+Denne zombie graver sig uden om dit forsvar.
+
+[DIGGER_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {370}
+{KEYWORD}Hastighed:{STAT} hurtig, then slav
+{KEYWORD}Særligt:{STAT} graver en tunnel under jorden og dukker op i venstre side af plænen
+{KEYWORD}Svaghed:{STAT} split pea{METAL} and Magnet-svamp{KEYWORD}
+{SHORTLINE}
+{FLAVOR}Graverzombien bruger tre dage om ugen på at få sine gravetilladelser i orden.
+
+[POGO_ZOMBIE_DESCRIPTION_HEADER]
+Pogozombien hopper for at komme uden om dit forsvar.
+
+[POGO_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {500}
+{KEYWORD}Særligt:{STAT} hopper over planter
+{KEYMETAL}Svaghed:{METAL} Magnet-svamp
+{SHORTLINE}
+{FLAVOR}Boing! Boing! Boing! Sådan lyder en stærk og effektiv zombie, når han gør det, han er bedst til.
+
+[BUNGEE_ZOMBIE_DESCRIPTION_HEADER]
+Bungeezombien angriber oppefra.
+
+[BUNGEE_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {400}
+{KEYWORD}Særligt:{STAT} firer sig ned fra himlen og stjæler en plante
+{SHORTLINE}
+{FLAVOR}Bungeezombien elsker at løbe risici. For hvad er meningen med at være død, hvis man ikke lever lidt?
+
+[LADDER_ZOMBIE_DESCRIPTION_HEADER]
+Stigezombien klatrer over forhindringer.
+
+[LADDER_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {500}
+{KEYWORD}Stigens robusthed:{STAT} middel {500}
+{KEYWORD}Hastighed:{STAT} hurtig, then slav (after placing ladder)
+{KEYWORD}Svaghed:{STAT} fume-shroom{METAL} and Magnet-svamp{KEYWORD}
+{SHORTLINE}
+{FLAVOR}Han købte stigen for 8,99 $.
+
+[CATAPULT_ZOMBIE_DESCRIPTION_HEADER]
+Katapultzombien betjener tunge maskiner.
+
+[CATAPULT_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {850}
+{KEYWORD}Særligt:{STAT} kaster basketballer efter dine planter
+{SHORTLINE}
+{FLAVOR}Af alle de ting, Katapultzombien kunne skyde af sted med sin katapult, virkede basketballer 
+som det bedste og mest oplagte valg.
+
+[GARGANTUAR_DESCRIPTION_HEADER]
+Gargantuar er en gigantisk zombie.
+
+[GARGANTUAR_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} ekstremt høj {3000}
+{SHORTLINE}
+{FLAVOR}Når Gargantuar går, ryster jorden. Når han stønner, bliver de andre zombier tavse.
+Han er den zombie, som andre zombier drømmer om at blive. Men han kan stadig ikke finde en kæreste. 
+
+[IMP_DESCRIPTION_HEADER]
+Imp-zombier er små zombier, som Gargantuar slynger langt ind i dit forsvar.
+
+[IMP_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav {270}
+{SHORTLINE}
+{FLAVOR}Imp er måske lille, men han er sej og senet. Han er dygtig til zombie-judo, zombie-karate 
+og zombie-nævekamp. Han spiller også melodika.
+
+[BOSS_DESCRIPTION_HEADER]
+Dr. Zomboss hersker over dem alle.
+
+[BOSS_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed (i Zombot-rustningen):{STAT} ekstrem
+{SHORTLINE}
+{FLAVOR}Edgar George Zomboss tog sin doktorgrad i thanatologi på kun to år. Efter hurtigt at have mestret 
+thanatologisk teknologi byggede han sin frygtindgydende Zombot og gik i gang med at etablere fuldstændig dominans over sit lokalområde.
+
+[DOG_WALKING_ZOMBIE_DESCRIPTION]
+Beskrivelse af hundelufterzombien
+
+[DOG_ZOMBIE_DESCRIPTION]
+Beskrivelse af hundezombien
+
+[PROPELLER_ZOMBIE_DESCRIPTION]
+Beskrivelse af propelzombien
+
+[CRAZY_DAVE_201]
+Godaften, {PLAYER_NAME}.
+
+[CRAZY_DAVE_202]
+De zombier giver bare ikke op, vel?
+
+[CRAZY_DAVE_203]
+Du vil opdage, at det er anderledes at kæmpe mod zombier om natten end om dagen.
+
+[CRAZY_DAVE_204]
+For det første falder der ikke sol ned fra himlen.
+
+[CRAZY_DAVE_205]
+Men du kan stadig få sol fra solsikker.
+
+[CRAZY_DAVE_206]
+Og heldigvis har du nogle pufsvampe.
+
+[CRAZY_DAVE_207]
+Plant så mange af dem, du kan, så skal det nok gå helt fint.
+
+[CRAZY_DAVE_301]
+Hey, du fandt min bilnøgle!
+
+[CRAZY_DAVE_302]
+Ved du, hvad det betyder...
+
+[CRAZY_DAVE_303]
+Skøre Daves Rodebutik har åbent! {MOUTH_SMALL_SMILE}
+
+[CRAZY_DAVE_304]
+Kig dig omkring! Se, om du ikke kan finde noget, du kan lide! {MOUTH_SMALL_SMILE}
+
+[CRAZY_DAVE_401]
+Har du nogensinde spillet et spil, der hedder "Whack-a-Zombie"?
+
+[CRAZY_DAVE_402]
+Det er ligesom at klaske muldvarpe.
+
+[CRAZY_DAVE_403]
+Du ved, de små pelsede gnavere, der graver huller i din plæne?
+
+[CRAZY_DAVE_404]
+Ja, lige sådan, men i stedet for muldvarpe er det zombier.
+
+[CRAZY_DAVE_405]
+{SHOW_HAMMER}Og i stedet for en skovl, er det en hammer.
+
+[CRAZY_DAVE_406]
+Og i stedet for MIG er det DIG! {MOUTH_BIG_SMILE} {SCREAM}
+
+[CRAZY_DAVE_501]
+Det ser ud til, at zombierne har opgivet at angribe din forhave.
+
+[CRAZY_DAVE_502]
+Nu prøver de sig med din baghave.
+
+[CRAZY_DAVE_503]
+Og som om det ikke var nok, kan du ikke engang bruge dine svampe!
+
+[CRAZY_DAVE_504]
+For de falder i søvn om dagen!
+
+[CRAZY_DAVE_505]
+Er det ikke bare herligt!
+
+[CRAZY_DAVE_601]
+DU HAR FUNDET MIN MAGISKE TACO!! {SCREAM2}
+
+[CRAZY_DAVE_602]
+{SHOW_MONEYBAG} Jeg må have den! Jeg vil give dig $1000!
+
+[CRAZY_DAVE_603]
+JA! TACOEN ER MIN! {SCREAM}
+
+[CRAZY_DAVE_604]
+Hvorfor gav jeg dig så mange penge for en taco?
+
+[CRAZY_DAVE_605]
+{SHAKE}FORDI JEG ER SKØØØØØR!!!! {MOUTH_BIG_SMILE}
+
+[CRAZY_DAVE_606]
+Kig dig omkring i min butik! Du vil se, at jeg har fået nogle nye varer på lager!
+
+[CRAZY_DAVE_701]
+Det mærkelige ved zombiefremstillingen er, at de nogle gange bliver helt små.
+
+[CRAZY_DAVE_702]
+Rigtig små og RIGTIG ONDE!
+
+[CRAZY_DAVE_703]
+Pas på dine skinneben! {SCREAM}
+
+[CRAZY_DAVE_801]
+Ved du hvad, de plejede at kalde mig "Tågemanden"
+
+[CRAZY_DAVE_802]
+fordi jeg gemte mig i tågen og SPRANG FREM FORAN FOLK! {MOUTH_BIG_SMILE}
+
+[CRAZY_DAVE_803]
+Ak ja, det var tider. {MOUTH_SMALL_SMILE}
+
+[CRAZY_DAVE_1101]
+Hvorfor blev det pludselig så mørkt?
+
+[CRAZY_DAVE_1102]
+Det kan ikke være godt.
+
+[CRAZY_DAVE_1103]
+Nå, men jeg håber, du overlever natten!
+
+[CRAZY_DAVE_1201]
+Wow! De har endda fundet en vej op på dit tag!
+
+[CRAZY_DAVE_1202]
+Det er godt nok nogle ihærdige zombier, min ven.
+
+[CRAZY_DAVE_1203]
+Du bliver nødt til at bruge kålkastere her på grund af tagets hældning.
+
+[CRAZY_DAVE_1204]
+Husk det, så skal det nok gå!
+
+[CRAZY_DAVE_1301]
+Zenhaven er ret smart, hva’?
+
+[CRAZY_DAVE_1302]
+Du kan besøge den når som helst fra hovedmenuen.
+
+[CRAZY_DAVE_1303]
+Men nok om det! Det er tid til at forsvare dit hus!
+
+[CRAZY_DAVE_1304]
+Jeg er nødt til at advare dig...
+
+[CRAZY_DAVE_1305]
+Du kommer til at hade det næste niveau.
+
+[CRAZY_DAVE_1306]
+Hvorfor? Fordi det er bungeezombie efter bungeezombie uden pause.
+
+[CRAZY_DAVE_1307]
+Jeg hader de forbandede bungeezombier!!! {SCREAM2}
+
+[CRAZY_DAVE_1308]
+Jeg hader dem!!
+
+[CRAZY_DAVE_1309]
+Jeg hader dem af hele mit hjerte!
+
+[CRAZY_DAVE_1310]
+Og med al min hævngerrighed!
+
+[CRAZY_DAVE_1311]
+A-hurra! Der kommer de idioter nu!
+
+[CRAZY_DAVE_1401]
+Hey, du har indtil videre samlet {MONEY} i mønter!
+
+[CRAZY_DAVE_1402]
+Når du har samlet {UPGRADE_COST}, sælger jeg dig noget virkelig sejt!
+
+[CRAZY_DAVE_1501]
+Hey! Vil du købe en ekstra frøplads?
+
+[CRAZY_DAVE_1502]
+Det koster {UPGRADE_COST}, men så kan du vælge 7 frø pr. niveau i stedet for 6!
+
+[CRAZY_DAVE_1503]
+{NO_CLICK}Hvad siger du?
+
+[CRAZY_DAVE_1510]
+Fint! Og hey, når du har sparet {UPGRADE_COST} op, sælger jeg dig opgraderingen til 8 frøpladser!
+
+[CRAZY_DAVE_1511]
+Vi ses senere!
+
+[CRAZY_DAVE_1520]
+Øv, min ven!
+
+[CRAZY_DAVE_1551]
+Hey! Vil du købe en ekstra frøplads?
+
+[CRAZY_DAVE_1552]
+Det koster {UPGRADE_COST}, men så kan du vælge 8 frø pr. niveau i stedet for 7!
+
+[CRAZY_DAVE_1553]
+{NO_CLICK}Hvad siger du til det?
+
+[CRAZY_DAVE_1560]
+Fint!
+
+[CRAZY_DAVE_1570]
+Øv, mand!
+
+[UPGRADE_DIALOG_BODY]
+Opgrader til {SLOTS} frøpladser?
+
+[CRAZY_DAVE_1601]
+Hold da op, de zombier bliver bare ved med at komme!
+
+[CRAZY_DAVE_1602]
+Denne gang vil jeg vælge nogle frø til dig!
+
+[CRAZY_DAVE_1603]
+Jeg vælger... de her tre!
+
+[CRAZY_DAVE_1700]
+{NO_CLICK}Jeg giver dig ${SELL_PRICE} for den {PLANT_TYPE}!
+
+[CRAZY_DAVE_2000]
+{NO_SOUND}{NO_CLICK}Plant dem på dine dobbeltærteskydere for at forvandle dem til gatlingærter! Gatlingærter skyder fire ærter ad gangen!
+
+[CRAZY_DAVE_2001]
+{NO_SOUND}{NO_CLICK}Plant dem på dine solsikker for at forvandle dem til dobbeltsolsikker! Dobbeltsolsikker giver dobbelt så meget sol som en almindelig solsikke!
+
+[CRAZY_DAVE_2002]
+{NO_SOUND}{NO_CLICK}Plant dem på dine gassvampe for at forvandle dem til mørkesvampe! Mørkesvampe angriber hurtigt i et lille område!
+
+[CRAZY_DAVE_2003]
+{NO_SOUND}{NO_CLICK}Plant dem på dine åkandeblade for at forvandle dem til dunhaler! Dunhaler kan angribe i alle rækker og nedskyde ballon-zombier!
+
+[CRAZY_DAVE_2004]
+{NO_SOUND}{NO_CLICK}Plant dem på dine melonkatapulter for at forvandle dem til vintermeloner! Vintermeloner gør stor skade og gør grupper af zombier langsommere!
+
+[CRAZY_DAVE_2005]
+{NO_SOUND}{NO_CLICK}Plant dem på dine magnetsvampe for at forvandle dem til guldmagneter! Guldmagneter samler mønter og diamanter for dig!
+
+[CRAZY_DAVE_2006]
+{NO_SOUND}{NO_CLICK}Plant dem på dine piggræsser for at forvandle dem til pigsten! Pigsten gør dobbelt så stor skade og er ekstremt holdbare!
+
+[CRAZY_DAVE_2007]
+{NO_SOUND}{NO_CLICK}Plant dem på dine majskatapulter for at forvandle dem til majskanoner! Klik på en majskanon for at affyre et dødbringende angreb!
+
+[CRAZY_DAVE_2008]
+{NO_SOUND}{NO_CLICK}Denne imitator lader dig bruge to af den samme plante i et niveau!
+
+[CRAZY_DAVE_2009]
+{NO_SOUND}{NO_CLICK}Denne ekstra plæneklipper giver dig endnu et forsvar, når en plæneklipper er blevet brugt!
+
+[CRAZY_DAVE_2010]
+{NO_SOUND}{NO_CLICK}Denne morgenfruespire hører hjemme i din zenhave! Dyrk den til fuld størrelse, så får du en fin belønning!
+
+[CRAZY_DAVE_2011]
+{NO_SOUND}{NO_CLICK}Denne ekstra frøplads lader dig vælge 7 planter pr. niveau!
+
+[CRAZY_DAVE_2012]
+{NO_SOUND}{NO_CLICK}Denne ekstra frøplads lader dig vælge 8 planter pr. niveau!
+
+[CRAZY_DAVE_2013]
+{NO_SOUND}{NO_CLICK}Denne ekstra frøplads lader dig vælge 9 planter pr. niveau!
+
+[CRAZY_DAVE_2014]
+{NO_SOUND}{NO_CLICK}Denne ekstra frøplads lader dig vælge 10 planter pr. niveau!
+
+[CRAZY_DAVE_2015]
+{NO_CLICK}Alle dimsedutter sælges til spotpriser!!
+
+[CRAZY_DAVE_2016]
+{NO_CLICK}SLÅ TIL NU! JEG ER SKØØØØØR!! {SCREAM}
+
+[CRAZY_DAVE_2017]
+{NO_CLICK}Vores priser er utrolige!!!
+
+[CRAZY_DAVE_2018]
+{NO_CLICK}Jeg spiser mad fra gulvet!
+
+[CRAZY_DAVE_2019]
+{NO_SOUND}{NO_CLICK}Den gyldne vandkande lader dig vande flere planter på én gang!
+
+[CRAZY_DAVE_2020]
+{NO_SOUND}{NO_CLICK}Dine zenhaveplanter skal bruge gødning for at vokse!
+
+[CRAZY_DAVE_2021]
+{NO_SOUND}{NO_CLICK}Denne grammofon lader dig spille musik for dine zenhaveplanter! Den holder dem glade en hel dag!
+
+[CRAZY_DAVE_2022]
+{NO_SOUND}{NO_CLICK}Zenhaveplanter har brug for insektspray fra tid til anden! Det holder dem glade en hel dag!
+
+[CRAZY_DAVE_2023]
+{NO_SOUND}{NO_CLICK}Havehandsken lader dig flytte rundt på dine zenhaveplanter!
+
+[CRAZY_DAVE_2024]
+{NO_SOUND}{NO_CLICK}Du skal bruge denne trillebør til at transportere dine zenhaveplanter mellem haverne!
+
+[CRAZY_DAVE_2025]
+{NO_SOUND}{NO_CLICK}Sneglen Stinky hjælper dig med at samle mønter i din zenhave!
+
+[CRAZY_DAVE_2026]
+{NO_SOUND}{NO_CLICK}Disse poolrensere giver et ekstra forsvar på niveauer med en pool!
+
+[CRAZY_DAVE_2027]
+{NO_SOUND}{NO_CLICK}Disse tagrensere giver et ekstra forsvar på de svære tagniveauer!
+
+[CRAZY_DAVE_2028]
+{NO_SOUND}{NO_CLICK}Denne haverive slår den første zombie ihjel, der træder på den! Den holder i 3 niveauer!
+
+[CRAZY_DAVE_2029]
+{NO_SOUND}{NO_CLICK}Dette akvarium er et sted, hvor du kan have dine vandlevende zenhaveplanter!
+
+[CRAZY_DAVE_2030]
+{NO_SOUND}{NO_CLICK}Visdommens træ giver dig værdifulde tips og hemmeligheder, hvis du får det til at vokse sig højt nok!
+
+[CRAZY_DAVE_2031]
+{NO_SOUND}{NO_CLICK}Køb noget træmad, så dit Visdommens træ kan vokse sig stort og højt!
+
+[CRAZY_DAVE_2032]
+{NO_SOUND}{NO_CLICK}Denne svampehave er et sted, hvor du kan have de zenhaveplanter, der falder i søvn om dagen!
+
+[CRAZY_DAVE_2033]
+{NO_SOUND}{NO_CLICK}Valnød-førstehjælp lader dig plante friske valnødder oven på beskadigede! Det virker også på høje valnødder og græskar!
+
+[CRAZY_DAVE_2034]
+{NO_SOUND}{NO_CLICK}Få flere niveauer, flere planter og flere zombier i den fulde version af spillet!
+
+[CRAZY_DAVE_2100]
+Hey, se lige! Du har fundet en vandkande!
+
+[CRAZY_DAVE_2101]
+I anledning af denne
+begivenhed giver jeg dig:
+Din helt egen zenhave!
+
+[CRAZY_DAVE_2102]
+Hey, jeg giver dig endda et par spirer at starte med!
+
+[CRAZY_DAVE_2103]
+Dyrk dem til fuld størrelse, så får du en fin belønning!
+
+[CRAZY_DAVE_2104]
+God fornøjelse!
+
+[CRAZY_DAVE_2200]
+Zombierne bad mig om at hjælpe dem med at øve sig i at invadere huse.
+
+[CRAZY_DAVE_2201]
+Jeg sagde, det var i orden, så længe ingen planter kom til skade.
+
+[CRAZY_DAVE_2202]
+Så jeg satte en masse papfigurer ud på din græsplæne.
+
+[CRAZY_DAVE_2203]
+God fornøjelse!
+
+[CRAZY_DAVE_2300]
+Åh nej, han er her.
+
+[CRAZY_DAVE_2301]
+Du må hellere gøre dig klar.
+
+[CRAZY_DAVE_2302]
+Det bliver noget af en kamp!
+
+[CRAZY_DAVE_2303]
+Men hør her, jeg ved, hvad hans svaghed er:
+
+[CRAZY_DAVE_2304]
+Du skal ramme ham i bugspytkirtlen!
+
+[CRAZY_DAVE_2305]
+Nej, det var en anden fyr...
+
+[CRAZY_DAVE_2306]
+Du skal... øh... sparke ham i...
+
+[CRAZY_DAVE_2307]
+Hmm...
+
+[CRAZY_DAVE_2308]
+Du skal trykke op op ned ned venstre højre...
+
+[CRAZY_DAVE_2309]
+øh...
+
+[CRAZY_DAVE_2310]
+Vent, nu husker jeg! Det er... {MOUTH_SMALL_OH}
+
+[CRAZY_DAVE_2400]
+Goddag, nabo!
+
+[CRAZY_DAVE_2401]
+Jeg hedder Skøre Dave.
+
+[CRAZY_DAVE_2402]
+Men du kan bare kalde mig Skøre Dave.
+
+[CRAZY_DAVE_2403]
+Hør, jeg har en overraskelse til dig.
+
+[CRAZY_DAVE_2404]
+Men først skal du rydde din græsplæne.
+
+[CRAZY_DAVE_2405]
+Brug din skovl til at grave planterne op!
+
+[CRAZY_DAVE_2406]
+LAD GRAVNINGEN BEGYNDE!{MOUTH_SMALL_OH} {SCREAM}
+
+[CRAZY_DAVE_2410]
+Okay, fint, og nu til overraskelsen...
+
+[CRAZY_DAVE_2411]
+Vi skal spille BOWLING!{MOUTH_SMALL_SMILE}
+
+[CRAZY_DAVE_2412]
+{SHOW_WALLNUT}HER, TAG DENNE VALNØD!!
+
+[CRAZY_DAVE_2413]
+Hvorfor gav jeg dig en valnød i hånden?{MOUTH_SMALL_OH}
+
+[CRAZY_DAVE_2414]
+{SHAKE}FORDI JEG ER SKØØØØØR!!!!!{MOUTH_BIG_SMILE}
+
+[CRAZY_DAVE_2415]
+AF STED! BOWL DIG TIL SEJR!{MOUTH_BIG_SMILE} {SCREAM}
+
+[CRAZY_DAVE_2500]
+Min kammerat Harvey Flaxcaster og jeg plejede at smadre vaser, når vi kedede os.
+
+[CRAZY_DAVE_2501]
+Harvey er ude af byen, så du må med mig, Harvey nr. 2!
+
+[CRAZY_DAVE_2502]
+SMADR DEM, SOM OM DU MENER DET, HARVEY! {SCREAM}
+
+[CRAZY_DAVE_2600]
+Hey, velkommen til zenhaveafdelingen i min butik!
+
+[CRAZY_DAVE_2601]
+{SHOW_FERTILIZER}Du får lidt gødning, fordi du kiggede forbi!
+
+[CRAZY_DAVE_2602]
+Se dig omkring, og se, om der er andet, du kan lide!
+
+[CRAZY_DAVE_2700]
+Hold da op, du smadrede de vaser grundigt!
+
+[CRAZY_DAVE_2701]
+Du smadrede dem lige så grundigt, som dengang jeg brækkede ryggen ved at rode i skraldespandene!
+
+[CRAZY_DAVE_2702]
+Her, jeg har taget nogle flere vaser med til dig.
+
+[CRAZY_DAVE_2703]
+Du skal dog passe på ikke at smadre dem for hurtigt.
+
+[CRAZY_DAVE_2704]
+Du skulle nødig ende med flere zombier, end du kan klare, hæ hæ.
+
+[CRAZY_DAVE_2800]
+Fint!
+
+[CRAZY_DAVE_2801]
+Det her burde være de sidste.
+
+[CRAZY_DAVE_2802]
+Smadr dem her, så er du færdig!
+
+[CRAZY_DAVE_3000]
+Det her er Vaseknuser.
+
+[CRAZY_DAVE_3001]
+Nogle af niveauerne er virkelig svære.
+
+[CRAZY_DAVE_3002]
+Held og lykke!
+
+[CRAZY_DAVE_3100]
+Hej, nabo! Jeg har fået nogle nye varer til salg!
+
+[CRAZY_DAVE_3200]
+{SHOW_TREE_FOOD}Hej {PLAYER_NAME}! Her er dit Visdommens træ! Jeg har taget noget træmad med, så du kan komme i gang.
+
+[CRAZY_DAVE_3300]
+{TIME_275}Så er det slut, min ven!{DELAY_50}
+
+[CRAZY_DAVE_3301]
+{TIME_275}Jeps, du vidste godt, at den her snak ville komme.{DELAY_50}
+
+[CRAZY_DAVE_3302]
+{TIME_325}Vil du videre? Så skal du have DEN FULDE VERSION.{DELAY_50}
+
+[CRAZY_DAVE_3303]
+{TIME_275}Okay, jeg skal være ærlig over for dig, ven...{DELAY_50}
+
+[CRAZY_DAVE_3304]
+{TIME_325}Hvis du får DEN FULDE VERSION, giver jeg dig flere PLANTER!{DELAY_25}
+
+[CRAZY_DAVE_3305]
+{TIME_175}{SCREAM}{HANDING}SOM DEN HER!{DELAY_50}
+
+[CRAZY_DAVE_3306]
+{TIME_175}{SCREAM}{HANDING}OG DEN HER!{DELAY_50}
+
+[CRAZY_DAVE_3307]
+{TIME_275}{HANDING}og senere får du endda OGSÅ DEN HER!{DELAY_50}
+
+[CRAZY_DAVE_3308]
+{TIME_125}{SHORT_SOUND}{HANDING}Hvorfor?{DELAY_50}
+
+[CRAZY_DAVE_3309]
+{TIME_225}{SHAKE}Fordi jeg er SKØØØØØR!!!!!{MOUTH_BIG_SMILE}{DELAY_150}
+
+[CRAZY_DAVE_3310]
+{TIME_150}Og hey...{DELAY_50}
+
+[CRAZY_DAVE_3311]
+{TIME_175}Vil du have action?{DELAY_50}
+
+[CRAZY_DAVE_3312]
+{TIME_200}{SCREAM}SÅ SKAL DU FÅ ACTION!{DELAY_300}
+
+[CRAZY_DAVE_3313]
+{TIME_300}{SCREAM2}25 EKSTRA NIVEAUER MED ACTION!{DELAY_300}
+
+[CRAZY_DAVE_3314]
+{TIME_300}{SCREAM}40 MINI-SPIL OG GÅDER!{DELAY_50}
+
+[CRAZY_DAVE_3315]
+{TIME_200}TERRAKOTTA!!!{DELAY_100}
+
+[CRAZY_DAVE_3316]
+{TIME_300}{SCREAM2}DET ER NOK TIL AT BLÆSE HOVEDET AF DIG OG SENDE DET TIL MARS OG TILBAGE!!{DELAY_300}
+
+[CRAZY_DAVE_3317]
+{TIME_150}Nå, hvad venter du på?
+
+[CRAZY_DAVE_3400]
+{NO_CLICK}For at bruge valnød-førstehjælp skal du blot plante en frisk valnød oven på den beskadigede!
+
+[CRAZY_DAVE_4000]
+{NO_CLICK}{MOUTH_BIG_OH}Du har lige købt den sidste plante!
+
+[CRAZY_DAVE_4001]
+{NO_CLICK}{SCREAM}Du har sørme samlet alle planterne!
+
+[CRAZY_DAVE_4002]
+{NO_CLICK}Hvorfor findes der ikke et ord for sådan en bedrift?
+
+[CRAZY_DAVE_4003]
+{NO_CLICK}Jeg har det... 
+
+[CRAZY_DAVE_4004]
+{NO_CLICK}{SHAKE}Planteolog!!!{MOUTH_BIG_SMILE}
+
+[MENU_BUTTON]
+Menu
+
+[ADVICE_MORE_ZOMBIES]
+Flere zombier nærmer sig!
+
+[ADVICE_MORE_SCARY_POTS]
+Flere vaser på vej!
+Nuværende sejrsrække: {STREAK}
+
+[ADVICE_SCARY_POTTER_TUTORIAL]
+MIDLERTIDIGT - Dave har sat flere vaser på din græsplæne!
+{STREAK} af 5 bølger klaret
+
+[ADVICE_3_IN_A_ROW]
+Flere vaser på vej!
+{STREAK} af 3 bølger klaret
+
+[LONGEST_STREAK]
+Længste
+sejrsrække: {STREAK}
+
+[ADVICE_MORE_IZOMBIE]
+Godt klaret!
+Nuværende sejrsrække: {STREAK}
+
+[ADVICE_CLICK_ON_SUN]
+Klik på den faldende sol for at samle den op!
+
+[ADVICE_GRAVEBUSTERS_ON_GRAVES]
+Gravædere kan kun plantes på grave
+
+[ADVICE_LILYPAD_ON_WATER]
+Åkandeblade kan kun plantes i vand
+
+[ADVICE_TANGLEKELP_ON_WATER]
+Filtret tang kan kun plantes i vand
+
+[ADVICE_SEASHROOM_ON_WATER]
+Havsvampe kan kun plantes i vand
+
+[ADVICE_POTATO_MINE_ON_LILY]
+Kartoffelminer kan ikke plantes på åkandeblade
+
+[ADVICE_NOT_PASSED_LINE]
+Placér din valnød til venstre for bowlinglinjen
+
+[ADVICE_I_ZOMBIE_NOT_PASSED_LINE]
+Placér zombien på højre side af linjen
+
+[ADVICE_I_ZOMBIE_LEFT_OF_LINE]
+Placér bungee-zombien på venstre side af linjen
+
+[ADVICE_ONLY_ON_REPEATERS]
+Kan kun plantes på dobbeltærteskydere
+
+[ADVICE_ONLY_ON_MELONPULT]
+Kan kun plantes på melonkatapulter
+
+[ADVICE_ONLY_ON_SUNFLOWER]
+Kan kun plantes på solsikker
+
+[ADVICE_ONLY_ON_SPIKEWEED]
+Kan kun plantes på piggræs
+
+[ADVICE_ONLY_ON_KERNELPULT]
+Kan kun plantes på et par majskatapulter
+
+[ADVICE_ONLY_ON_MAGNETSHROOM]
+Kan kun plantes på magnetsvampe
+
+[ADVICE_ONLY_ON_FUMESHROOM]
+Kan kun plantes på gassvampe
+
+[ADVICE_ONLY_ON_LILYPAD]
+Kan kun plantes på åkandeblade
+
+[ADVICE_WRONG_ART_TYPE]
+Du kan kun plante {SEED}-frø der
+
+[ADVICE_PLANT_NEED_POT1]
+Du kan kun plante i blomsterkrukker					 
+
+[ADVICE_PLANT_NEED_POT2]
+Plant først en blomsterkrukke
+
+[ADVICE_PLANT_NOT_ON_GRAVE]
+Du kan ikke plante på grave
+
+[ADVICE_PLANT_NOT_ON_CRATER]
+Du kan ikke plante i kratere
+
+[ADVICE_CANT_PLANT_THERE]
+Du kan ikke plante der
+
+[ADVICE_PLANT_NOT_ON_WATER]
+Plant først et åkandeblad
+
+[ADVICE_PLANTING_NEED_SLEEPING]
+Kaffebønner kan kun plantes på sovende svampe
+
+[ADVICE_PLANTING_NEEDS_GROUND]
+Piggræs kan kun plantes på fast jord
+
+[ADVICE_MORE_SUNFLOWERS]
+Jo flere solsikker du har,
+desto hurtigere kan du dyrke planter!
+
+[ADVICE_SHOVEL_REFRESH]
+Skovlen skal lige køle af, før du kan grave igen
+
+[ADVICE_HUGE_WAVE]
+EN KÆMPEBØLGE AF ZOMBIER NÆRMER SIG!
+
+[ADVICE_CLICK_PEASHOOTER]
+Klik på ærteskytten for at plante endnu en!
+
+[ADVICE_PLANT_SUNFLOWER1]
+Solsikker er en utrolig vigtig plante!
+
+[ADVICE_PLANT_SUNFLOWER2]
+Prøv at plante mindst 3 af dem!
+
+[ADVICE_PLANT_SUNFLOWER3]
+Hvis du planter mindst 3 solsikker, øger du dine
+chancer for at overleve et zombieangreb!
+
+[ADVICE_PLANT_SUNFLOWER4]
+Prøv at plante mindst 3 solsikker!
+
+[ADVICE_PLANT_SUNFLOWER5]
+Hvis du planter solsikker, øger du dine chancer
+for at overleve zombieangrebet!
+
+[ADVICE_CLICK_SEED_PACKET]
+Klik på en frøpakke for at samle den op!
+
+[ADVICE_ENOUGH_SUN]
+Fremragende! Du har samlet
+nok til din næste plante!
+
+[ADVICE_CLICK_ON_GRASS]
+Klik på græsset for at plante dit frø!
+
+[ADVICE_PLANTED_PEASHOOTER]
+Godt klaret!
+
+[ADVICE_ZOMBIE_ONSLAUGHT]
+Lad ikke zombierne nå frem til dit hus!
+
+[ADVICE_CLICK_SHOVEL]
+Klik på skovlen for at samle den op!
+
+[ADVICE_CLICK_PLANT]
+Klik på en plante for at fjerne den!
+
+[ADVICE_KEEP_DIGGING]
+Bliv ved med at grave, indtil din græsplæne er fri for planter!
+
+[ADVICE_SURVIVE_FLAGS]
+Kan du overleve {FLAGS} bølger?
+
+[ADVICE_SURVIVE_ENDLESS]
+Hvor mange bølger kan du overleve?
+
+[ADVICE_FILL_IN_WALLNUTS]
+Fyld alle de markerede felter med valnødder!
+
+[ADVICE_FILL_IN_SPACES]
+Fyld alle de markerede felter!
+
+[ADVICE_FILL_IN_STARFRUIT]
+Fyld alle de markerede felter med stjernefrugter!
+
+[ADVICE_BEGHOULED_DRAG_TO_MATCH_3]
+Klik og træk planter for at lave grupper på 3
+
+[ADVICE_BEGHOULED_TWIST_TO_MATCH_3]
+Klik for at dreje planterne og lave grupper på 3
+
+[ADVICE_BEGHOULED_MATCH_3]
+Lav {SCORE} grupper for at gennemføre niveauet
+
+[ADVICE_BEGHOULED_NO_MOVES]
+Ingen mulige træk!
+
+[ADVICE_BEGHOULED_USE_CRATER_1]
+Zombierne spiste en af dine planter!
+
+[ADVICE_BEGHOULED_USE_CRATER_2]
+Brug lidt solenergi på at fylde krateret!
+
+[ADVICE_BEGHOULED_SAVE_SUN]
+Saml solenergi for at opgradere dine planter!
+
+[ADVICE_SLOT_MACHINE_PULL]
+Træk i håndtaget for at få nye frø!
+
+[ADVICE_SLOT_MACHINE_SPIN_AGAIN]
+Prøv lykken igen!
+
+[ADVICE_SLOT_MACHINE_COLLECT_SUN]
+Saml {SCORE} solenergi for at gennemføre niveauet
+
+[SLOT_MACHINE_PULL_TOOLTIP]
+Det koster 25 solenergi at trække
+
+[ADVICE_SLOT_MACHINE_3_OF_A_KIND]
+Tre ens! 3 gratis planter!
+
+[ADVICE_SLOT_MACHINE_2_OF_A_KIND]
+To ens! Gratis plante!
+
+[ADVICE_SLOT_MACHINE_2_SUNS]
+To ens! Bonus-solenergi!
+
+[ADVICE_SLOT_MACHINE_2_DIAMONDS]
+To ens! Diamanter!
+
+[ADVICE_SLOT_MACHINE_SUN_JACKPOT]
+Solenergi-jackpot!
+
+[ADVICE_SLOT_MACHINE_DIAMOND_JACKPOT]
+Diamant-jackpot!
+
+[SLOT_MACHINE_SUN_TOOLTIP]
+Solenergi
+
+[SLOT_MACHINE_DIAMOND_TOOLTIP]
+Diamant
+
+[ADVICE_BUNGEES_INCOMING]
+Bungeezombier på vej!!!
+
+[ADVICE_CLICKED_ON_SUN]
+Bliv ved med at samle solenergi!
+Du får brug for den til at dyrke flere planter!
+
+[ADVICE_CLICKED_ON_COIN]
+Spar penge op, så du kan købe seje ting!
+
+[ADVICE_SEED_REFRESH]
+Frøene skal bruge tid på at blive klar, før de kan plantes igen
+
+[ADVICE_CANT_AFFORD_PLANT]
+Du skal bruge mere solenergi for at gøre det!
+
+[ADVICE_PLANT_NEEDS_REPEATER]
+Plant først en dobbeltærteskytte!
+
+[ADVICE_PLANT_NEEDS_MELONPULT]
+Plant først en vintermelon!
+
+[ADVICE_PLANT_NEEDS_SUNFLOWER]
+Plant først en solsikke!
+
+[ADVICE_PLANT_NEEDS_SPIKEWEED]
+Plant først piggræs!
+
+[ADVICE_PLANT_NEEDS_KERNELPULT]
+Plant først to majskatapulter!
+
+[ADVICE_PLANT_NEEDS_MAGNETSHROOM]
+Plant først en magnetsvamp!
+
+[ADVICE_PLANT_NEEDS_FUMESHROOM]
+Plant først en gassvamp!
+
+[ADVICE_PLANT_NEEDS_LILYPAD]
+Plant først et åkandeblad!
+
+[PLAYERS_HOUSE]
+{PLAYER}s hus
+
+[PLAYERS_BACKYARD]
+{PLAYER}s baghave
+
+[PLAYERS_ROOF]
+{PLAYER}s tag!
+
+[ADVICE_PORTAL_RELOCATING]
+Portalen flytter...
+
+[ZEN_SELL_HEADER]
+Er du sikker?
+
+[ZEN_SELL_LINES]
+Vil du sælge denne plante til Skøre Dave?
+
+[DIALOG_WARNING]
+Advarsel
+
+[DIALOG_ZEN_GARDEN_FULL]
+Åh nej! Din have er helt fuld!
+
+[DIALOG_BUTTON_OK]
+OK
+
+[DIALOG_BUTTON_CANCEL]
+ANNULLER
+
+[DIALOG_BUTTON_YES]
+JA
+
+[DIALOG_BUTTON_NO]
+NEJ
+
+[BUTTON_OK]
+OK
+
+[BUTTON_CANCEL]
+Annuller
+
+[BUTTON_YES]
+Ja
+
+[BUTTON_NO]
+Nej
+
+[NEW_PLANT]
+DU HAR FÅET EN NY PLANTE!
+
+[NEXT_LEVEL_BUTTON]
+NÆSTE NIVEAU!
+
+[CONTINUE_BUTTON]
+Fortsæt
+
+[VIEW_ALMANAC_BUTTON]
+Se almanak
+
+[MAIN_MENU_BUTTON]
+Hovedmenu
+
+[AWARD_MAIN_MENU_BUTTON]
+HOVEDMENU
+
+[REPICK_BUTTON]
+Vælg igen
+
+[SHOVEL]
+Skovl
+
+[GOT_SHOVEL]
+Du har fået skovlen!
+
+[SHOVEL_DESCRIPTION]
+Lader dig grave en plante op
+så der bliver plads til
+en anden plante
+
+[FOUND_NOTE]
+Du fandt en besked:
+
+[SUBURBAN_ALMANAC]
+Forstadens almanak
+
+[FOUND_SUBURBAN_ALMANAC]
+Du fandt forstadens almanak!
+
+[SUBURBAN_ALMANAC_DESCRIPTION]
+Holder styr på alle de planter og zombier, du møder
+
+[KEYS]
+Skøre Daves bilnøgle
+
+[FOUND_KEYS]
+Du fandt Skøre Daves bilnøgle!
+
+[KEYS_DESCRIPTION]
+Nu kan du besøge
+Skøre Daves butik!
+
+[VASE]
+Mystisk vase
+
+[FOUND_VASE]
+Du fandt en mystisk vase!
+
+[VASE_DESCRIPTION]
+Nu kan du spille
+Vaseknuser-tilstand!
+
+[WATERING_CAN]
+Vandkande
+
+[FOUND_WATERING_CAN]
+Du fandt en vandkande!
+
+[WATERING_CAN_DESCRIPTION]
+Nu kan du spille
+Zen-have-tilstand!
+
+[TACO]
+Taco
+
+[FOUND_TACO]
+Du fandt en taco!
+
+[TACO_DESCRIPTION]
+Hvad vil du dog gøre med en taco?
+
+[WATERING_CAN_TOOLTIP]
+vand en plante
+
+[FERTILIZER_TOOLTIP]
+gød en plante
+
+[TREE_FERTILIZER_TOOLTIP]
+giv træet næring
+
+[BUG_SPRAY_TOOLTIP]
+sprøjt mod insekter
+
+[PHONOGRAPH_TOOLTIP]
+spil musik for en plante
+
+[CHOCOLATE_TOOLTIP]
+chokolade
+
+[GLOVE_TOOLTIP]
+flyt en plante
+
+[MONEY_SIGN_TOOLTIP]
+sælg en plante
+
+[WHEELBARROW_TOOLTIP]
+holder en plante under transport
+
+[NEXT_GARDEN_TOOLTIP]
+besøg en anden have
+
+[SHOVEL_TOOLTIP]
+fjern en plante
+
+[BEGHOULED_REPEATER_UPGRADE_TOOLTIP]
+Opgradér alle dine ærteskytter til dobbeltærteskytter
+
+[BEGHOULED_FUMESHROOM_UPGRADE_TOOLTIP]
+Opgradér alle dine pufsvampe til gassvampe
+
+[BEGHOULED_TALLNUT_UPGRADE_TOOLTIP]
+Opgradér alle dine valnødder til højvalnødder
+
+[BEGHOULED_SHUFFLE_TOOLTIP]
+Bland planterne
+
+[BEGHOULED_CRATER_TOOLTIP]
+Fyld krateret igen
+
+[BEGHOULED_SEED_ALREADY_PURCHASED]
+Købt
+
+[BEGHOULED_NO_CRATERS]
+Ingen kratere at fylde
+
+[FREE_PLANTING_CHEAT]
+Snydekode til gratis plantning
+
+[WAITING_FOR_SEED]
+genoplader...
+
+[NOT_ENOUGH_SUN]
+ikke nok solenergi
+
+[REQUIRES_REPEATER]
+kræver dobbeltærteskytte
+
+[REQUIRES_MELONPULT]
+kræver melonkatapult
+
+[REQUIRES_SUNFLOWER]
+kræver solsikke
+
+[REQUIRES_SPIKEWEED]
+kræver piggræs
+
+[REQUIRES_KERNELPULTS]
+kræver 2 majskatapulter
+
+[REQUIRES_MAGNETSHROOM]
+kræver magnetsvamp
+
+[REQUIRES_FUMESHROOM]
+kræver gassvamp
+
+[REQUIRES_LILY_PAD]
+kræver åkandeblad
+
+[WAITING_TO_REFRESH]
+venter på genopladning
+
+[CLICK_TO_VIEW]
+klik for at se
+
+[LETS_ROCK_BUTTON]
+FYR LØS!
+
+[VIEW_LAWN]
+SE PLÆNEN
+
+[ALMANAC_BUTTON]
+ALMANAK
+
+[SHOP_BUTTON]
+BUTIK
+
+[CLOSE_BUTTON]
+LUK
+
+[ALMANAC_INDEX]
+INDEKS
+[VIEW_PLANTS]
+Se planter
+
+[VIEW_ZOMBIES]
+Se zombier
+
+[BACK_TO_MENU]
+Hovedmenu
+
+[ROLL_CREDITS]
+Vis rulleteksterne!
+
+[PAGE_X]
+SIDE {PAGE}
+
+[RESTART_BUTTON]
+Start forfra
+
+[RESTART_LABEL]
+START FORFRA
+
+[NEW_GAME_BUTTON]
+Nyt spil
+
+[LEAVE_BUTTON]
+FORLAD
+
+[QUIT_BUTTON]
+Afslut
+
+[REGISTER_BUTTON]
+Registrer
+
+[QUIT_MESSAGE]
+Er du sikker på, at du vil 
+afslutte spillet?
+
+[QUIT_HEADER]
+Afslut
+
+[AWW_YEAH_BUTTON]
+ÅH JA!
+
+[NAH_BUTTON]
+NEJ TAK!
+
+[MORE_SEEDS_HEADER]
+Flere frø?
+
+[MORE_SEEDS_BODY]
+Vil du gerne kunne plante flere slags frø?
+
+[STORE_NEXT_LEVEL_BUTTON]
+NÆSTE NIVEAU
+
+[STORE_MAIN_MENU_BUTTON]
+HOVEDMENU
+
+[STORE_BACK_TO_GAME]
+TILBAGE
+
+[STORE_BACK_TO_ZEN]
+TILBAGE
+
+[SEED_CHOOSER_UPGRADE_WARNING]
+Er du sikker på, at du vil bruge {UPGRADE_TO} uden {UPGRADE_FROM}?
+
+[SEED_CHOOSER_SEEING_STARS_WARNING]
+Er du sikker på, at du vil spille dette niveau uden stjernefrugt?
+
+[SEED_CHOOSER_LILY_WARNING]
+Er du sikker på, at du vil spille dette niveau uden åkandeblade?
+
+[SEED_CHOOSER_ART_WALLNUT_WARNING]
+Er du sikker på, at du vil spille dette niveau uden valnødder?
+
+[SEED_CHOOSER_ART_2_WARNING]
+Er du sikker på, at du vil spille dette niveau uden frø til stjernefrugt, paraplyblade og valnødder?
+
+[SEED_CHOOSER_FLYER_WARNING]
+Du har ikke valgt nogen planter, der kan bekæmpe ballon-zombier. Er du sikker på, at du vil fortsætte?
+
+[SEED_CHOOSER_SUN_WARNING]
+Du har ikke valgt nogen planter, der producerer solenergi. Er du sikker på, at du vil fortsætte?
+
+[SEED_CHOOSER_NIGHT_SUN_WARNING]
+Nu hvor det er nat, har du mere end nogensinde brug for solsikker. Er du sikker på, at du vil spille niveauet uden dem?
+
+[SEED_CHOOSER_PUFFSHROOM_WARNING]
+Dette niveau bliver ekstremt svær uden pufsvampe. Er du sikker på, at du vil fortsætte uden dem?
+
+[SEED_CHOOSER_POOL_WARNING]
+Er du sikker på, at du vil spille dette niveau uden vandplanter?
+
+[SEED_CHOOSER_ROOF_WARNING]
+Er du sikker på, at du vil spille dette niveau uden blomsterkrukker?
+
+[ADVICE_ALMOST_THERE]
+Næsten i mål!
+
+[ADVICE_BEGHOULED_ALMOST_THERE]
+5 grupper tilbage!
+
+[ZOMBIQUARIUM_SNORKEL_TOOLTIP]
+Køb snorkelzombie
+
+[ZOMBIQUARIUM_TROPHY_TOOLTIP]
+Køb trofæ
+
+[ADVICE_ZOMBIQUARIUM_CLICK_TO_FEED]
+Klik på akvariet for at fodre zombierne
+
+[ADVICE_ZOMBIQUARIUM_COLLECT_SUN]
+Saml {SCORE} solenergi for at gennemføre niveauet
+
+[ZOMBIQUARIUM_DEATH_MESSAGE]
+Alle dine zombiekæledyr er omkommet!
+
+[I_ZOMBIE_DEATH_MESSAGE]
+Du har mistet alle dine zombier!
+
+[ADVICE_ZOMBIQUARIUM_CLICK_TROPHY]
+Klik på trofæet for at gennemføre niveauet!
+
+[ADVICE_ZOMBIQUARIUM_BUY_SNORKEL]
+Klik for at købe flere snorkelzombier!
+
+[TRY_AGAIN]
+Prøv igen
+
+[ONE_FLAG]
+1 flag
+
+[COUNT_FLAGS]
+{COUNT} flag
+
+[SURVIVAL_DEATH_MESSAGE]
+Du overlevede i {FLAGS}
+før du led en
+GRUFULD ZOMBIEDØD!!!
+
+[ENDLESS_PUZZLE_DEATH_MESSAGE]
+Du nåede en række på {STREAK}
+
+[ENDLESS_STREAK]
+Række: {STREAK}
+ 
+
+[LEVEL]
+Niveau
+
+[GAME_OVER]
+SPILLET ER SLUT
+
+[PICK_AREA]
+Overlevelse
+
+[PICK_CHALLENGE]
+Mini-spil
+
+[ONE_MORE_CHALLENGE_TOOLTIP]
+Gennemfør 1 mini-spil mere for at låse op
+
+[ONE_MORE_SCARY_POTTER_TOOLTIP]
+Vind 1 Vasebryder-trofæ mere for at låse op
+
+[ONE_MORE_IZOMBIE_TOOLTIP]
+Vind 1 Jeg, zombie-trofæ mere for at låse op
+
+[ONE_MORE_SURVIVAL_TOOLTIP]
+Vind 1 overlevelsestrofæ mere for at låse op
+
+[10_SURVIVAL_TOOLTIP]
+Vind 10 overlevelsestrofæer for at låse op
+
+[FINISH_ADVENTURE_TOOLTIP]
+Gennemfør historien for at låse op
+
+[SURVIVAL_DAY_NORMAL]
+Overlevelse: Dag
+
+[SURVIVAL_NIGHT_NORMAL]
+Overlevelse: Nat
+
+[SURVIVAL_POOL_NORMAL]
+Overlevelse: Pool
+
+[SURVIVAL_FOG_NORMAL]
+Overlevelse: Tåge
+
+[SURVIVAL_ROOF_NORMAL]
+Overlevelse: Tag
+
+[SURVIVAL_DAY_HARD]
+Overlevelse: Dag (Svær)
+
+[SURVIVAL_NIGHT_HARD]
+Overlevelse: Nat (Svær)
+
+[SURVIVAL_POOL_HARD]
+Overlevelse: Pool (Svær)
+
+[SURVIVAL_FOG_HARD]
+Overlevelse: Tåge (Svær)
+
+[SURVIVAL_ROOF_HARD]
+Overlevelse: Tag (Svær)
+
+[SURVIVAL_DAY_ENDLESS]
+Overlevelse: Dag (Uendelig)
+
+[SURVIVAL_NIGHT_ENDLESS]
+Overlevelse: Nat (Uendelig)
+
+[SURVIVAL_POOL_ENDLESS]
+Overlevelse: Uendelig
+
+[SURVIVAL_FOG_ENDLESS]
+Overlevelse: Tåge (Uendelig)
+
+[SURVIVAL_ROOF_ENDLESS]
+Overlevelse: Tag (Uendelig)
+
+[WAR_AND_PEAS]
+Zombotanik
+
+[SEEING_STARS]
+Stjernestund
+
+[CAN_YOU_DIG_IT]
+Kan du grave det?
+
+[SCARY_POTTER_1]
+Vaseknuser
+
+[SCARY_POTTER_2]
+Til venstre
+
+[SCARY_POTTER_3]
+Den tredje vase
+
+[SCARY_POTTER_4]
+Kædereaktion
+
+[SCARY_POTTER_5]
+M er for metal
+
+[SCARY_POTTER_6]
+Skræmmende Potter
+
+[SCARY_POTTER_7]
+Hokey Pokey
+
+[SCARY_POTTER_8]
+Endnu en kædereaktion
+
+[SCARY_POTTER_9]
+Vasernes es
+
+[SCARY_POTTER_10]
+Vaseknuser: Ansigtsknuser
+
+[SCARY_POTTER_ENDLESS]
+Vaseknuser: Uendelig
+
+[SCARY_POTTER]
+Gåde
+
+[PORTAL_COMBAT]
+Portal-kamp
+
+[BEGHOULED]
+Beghouled
+
+[BEGHOULED_TWIST]
+Beghouled Twist
+
+[WALL_NUT_BOWLING]
+Zombowling
+
+[GRAVE_DANGER]
+Gravfarligt
+
+[I_ZOMBIE]
+Jeg, zombie
+
+[WHACK_A_ZOMBIE]
+Slå en zombie
+
+[SLOT_MACHINE]
+Spilleautomat
+
+[ZOMBIQUARIUM]
+Zombikvarium
+
+[LITTLE_TROUBLE]
+Store problemer, lille zombie
+
+[BOBSLED_BONANZA]
+Bobslædefest
+
+[ITS_RAINING_SEEDS	]
+Det regner med frø	
+
+[INVISIGHOUL]
+Usynlig-spøgelse
+
+[DARK_STORMY_NIGHT]
+Mørk og stormfuld nat
+
+[AIR_RAID]
+Luftangreb
+
+[COLUMN_AS_YOU_SEE_EM]
+Kolonner, som du ser dem
+
+[BUNGEE_BLITZ]
+Bungeeblitz
+
+[POGO_PARTY]
+Pogo-fest
+
+[FINAL_BOSS]
+Dr. Zomboss' hævn
+
+[LAST_STAND]
+Sidste skanse
+
+[ART_CHALLENGE_WALL_NUT]
+Kunstudfordring: Valnød
+
+[SUNNY_DAY]
+Solskinsdag
+
+[UNSODDED]
+Uden græs
+
+[BIG_TIME]
+Den helt store
+
+[ART_CHALLENGE_SUNFLOWER]
+Kunstudfordring: Solsikke
+
+[ZOMBIES_ON_SPEED]
+Hurtig zombie, kvik zombie
+
+[ICE_LEVEL]
+Is-niveau
+
+[ZEN_GARDEN]
+Zenhave	
+
+[HIGH_GRAVITY]
+Høj tyngdekraft
+
+[WAR_AND_PEAS_2]
+Zombotanik 2
+
+[I_ZOMBIE_TOO]
+Jeg, zombie 2
+
+[WALL_NUT_BOWLING_EXTREME]
+Zombowling 2
+
+[BEAT_GAME_MESSAGE1]
+Du fik den gyldne solsikketrofæ
+
+[BEAT_GAME_MESSAGE2]
+Wow! Du har fået alle trofæerne! Nu er det tid til at spille flere uendelige spil! Og glem ikke at passe din zenhave!
+
+[GOLD_SUNFLOWER_TROPHY]
+Gyldent solsikketrofæ
+
+[SILVER_SUNFLOWER_TROPHY]
+Sølvfarvet solsikketrofæ
+
+[WIN_MESSAGE1]
+Du har besejret bosszombien!
+
+[WIN_MESSAGE2]
+Tillykke! Du har med stor triumf afværget zombieangrebet! Din græsplæne er sikker ... indtil videre!
+
+[GOT_TROPHY]
+Du fik et trofæ!
+
+[TROPHY]
+Trofæ
+
+[NOW_YOU_CAN_PLAY]
+Nu kan du spille
+{MODE}!
+
+[CHALLENGE_UNLOCKED]
+Du har låst op for et nyt mini-spil!
+
+[GET_MORE_TROPHIES]
+Bliv ved med at samle trofæer!
+
+[SUN]
+Sol
+
+[MATCHES]
+Tændstikker
+
+[MODE_LOCKED]
+Låst!
+
+[SURVIVAL_LOCKED_MESSAGE]
+Spil mere af historien for at 
+låse op for Overlevelse.
+
+[MINIGAME_LOCKED_MESSAGE]
+Spil mere af historien for at 
+låse op for mini-spillene.
+
+[PUZZLE_LOCKED_MESSAGE]
+Spil mere af historien for at 
+låse op for Gåder.
+
+[CLICK_TO_START]
+KLIK FOR AT STARTE!
+
+[LOADING]
+INDLÆSER...
+
+[CREDITS]
+Medvirkende
+
+[BACK_TO_GAME]
+Fortsæt spil
+
+[RESTART_LEVEL_BUTTON]
+Genstart niveau
+
+[ADVICE_ZEN_GARDEN_PICK_UP_WATER]
+Klik på vandkanden for at samle den op!
+
+[ADVICE_ZEN_GARDEN_WATER_PLANT]
+Klik på en spire for at vande den!	
+
+[ADVICE_ZEN_GARDEN_KEEP_WATERING]
+Bliv ved med at vande dine planter, når de bliver tørstige!
+
+[ADVICE_ZEN_GARDEN_VISIT_STORE]
+Dine planter skal bruge gødning for at vokse!
+Besøg butikken for at hente noget gødning!
+
+[ADVICE_ZEN_GARDEN_FERTILIZE]
+Gød nu dine planter, og se dem vokse!
+
+[ADVICE_ZEN_GARDEN_NEED_MORE_FERTILIZER]
+Du skal gøde begge planter!
+Her, få noget mere gødning!
+
+[ADVICE_ZEN_GARDEN_CONTINUE_ADVENTURE]
+Det er alt, hvad du kan gøre lige nu!
+Kom tilbage senere, når dine planter har brug for mere pleje!
+
+[CHOOSE_SEED_TO_COPY]
+Vælg et frø, der skal kopieres
+
+[NOT_ALLOWED_ON_THIS_LEVEL]
+Ikke tilladt på dette niveau
+
+[FULL_VERSION_ONLY]
+Kun i fuldversionen
+
+[GET_FULL_VERSION_BODY]
+Køb fuldversionen af dette spil 
+for at bruge denne fantastiske plante!
+
+[GET_FULL_VERSION_TITLE]
+Kun fuldversionen
+
+[BUY_PVZ_TITLE]
+Få fuldversionen
+
+[BUY_PVZ_BODY]
+Vil du købe fuldversionen?
+
+[GET_FULL_VERSION_YES_BUTTON]
+Få fuldversionen
+
+[GET_FULL_VERSION_NO_BUTTON]
+Måske senere
+
+[FULL_VERSION_TO_BUY]
+Denne genstand er kun tilgængelig i 
+spillets fulde version!
+
+[CRAZY_DAVE_WANTS]
+Skøre Dave valgte denne
+
+[NOCTURNAL_WARNING]
+Nataktiv – sover om dagen
+
+[NOT_RECOMMENDED_FOR_LEVEL]
+Anbefales ikke til niveauet
+
+[CHOOSE_YOUR_PLANTS]
+VÆLG DINE PLANTER!
+
+[ADVICE_USE_SHOVEL_ON_POTS]
+Klik på en vase for at se, hvad der er indeni!
+
+[ADVICE_DESTROY_POTS_TO_FINISH_LEVEL]
+Ødelæg alle zombier og vaser for at gennemføre niveauet!
+
+[SUBURBAN_ALMANAC_INDEX]
+Forstadsalmanakken – Indeks
+
+[SUBURBAN_ALMANAC_PLANTS]
+Forstadsalmanakken – Planter
+
+[SUBURBAN_ALMANAC_ZOMBIES]
+Forstadsalmanakken – Zombier
+
+[ZOMBATAR_DELETE_HEADER]
+Slet denne Zombatar?
+
+[ZOMBATAR_DELETE_BODY]
+Er du sikker på, at du vil slette denne Zombatar?
+
+[ZOMBATAR_DELETE_BUTTON]
+SLET
+
+[ZOMBATAR_DELETE_BUTTON2]
+SLET?
+
+[ZOMBATAR_SAVE_BODY]
+Din Zombatar er blevet gemt på dit skrivebord som en jpg-billedfil!
+
+[ZOMBATAR_SAVE_BUTTON]
+OK
+
+[ZOMBATAR_COLOR_NOT_APPLICABLE]
+Farve kan ikke anvendes på denne genstand.
+
+[ZOMBATAR_COLOR_ITEM_NOT_CHOSEN]
+Vælg venligst en Zombatar-genstand ovenfor.
+
+[ZOMBATAR_FINISHED_WARNING_HEADER]
+ADVARSEL!
+
+[ZOMBATAR_FINISHED_WARNING_TEXT]
+Er du sikker på, at du er færdig med at lave din Zombatar?
+Hvis du ønsker at foretage ændringer, efter du klikker på "Færdig"
+nedenfor, skal du begynde forfra.
+
+[ZOMBATAR_FINISHED_BUTTON_TEXT]
+Sådan. Giv mig den!
+
+[ZOMBATAR_BACK_BUTTON_TEXT]
+Vent! Jeg er ikke færdig!
+
+[ZOMBATAR_START_TEXT]
+Vælg din zombies 
+hudfarve nedenfor for at komme i gang.
+
+Når du er klar til at ændre andre dele,
+skal du klikke på kategorierne til venstre.
+
+
+[ZOMBATAR_FEATURE_DESCRIPTION]
+Beskrivelse af Zombatar-afsnittet kommer her!
+
+[ZOMBATAR_ACCEPT_ULA_BUTTON]
+Jeg accepterer
+
+
+
+[STORE_PAGE]
+Side {PAGE} af {NUM_PAGES}
+
+[STORE_UPGRADE_SLOTS]
+{SLOTS}
+pladser
+
+[ADVICE_I_ZOMBIE_EAT_ALL_BRAINS]
+Spis alle hjernerne for at klare niveauet!
+
+[ADVICE_I_ZOMBIE_PLANTS_NOT_REAL]
+Bliv ikke forskrækket
+Planterne er ikke virkelige
+
+[SQUIRRELS]
+Egern
+
+[ADVICE_SQUIRRELS_ONE_LEFT]
+{COUNT} egern tilbage!
+
+[ADVICE_SQUIRRELS_LEFT]
+{COUNT} egern tilbage!
+
+[ADVICE_SQUIRREL_ZOMBIE]
+Åh nej! Find alle egernene, før 
+zombien når frem til dit hus!
+
+[BRAINS]
+Hjerner spist
+
+[COST]
+Pris
+
+[WAIT_TIME]
+Genopladning
+
+[WAIT_TIME_SHORT]
+hurtig
+
+[WAIT_TIME_LONG]
+langsom
+
+[WAIT_TIME_VERY_LONG]
+meget langsom
+
+[ADVICE_PEASHOOTER_DIED]
+En af dine ærteskytter døde!
+Prøv at plante dem længere mod venstre!
+
+[ADVICE_FOUND_PLANT]
+Du fandt en plante til din zenhave!
+
+[ADVICE_FOUND_CHOCOLATE]
+Du fandt noget chokolade!
+Giv det til Stinky for at få ham til at bevæge sig hurtigere i et stykke tid!
+
+[ADVICE_STINKY_SLEEPING]
+Sneglen Stinky faldt i søvn! Klik for at vække ham!
+
+[START_ONSLAUGHT]
+Start stormløb
+
+[CONTINUE_ONSLAUGHT]
+Fortsæt stormløb
+
+[LAST_STAND_DEATH_MESSAGE]
+Du overlevede i {FLAGS}!!
+
+[SUCCESSFULLY_DEFENDED]
+Du forsvarede dig med succes i {FLAGS}
+
+[FLAGS_COMPLETED]
+{FLAGS} gennemført
+
+[I_ZOMBIE_1]
+Jeg, zombie
+
+[I_ZOMBIE_2]
+Jeg, zombie også
+
+[I_ZOMBIE_3]
+Kan du grave det?
+
+[I_ZOMBIE_4]
+Helt skør
+
+[I_ZOMBIE_5]
+Død zeppelin
+
+[I_ZOMBIE_6]
+Jeg smadrer!
+
+[I_ZOMBIE_7]
+Zombiedans
+
+[I_ZOMBIE_8]
+Et hit efter tre slag
+
+[I_ZOMBIE_9]
+Alle jeres hjerner tilhører os
+
+[I_ZOMBIE_ENDLESS]
+Jeg, zombie – uendelig
+
+[UNLOCKED_I_ZOMBIE_LEVEL]
+Du har låst op for en ny
+Jeg, zombie-niveau!
+
+[UNLOCKED_VASEBREAKER_LEVEL]
+Du har låst op for en ny
+Vaseknuser-niveau!
+
+[EARN_MORE_TROPHIES_FOR_ENDLESS_SURVIVAL]
+Vind flere overlevelsespokaler for at låse op for uendelig overlevelse
+
+[YOU_UNLOCKED_A_SURVIVAL]
+Du har låst op for et nyt overlevelses-niveau!
+
+[YOU_UNLOCKED_ENDLESS_SURVIVAL]
+Du har låst op for uendelig overlevelse!
+
+[NOT_ENCOUNTERED_YET]
+???
+
+[CHALLENGE_DISABLED_BUTTON]
+?
+
+[NOT_ENCOUNTERED_YET_DESCRIPTION]
+(ikke mødt endnu)
+
+[CLICK_TO_CONTINUE]
+Klik for at fortsætte
+
+[SOLD_OUT]
+SOLGT
+
+[COMING_SOON]
+Kommer snart
+
+[ZEN_ONLY_AQUATIC_PLANTS]
+Du kan kun have vandplanter her. Det er under vand!
+
+[RESTART_LEVEL_HEADER]
+Genstart niveau?
+
+[RESTART_PUZZLE_HEADER]
+Genstart gåde?
+
+[RESTART_CHALLENGE_HEADER]
+Genstart udfordring?
+
+[RESTART_SURVIVAL_HEADER]
+Genstart overlevelse?
+
+[RESTART_LEVEL_BODY]
+Vil du prøve dette niveau 
+igen fra begyndelsen?
+
+[RESTART_PUZZLE_BODY]
+Vil du prøve denne gåde
+igen fra begyndelsen?
+
+[RESTART_CHALLENGE_BODY]
+Vil du prøve denne udfordring
+igen fra begyndelsen?
+
+[RESTART_SURVIVAL_BODY]
+Vil du prøve dette overlevelses-niveau 
+igen fra begyndelsen?
+
+[SILVER_SUNFLOWER_TOOLTIP]
+Saml alle pokalerne i mini-spil, gåder og overlevelse for at få den gyldne solsikkepokal!
+
+[GOLD_SUNFLOWER_TOOLTIP]
+Du har gennemført 
+historien 1 gang!
+
+[GOLD_SUNFLOWER_TOOLTIP_PLURAL]
+Du har gennemført 
+historien {COUNT} gange!
+
+[TREE_OF_WISDOM_1]
+Tak, fordi du fodrer mig! Bliv ved med at give mig mad, så giver jeg dig værdifuld information!
+
+[TREE_OF_WISDOM_2]
+Kødædere og valnødder fungerer utrolig godt sammen. Det er ikke så mærkeligt, når man tænker på, at de var bofæller på college.
+
+[TREE_OF_WISDOM_3]
+Hvis du nogensinde lytter til noget, jeg siger, så lyt til dette: Du skal have to kolonner med solsikker. Jeg mener det gravalvorligt.
+
+[TREE_OF_WISDOM_4]
+Snorkelzombier. Jeg hader dem. Hvordan klarer man dem? Med valnødder på åkandeblade, sådan!
+
+[TREE_OF_WISDOM_5]
+Psst! Prøv at skrive 'future', mens du spiller, for at opleve zombier ... fra FREMTIDEN!
+
+[TREE_OF_WISDOM_6]
+Hvor mange kirsebærbomber skal der til for at besejre en gargantuar? Her er et tip: Mere end én, færre end tre. Her er et mere tydeligt tip: To.
+
+[TREE_OF_WISDOM_7]
+Hvis du leder efter svampeplanter til din zenhave, har du større held med at spille på niveauer, hvor det er nat.
+
+[TREE_OF_WISDOM_8]
+Jeg ville ikke bekymre mig om at skade din græsplæne permanent med dødsrørhatte. Med tiden heler jorden af sig selv.
+
+[TREE_OF_WISDOM_9]
+Har du prøvet at klikke på blomsterne i hovedmenuen? Giv det et forsøg! Jeg venter her.
+
+[TREE_OF_WISDOM_10]
+Ifølge legenden spiser frosne zombier langsommere. Jeg kan fortælle dig, at legenden har ret.
+
+[TREE_OF_WISDOM_11]
+Har du hørt om den sky yetizombie? Nogle siger, at den kan lide at gemme sig, hvor der er kulsort.
+
+[TREE_OF_WISDOM_12]
+Hvad er billigere end gratis? Intet! Derfor er pufsvampe uundværlige på alle nat-niveauer!
+
+[TREE_OF_WISDOM_13]
+Håber du på at finde vandplanter til din zenhave? Jeg vil vædde mit sivæv på, at du har størst held med at lede på pool-niveauer.
+
+[TREE_OF_WISDOM_14]
+Har du lagt mærke til, at gargantuarer nogle gange bruger ANDRE ZOMBIER til at smadre dine planter? Tja, hvad der nu virker.
+
+[TREE_OF_WISDOM_15]
+Sneglen Stinky elsker virkelig sin chokolade. Måske elsker han den lidt for meget, ved du? Han kan ikke sidde stille i en time, efter han har fået noget.
+
+[TREE_OF_WISDOM_16]
+Hvis du tror, at uendelig overlevelses-niveauer kun giver poolplanter til din zenhave, så tro om igen! Den giver alle slags planter.
+
+[TREE_OF_WISDOM_17]
+Ofte spørger folk: Hvor finder man chokolade? Et bedre spørgsmål ville være: Hvor finder man IKKE chokolade? Det dukker op i alle spiltyper!
+
+[TREE_OF_WISDOM_18]
+Gravrydderne, hva'? Vælg dem kun, når du kan se grave i højre side af skærmen sammen med zombierne. Sådan gør jeg.
+
+[TREE_OF_WISDOM_19]
+Jeg har hørt, at spandhovedzombier kan tåle fem gange så mange slag som almindelige zombier.
+
+[TREE_OF_WISDOM_20]
+Jeg har hørt, at hvis man skriver 'mustache', sker der en frygtindgydende forvandling med de udøde!
+
+[TREE_OF_WISDOM_21]
+Gør flere sneærteskytter på række zombierne langsommere end én enkelt? Det triste, men sande svar er 'nej'.
+
+[TREE_OF_WISDOM_22]
+Du ved godt, at zombier kommer op af gravsten, ikke? Så hvad afholder dig fra at bruge gravryddere til at fjerne dem i overlevelse om natten? Er det stolthed?
+
+[TREE_OF_WISDOM_23]
+Hvis du vil vide, hvor lang et niveau bliver, så tæl flagene på niveaumåleren. Så er du godt på vej.
+
+[TREE_OF_WISDOM_24]
+Tagrensere. Klassiske genstande. Jeg kan varmt anbefale dem. Det bedste ved dem? De giver dig en chance for at klare Pogo Party.
+
+[TREE_OF_WISDOM_25]
+Hvis du spekulerer på, om en hypnosvamp får en danserzombie til at tilkalde dansere, der hjælper dig, så sats alt på 'ja'.
+
+[TREE_OF_WISDOM_26]
+Tjen penge hurtigt! Ved at spille uendelig overlevelse! Send mig derefter dit bankkontonummer via e-mail!
+
+[TREE_OF_WISDOM_27]
+Man skulle tro, at fakkeltræer ville slukke sneærteskytter. Og det ville være rigtigt, for du er godt nok kvik, min ven.
+
+[TREE_OF_WISDOM_28]
+De afskyelige Zombotany-zombier! Hvem tror de, de er, når de skyder på dine planter? Godt, at valnødder kan stoppe dem fuldstændigt.
+
+[TREE_OF_WISDOM_29]
+Mini-spillene Pogo Party og Bobslædebonanza er virkelig, virkelig, virkelig svære. Vil du fjerne et af 'virkelig' fra beskrivelsen? Brug squashplanten.
+
+[TREE_OF_WISDOM_30]
+Lige når du troede, at jalapeñoer ikke kunne være mere nyttige, fortæller Visdommens Træ dig, at de også ødelægger Zomboniernes isspor! BANG!
+
+[TREE_OF_WISDOM_31]
+Når du har købt kopiplanten, kan du prøve at klikke på den lille tegning i øverste venstre hjørne af din almanak for at se opslaget om den.
+
+[TREE_OF_WISDOM_32]
+Antallet af mønter, du får i Zombowling, afhænger af, hvor sej du er – målt på, hvor mange rikochetter du kan få ud af hver valnød.
+
+[TREE_OF_WISDOM_33]
+Bank venligst ikke på glasset! Eller gør det faktisk bare; højreklik i dit akvarie eller under Zombiekvariet for at gøre dine undervandsvæsner døve.
+
+[TREE_OF_WISDOM_34]
+Da jeg blot var et agern, sagde min bedstefar: 'Knægt, vaseknuser-puslespil er meget lettere, hvis du først knuser vaserne i højre side.' 
+
+[TREE_OF_WISDOM_35]
+Dansere i Jeg, zombie kan virke dyre, men i den rette situation er de hver en øre værd.
+
+[TREE_OF_WISDOM_36]
+Jeg havde en drøm. I den sprang dunhammerpigge balloner og sendte zombier ned på jorden. Jeg ved ikke, hvad det betyder.
+
+[TREE_OF_WISDOM_37]
+Det er stort set umuligt at dyrke vandplanter i din zenhave uden akvariehaven. Bare så du ved det.
+
+[TREE_OF_WISDOM_38]
+Graverzombier bryder naturens orden med deres underjordiske metoder. Det er kun fair at bruge magnetsvampe til at stjæle deres hakker.
+
+[TREE_OF_WISDOM_39]
+Hver dag bringer nye udfordringer og muligheder. Nå ja, og nye morgenfruer i Skøre Daves butik.
+
+[TREE_OF_WISDOM_40]
+Svampehaven! Hvad kan den bruges til? Absolut ingenting! Bortset fra at dyrke svampe, selvfølgelig.
+
+[TREE_OF_WISDOM_41]
+Træt? Deprimeret? Er stiger på højvalnødder ved at tage modet fra dig? En hurtig magnetsvamp fjerner dine bekymringer!
+
+[TREE_OF_WISDOM_42]
+Højvalnøddernes højde er berømt på grund af deres effektivitet mod delfinryttere og pogo-zombier.
+
+[TREE_OF_WISDOM_43]
+Sprængkraften fra en kirsebærbombe eller jalapeño er mere end nok til at slå en stige af en valnød.
+
+[TREE_OF_WISDOM_44]
+Det er fristende at give al din chokolade til sneglen Stinky. Han er sådan en chokoladegris. Men husk: Planterne i zenhaven kan også lide chokolade!
+
+[TREE_OF_WISDOM_45]
+Fakkeltræets ild er varmere end vrede, men Zombonier, skærmdøre, stiger og katapulter kan tåle varmen.
+
+[TREE_OF_WISDOM_46]
+Hvis du er afhængig af opgraderingsplanter i uendelig overlevelse, skal du være meget opmærksom på, at de bliver dyrere, jo flere du har på græsplænen.
+
+[TREE_OF_WISDOM_47]
+Imp-zombierne i Jeg, zombie virker svage. Men de er hurtige og gode til at hente den sidste hjerne, når du har ryddet resten af modstanden af vejen.
+
+[TREE_OF_WISDOM_48]
+Hvis du skriver 'trickedout', skal du ikke blive overrasket, hvis der sker noget skørt med dine plæneklippere.
+
+[TREE_OF_WISDOM_49]
+Tak, fordi du fodrer mig! Jeg har ikke mere ny visdom lige nu, men måske har jeg mere, hvis du får mig til at vokse mig høj nok!
+
+[TREE_OF_WISDOM_101]
+Mmmm, jeg kunne godt bruge noget lækker gødning!
+
+[TREE_OF_WISDOM_102]
+Jeg tror, jeg har set den sky før.
+
+[TREE_OF_WISDOM_103]
+Tag jer ikke af mig. Jeg står bare herovre og vokser.
+
+[TREE_OF_WISDOM_104]
+Jeg omsætter næringsstoffer som en gal!
+
+[TREE_OF_WISDOM_105]
+Jeg forstår aldrig, hvorfor I dyr bruger hele dagen på at bevæge jer rundt, som I gør.
+
+[TREE_OF_WISDOM_106]
+Jeg oplever tiden i et langt langsommere tempo end dig!
+
+[TREE_OF_WISDOM_107]
+Jeg tror, jeg er flerårig!
+
+[TREE_OF_WISDOM_108]
+Det prikker i mit ved!
+
+[TREE_OF_WISDOM_109]
+Man kan få masser af visdom bare ved at stå stille.
+
+[TREE_OF_WISDOM_110]
+Jeg har hørt lidt om det der "vinter". Jeg kan ikke sige, at jeg glæder mig til det.
+
+[TREE_OF_WISDOM_201]
+Mmmm ... sollys er LÆKKERT!
+
+[TREE_OF_WISDOM_202]
+Ups, undskyld ... jeg slap lige lidt ilt ud.
+
+[TREE_OF_WISDOM_203]
+Hold da op, jeg kan gro blade!
+
+[TREE_OF_WISDOM_204]
+Jeg kan mærke, at en vækstspurt er på vej! 
+
+[TREE_OF_WISDOM_205]
+På dette stadie mangler jeg viden om verden!
+
+[TREE_OF_WISDOM_301]
+Jeg sætter virkelig pris på alle de penge, du bruger på gødning!
+
+[TREE_OF_WISDOM_302]
+Den sky ligner en enorm samling af vanddråber!
+
+[TREE_OF_WISDOM_303]
+Har du mødt min fætter Yggdrasil? Han er meget populær i Sverige. Masser af fans.
+
+[TREE_OF_WISDOM_304]
+Jeg læser sociologi på et onlineuniversitet. Jeg lærer virkelig meget.
+
+[TREE_OF_WISDOM_305]
+Efter nøje observation har jeg udledt, at det er Jorden, der kredser om solen, og ikke omvendt, sådan som det ser ud.
+
+[TREE_OF_WISDOM_401]
+Når man har eksisteret lige så længe som jeg, sover man mindre og hallucinerer mere.
+
+[TREE_OF_WISDOM_402]
+Hvis du forveksler skoven med træerne, så husk: En skov er en samling af enkelte træer og ikke omvendt.
+
+[TREE_OF_WISDOM_403]
+Historien gentager sig, men detaljerne bliver altid forkerte.
+
+[TREE_OF_WISDOM_404]
+Hvis fortid, nutid og fremtid alle eksisterer samtidigt som "bloktid", må oplevelsen af "nu" så ikke blot være en avanceret illusion?
+
+[TREE_OF_WISDOM_405]
+Mod er let; hengivenhed koster ekstra.
+
+[TREE_OF_WISDOM_500]
+Her er lidt visdom, der tåler at blive gentaget ...
+
+[TREE_OF_WISDOM_600]
+Træmad, tak!
+
+[TREE_OF_WISDOM_800]
+Hej, jeg er 30 meter høj! Fejr det med mig ved at skrive 'daisies', så zombierne efterlader små margueritter, når de dør.
+
+[TREE_OF_WISDOM_900]
+Hold da op! Jeg er 150 meter høj! Det skal fejres med dans! Skriv 'dance' for at få zombierne til at danse løs!
+
+[TREE_OF_WISDOM_1000]
+WOW! Jeg er 300 meter høj! Fejr det med mig ved at skrive 'pinata', så zombierne spytter slik ud, når de bliver ødelagt!
+
+[TREE_OF_WISDOM_1100]
+Tak, fordi du fodrer mig! Jeg har givet dig al min visdom, men du kan stadig få mig til at vokse mig højere!
+
+[TREE_OF_WISDOM_HIEGHT]
+{HEIGHT} fod høj
+
+[UNLOCKED_MINIGAMES]
+Mini-spil låst op!
+Spil dem fra hovedmenuen!
+
+[UNLOCKED_PUZZLE_MODE]
+Gåder låst op!
+Spil dem fra hovedmenuen!
+
+[UNLOCKED_SURVIVAL_MODE]
+Overlevelse låst op!
+Spil det fra hovedmenuen!
+
+[CREDITS_GAMENAME]
+PLANTER MOD ZOMBIER
+
+[CREDITS_ROLES1]
+^PLANTER MOD ZOMBIER
+
+[CREDITS_NAMES1]
+
+[CREDITS_ROLES2]
+^
+
+[CREDITS_NAMES2]
+
+[CREDITS_ROLES3]
+SPILDESIGN
+PROGRAMMERING
+GRAFIK
+MUSIK OG LYD
+BAGGRUNDSGRAFIK
+BRUGERFLADEGRAFIK
+TEKSTER
+
+[CREDITS_NAMES3]
+GEORGE FAN
+TOD SEMPLE
+RICH WERNER
+LAURA SHIGIHARA
+ENRIQUE CORTS
+MATT HOLMBERG
+STEPHEN NOTLEY
+
+[CREDITS_ROLES4]
+^
+
+[CREDITS_NAMES4]
+
+
+[CREDITS_ROLES5]
+STUDIELEDER
+TESTLEDER
+KVALITETSTEST
+POPCAP-FRAMEWORK
+MURMELDYRSSÆLGER
+SÆRLIG TAK
+
+[CREDITS_NAMES5]
+SUKHBIR SIDHU
+MIKE RACIOPPI
+SHAWN CONARD, ED MILLER, ADAM MACDONNELL
+BRIAN FIETE, CHRIS HARGROVE, DAVID PARTON
+DAVID P. WYCLIFF
+JASON KAPALKA, JOHN VECHEY, DAVE HAAS, 
+DAVE ROBERTS, ED BROWN, LINDSEY KURZ, 
+JEFF GATES, MYSTICSAGE, DAVE ROHRL, 
+POPCAP BETA TESTERS
+
+[CREDITS_ROLES6]
+^
+
+[CREDITS_NAMES6]
+
+[CREDITS_ROLES7]
+^ÅRETS SPIL-INDHOLD
+
+[CREDITS_NAMES7]
+
+
+[CREDITS_ROLES8]
+^
+
+[CREDITS_NAMES8]
+
+
+[CREDITS_ROLES9]
+PROGRAMMERING
+GRAFIK
+PRODUCENT
+TEKNISK TROLDOM
+KVALITETSSIKRING
+
+
+[CREDITS_NAMES9]
+DAVID FRANZI
+MONTE MICHAELIS
+T. CARL KWOH
+MICHAEL FROMWILLER
+BOB CHURCH
+
+
+[CREDITS_ROLES10]
+^
+
+[CREDITS_NAMES10]
+
+
+[CREDITS_ROLES11]
+^TAK FORDI DU SPILLEDE!
+
+[CREDITS_NAMES11]
+
+
+[CREDITS_REPLAY_BUTTON]
+SPIL IGEN
+
+
+[CREDITS_MAIN_MENU_BUTTON]
+HOVEDMENU
+
+
+[VISIT_TREE_HEADER]
+Besøg træet?
+
+
+[VISIT_TREE_BODY]
+Vil du besøge Visdommens Træ nu?
+
+
+[CREDITS_PAUSE_HEADER]
+RULLETEKSTERNE ER SAT PÅ PAUSE
+
+
+[CREDITS_PAUSE_BODY]
+Klik for at fortsætte rulleteksterne.
+
+Du kan også se rulleteksterne senere
+under indstillingerne i hovedmenuen.
+
+
+[CREDITS_RESUME_BUTTON]
+Fortsæt rulleteksterne
+
+
+[GET_FULL_VERSION_BUTTON]
+Køb den fulde version
+
+
+[UPSELL_PAUSE_HEADER]
+PAUSE
+
+
+[UPSELL_PAUSE_BODY]
+Klik for at fortsætte.
+
+
+[UPSELL_RESUME_BUTTON]
+Fortsæt
+
+
+[INTRO_PRESENTS]
+PopCap Games præsenterer
+
+
+[CANT_USE_CODE]
+Visdommens Træ er ikke højt nok til det!
+
+
+[ADVENTURE_COMPLETE_HEADER]
+Historien gennemført
+
+
+[ADVENTURE_COMPLETE_BODY]
+Flere mini-spil, gåder og overlevelses-niveauer er blevet låst op! Se også de nye varer i Skøre Daves butik!
+
+
+[ADVICE_NEED_WHEELBARROW]
+Hvis du vil flytte dine planter mellem haverne,
+skal du købe en trillebør i butikken!
+
+
+[AVAILABLE_IN_FULL_VERSION]
+Denne plante fås kun i DEN FULDE VERSION!
+
+
+[REPLAY_LEVEL_HEADER]
+Spil niveauet igen?
+
+
+[REPLAY_LEVEL_BODY]
+Vil du spille niveau 3-4 igen?
+
+
+[RENAME_BUTTON]
+Omdøb
+
+
+[DELETE_BUTTON]
+Slet
+
+
+[CREATE_NEW_USER]
+(Opret en ny bruger)
+
+
+[WHO_ARE_YOU]
+HVEM ER DU?
+
+
+[GAME_PAUSED]
+SPILLET ER SAT PÅ PAUSE
+
+
+[CLICK_TO_RESUME]
+Klik for at fortsætte spillet
+
+
+[RESUME_GAME]
+Fortsæt spillet
+
+
+[INVALID_CODE]
+Ugyldig kode
+
+
+[INVALID_CODE_MESSAGE]
+Licenskoden, du indtastede, er ikke gyldig for dette navn.
+
+Kontrollér, at navn og registreringsnummer er indtastet korrekt.
+
+
+[USER_ERROR_MESSAGE]
+Indtast dit navn for at oprette en ny brugerprofil, hvor rekorder og spilfremskridt gemmes.
+
+
+[ENTER_YOUR_NAME]
+Indtast dit navn
+
+
+[NAME_CONFLICT]
+Navnekonflikt
+
+
+[ENTER_UNIQUE_PLAYER_NAME]
+Det indtastede navn er allerede i brug. Indtast et unikt spillernavn.
+
+
+[ARE_YOU_SURE]
+Er du sikker?
+
+
+[DELETE_USER_WARNING]
+Dette vil permanent fjerne '%s' fra spillerlisten!
+
+
+[RENAME_USER]
+OMDØB BRUGER
+
+
+[NEW_USER]
+NY BRUGER
+
+
+[PLEASE_ENTER_NAME]
+Indtast dit navn:
+
+
+[STORE]
+Butik
+
+
+[NO_WINDOWED_MODE]
+Vinduestilstand ikke tilgængelig
+
+
+[INVALID_WINDOWS_MODE]
+Vinduestilstand er kun tilgængelig, hvis skrivebordet kørte i enten
+16-biters eller 32-biters farvetilstand, da du startede spillet.
+
+
+Hvis du vil køre spillet i vinduestilstand, skal du afslutte spillet og skifte skrivebordet til 16-biters eller 32-biters farvetilstand.
+
+
+[NOT_SUPPORTED]
+Ikke understøttet
+
+
+[HARDWARE_ACCELERATION_NOT_SUPPORTED]
+Hardwareacceleration kan ikke aktiveres på denne computer.
+
+Dit grafikkort opfylder ikke
+minimumskravene
+til dette spil.
+
+
+[SLOW_PERFORMANCE]
+Dit grafikkort understøtter muligvis ikke denne funktion fuldt ud.
+
+Hvis spillet kører langsommere, skal du deaktivere hardwareacceleration.
+
+
+[OPEN_URL]
+Åbn følgende URL i din browser
+
+%s
+
+URL'en er allerede kopieret til udklipsholderen.
+
+
+[OPEN_BROWSER]
+Åbn browser
+
+
+[OPENING_BROWSER]
+Åbner browser
+
+
+[NOT_ENOUGH_MONEY]
+Ikke nok penge
+
+
+[CANNOT_AFFORD_ITEM]
+Du har ikke råd til denne vare endnu. Tjen flere mønter ved at dræbe zombier!
+
+
+[BUY_ITEM_HEADER]
+Køb denne vare?
+
+
+[BUY_ITEM]
+Er du sikker på, at du vil købe denne vare?
+
+
+[NOW_YOU_CAN_CHOOSE_X_SEEDS]
+Nu kan du vælge at tage %d frø med dig på hvert niveau!
+
+
+[MORE_SLOTS]
+Flere pladser!
+
+
+[RESTART_LEVEL]
+Er du sikker på, at du vil genstarte niveauet?
+
+
+[NEW_GAME_HEADER]
+Nyt spil?
+
+
+[NEW_GAME]
+Er du sikker på, at du vil starte et nyt spil?
+
+
+[LEAVE_GAME_HEADER]
+Forlad spillet?
+
+
+[LEAVE_GAME]
+Vil du vende tilbage
+til hovedmenuen?
+
+Dit spil bliver gemt.
+
+
+[REGISTER_HEADER]
+REGISTRÉR DIG!
+
+
+[REGISTER]
+Din prøveversion af ZomBotany er udløbet!
+
+Du skal registrere din kopi
+for at fortsætte med at spille.
+
+
+[OPTIONS_MUSIC_LABEL]
+Musik
+
+
+[OPTIONS_SOUNDFX]
+Lydeffekter
+
+
+[OPTIONS_3D_ACCELERATION]
+3D-acceleration
+
+
+[OPTIONS_FULL_SCREEN]
+Fuld skærm
+
+
+[LIMBO_PAGE_BUTTON]
+Limbo-siden
+
+
+[ALMANAC_HEADER]
+Almanakken
+
+
+[CONTINUE_GAME_HEADER]
+FORTSÆT SPILLET?
+
+
+[CONTINUE_GAME_OR_RESTART]
+Vil du fortsætte dit aktuelle spil eller genstarte niveauet?
+
+
+[CONTINUE_GAME]
+Vil du fortsætte dit aktuelle spil eller starte et nyt spil?
+
+
+[PROGRESS_METER_TEXT]
+%d/%d %s
+
+
+[NUMBER_OF_TROPHIES]
+%d/%d
+
+
+[LEVELS_COMPLETED]
+%s - %s
+
+
+[WELCOME_USER_NAME]
+%s!
+
+
+[MULTIPLIED_X]
+x%d
+
+
+[SQUIRREL]
+Egern
+
+
+[TREE_OF_WISDOM]
+Visdommens Træ
+
+
+[UPSELL]
+Tilbud
+
+
+[INTRO]
+Introduktion
+
+
+[IMITATED_PLANT]
+Imitator {PLANT}
+
+
+[CREDIT_GAME_DESIGN]
+Spildesign
+
+
+[CREDITS_PROGRAMMING]
+Programmering
+
+
+[CREDITS_ART]
+Grafik
+
+
+[CREDITS_MUSIC_SOUND]
+Musik og lyd
+
+
+
+[STEAM_CLOUD_UPLOAD_HEADER]
+Steam Cloud-gemning er aktiv
+
+
+[STEAM_CLOUD_UPLOAD_MESSAGE]
+Steam Cloud-gemning er aktiveret, så dine gemte spil bliver opbevaret i skyen og er tilgængelige på alle maskiner, du logger ind på. Dette vil dog overskrive eventuelle eksisterende gemte spil på andre maskiner. Hvis du trykker på ‘Annullér’, deaktiveres Steam Cloud for denne session.
+
+
+[STEAM_CLOUD_UPLOAD_OKAY_BUTTON]
+OK
+
+
+[STEAM_CLOUD_UPLOAD_CANCEL_BUTTON]
+ANNULLÉR
+
+
+[STEAM_CLOUD_CONFLICT_MESSAGE]
+Vi har registreret, at du både har en Steam Cloud-gemning af dette spil og en gemning på denne maskine. Hvilken gemning vil du bruge? (Hvis du trykker på ‘Annullér’, deaktiveres Steam Cloud for denne session.)
+
+
+[STEAM_CLOUD_CONFLICT_LOCAL_BUTTON]
+LOKAL GEMNING
+
+
+[STEAM_CLOUD_CONFLICT_CLOUD_BUTTON]
+STEAM-GEMNING
+
+
+[STEAM_CLOUD_CONFLICT_CANCEL_BUTTON]
+ANNULLÉR
+
+
+[ACHIEVEMENT_HOME_SECURITY_TITLE]
+Sikkerhed i hjemmets have
+
+
+[ACHIEVEMENT_HOME_SECURITY_DESCRIPTION]
+Gennemfør historien.
+
+
+[ACHIEVEMENT_SPUDOW_TITLE]
+SPUDOW!
+
+
+[ACHIEVEMENT_SPUDOW_DESCRIPTION]
+Spræng en zombie i luften med en kartoffelmine.
+
+
+[ACHIEVEMENT_EXPLODONATOR_TITLE]
+Eksplodinator
+
+
+[ACHIEVEMENT_EXPLODONATOR_DESCRIPTION]
+Udslet 10 zombier med én enkelt kirsebærbombe.
+
+
+[ACHIEVEMENT_MORTICULTURALIST_TITLE]
+Mortikulturist
+
+
+[ACHIEVEMENT_MORTICULTURALIST_DESCRIPTION]
+Saml alle 49 planter (inklusive planterne fra Skøre Daves butik).
+
+
+[ACHIEVEMENT_DONT_PEA_IN_POOL_TITLE]
+Skyd ikke ærter i poolen
+
+
+[ACHIEVEMENT_DONT_PEA_IN_POOL_DESCRIPTION]
+Gennemfør et pool-niveau om dagen uden at bruge nogen form for ærteskytte.
+
+
+[ACHIEVEMENT_ROLL_SOME_HEADS_TITLE]
+Rul nogle hoveder
+
+
+[ACHIEVEMENT_ROLL_SOME_HEADS_DESCRIPTION]
+Vælt 5 zombier med én enkelt valnød.
+
+
+[ACHIEVEMENT_GROUNDED_TITLE]
+Jordforbindelse
+
+
+[ACHIEVEMENT_GROUNDED_DESCRIPTION]
+Besejr et normalt tag-niveau uden at bruge katapultplanter.
+
+
+[ACHIEVEMENT_ZOMBOLOGIST_TITLE]
+Kryptozombolog
+
+
+[ACHIEVEMENT_ZOMBOLOGIST_DESCRIPTION]
+Find yetizombien.
+
+
+[ACHIEVEMENT_PENNY_PINCHER_TITLE]
+Påholdende
+
+
+[ACHIEVEMENT_PENNY_PINCHER_DESCRIPTION]
+Saml 30 mønter i træk på ét niveau uden at lade nogen forsvinde.
+
+
+[ACHIEVEMENT_SUNNY_DAYS_TITLE]
+Solrige dage
+
+
+[ACHIEVEMENT_SUNNY_DAYS_DESCRIPTION]
+Saml 8.000 sol på ét niveau.
+
+
+[ACHIEVEMENT_POPCORN_PARTY_TITLE]
+Popcornfest
+
+
+[ACHIEVEMENT_POPCORN_PARTY_DESCRIPTION]
+Besejr 2 gargantuarer med majskolbeprojektiler på ét niveau.
+
+
+[ACHIEVEMENT_GOOD_MORNING_TITLE]
+Godmorgen
+
+
+[ACHIEVEMENT_GOOD_MORNING_DESCRIPTION]
+Gennemfør et niveau om dagen ved kun at plante svampe og kaffebønner.
+
+
+[ACHIEVEMENT_NO_FUNGUS_AMONG_US_TITLE]
+Ingen svampe her
+
+
+[ACHIEVEMENT_NO_FUNGUS_AMONG_US_DESCRIPTION]
+Gennemfør et niveau om natten uden at plante svampe.
+
+
+[ACHIEVEMENT_NOBEL_PEAS_PRIZE_TITLE]
+Nobelærteprisen
+
+
+[ACHIEVEMENT_NOBEL_PEAS_PRIZE_DESCRIPTION]
+Få det gyldne solsikketrofæ.
+
+
+[ACHIEVEMENT_BETTER_OFF_DEAD_TITLE]
+Bedre død end levende
+
+
+[ACHIEVEMENT_BETTER_OFF_DEAD_DESCRIPTION]
+Nå en stime på 10 i Jeg, zombie – uendelig.
+
+
+[ACHIEVEMENT_CHINA_SHOP_TITLE]
+Porcelænsbutik
+
+
+[ACHIEVEMENT_CHINA_SHOP_DESCRIPTION]
+Nå en stime på 15 i Vasebryder – uendelig.
+
+
+[ACHIEVEMENT_BEYOND_THE_GRAVE_TITLE]
+Hinsides graven
+
+
+[ACHIEVEMENT_BEYOND_THE_GRAVE_DESCRIPTION]
+Gennemfør alle 20 mini-spil.
+
+
+[ACHIEVEMENT_IMMORTAL_TITLE]
+Udødelig
+
+
+[ACHIEVEMENT_IMMORTAL_DESCRIPTION]
+Overlev 20 bølger af ren zombiegrusomhed.
+
+
+[ACHIEVEMENT_TOWERING_WISDOM_TITLE]
+Tårnhøj visdom
+
+
+[ACHIEVEMENT_TOWERING_WISDOM_DESCRIPTION]
+Få Visdommens Træ til at vokse til 100 fod.
+
+
+[ACHIEVEMENT_MUSTACHE_MODE_TITLE]
+Overskægstilstand
+
+
+[ACHIEVEMENT_MUSTACHE_MODE_DESCRIPTION]
+Aktivér overskægstilstand
+
+
+[ACHIEVEMENT_DISCO_IS_UNDEAD_TITLE]
+Disco er udød
+
+
+[ACHIEVEMENT_DISCO_IS_UNDEAD_DESCRIPTION]
+Hypnotisér den forreste zombiedanser.
+
+
+[ACHIEVEMENT_ACHIEVED]
+Præstation: {ACHIEVEMENT}!
+
+
+[ACHIEVEMENT_EARNED]
+{ACHIEVEMENT} opnået!
+
+
+[ACHIEVEMENTS_TITLE]
+PRÆSTATIONER
+
+
+[ZOMBATAR_PAGE]
+Side %d / %d

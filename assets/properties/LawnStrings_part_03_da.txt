@@ -1,0 +1,468 @@
+{SHORTLINE}
+{KEYWORD}Skal plantes oven på magnet-svampe
+{SHORTLINE}
+{FLAVOR}"Hvordan endte jeg her?" spørger Guldmagnet. "Jeg var på hurtigsporet – hjørnekontor, fulde 
+pension og aktieoptioner. Jeg skulle være vicepræsident for driften i Midtvesten. Nu er jeg her, på denne 
+plæne, i overhængende fare for at blive ædt ihjel. Uh! En mønt!"
+
+[COB_CANNON_DESCRIPTION_HEADER]
+Klik på Majskanonen for at affyre dødbringende majskolber.
+
+[COB_CANNON_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skal plantes oven på to majskatapulter ved siden af hinanden
+{SHORTLINE}
+{FLAVOR}Hvad er historien egentlig med Majskanonen? Han har læst på Harvard. Han arbejder som advokat i et prestigefyldt 
+advokatfirma i New York. Han kan sprænge hele grupper af zombier i luften med ét eneste majsskud. Det ved alle. 
+Men hvad er det egentlig, der driver ham inderst inde?
+
+[IMITATER_DESCRIPTION_HEADER]
+Kopiplanter lader dig bruge to af den samme plante i en bane!
+
+[IMITATER_DESCRIPTION]
+{SHORTLINE}
+{FLAVOR}"Jeg husker Zombikrigene tilbage i '76," siger Kopiplanten med en hæs, gammelmandsagtig stemme. "Dengang 
+havde vi ikke alle de smarte ærteskydere og jalapeñoer. Vi havde kun mod. Mod og en ske."
+
+[SPIKEROCK_DESCRIPTION_HEADER]
+Pigsten punkterer flere dæk og skader zombier, der går hen over dem.
+
+[SPIKEROCK_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skal plantes oven på piggræs
+{SHORTLINE}
+{FLAVOR}Pigsten er netop vendt hjem fra en rejse til Europa. Han havde det fantastisk og mødte nogle vidunderlige mennesker, 
+og hans horisont blev virkelig udvidet. Han anede ikke, at museer kunne være så store, eller at man kunne hænge så mange malerier op i dem. 
+Det kom virkelig bag på ham.
+
+[ZOMBIE_DESCRIPTION_HEADER]
+En helt almindelig zombie
+
+[ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav {270}
+{SHORTLINE}
+{FLAVOR}Denne zombie elsker hjerner. Han kan ikke få nok. Hjerner, hjerner, hjerner, dag og nat. 
+Gamle og stinkende hjerner? Rådne hjerner? Hjerner, der tydeligvis har overskredet sidste holdbarhedsdato? Det er lige meget. Den almindelige zombie vil have dem. 
+
+[FLAG_ZOMBIE_DESCRIPTION_HEADER]
+Flagzombien varsler ankomsten af en kæmpe flok eller "bølge" af zombier.
+
+[FLAG_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav {270}
+{SHORTLINE}
+{FLAVOR}Der er ingen tvivl om, at Flagzombien elsker hjerner. Men på et tidspunkt udviklede han også 
+en fascination af flag. Måske er det, fordi flagene altid har hjerner på sig. Det er svært at sige.
+
+[CONEHEAD_ZOMBIE_DESCRIPTION_HEADER]
+Hans trafikkegle på hovedet gør ham dobbelt så sejlivet som almindelige zombier.
+
+[CONEHEAD_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {640}
+{SHORTLINE}
+{FLAVOR}Keglezombien slæbte sig tankeløst fremad ligesom alle andre zombier.
+Men noget fik ham til at standse, samle en trafikkegle op og sætte den på hovedet. Nå ja. Han elsker fest.
+
+[BUCKETHEAD_ZOMBIE_DESCRIPTION_HEADER]
+Hans spand på hovedet gør ham ekstremt modstandsdygtig over for skade.
+
+[BUCKETHEAD_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} høj {1370}
+{KEYMETAL}Svaghed:{METAL} Magnet-svamp
+{SHORTLINE}
+{FLAVOR}Spandhoved-zombien gik altid med en spand. Dels for at understrege sin egenart 
+i en verden, der var ligeglad. Men mest af alt havde han bare glemt, at den sad der.
+
+[POLE_VAULTING_ZOMBIE_DESCRIPTION_HEADER]
+Stangspringerzombien springer over forhindringer med en stang.
+
+[POLE_VAULTING_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {500}
+{KEYWORD}Hastighed:{STAT} hurtig, derefter normal (efter springet)
+{KEYWORD}Særligt:{STAT} springer over den første plante, han møder
+{SHORTLINE}
+{FLAVOR}Nogle zombier går skridtet videre, stræber højere og presser sig selv ud over 
+det normale for at opnå storhed. Det er lige præcis Stangspringerzombien. Typisk ham.
+
+[NEWSPAPER_ZOMBIE_DESCRIPTION_HEADER]
+Hans avis giver en smule beskyttelse.
+
+[NEWSPAPER_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav {270}
+{KEYWORD}Avisens robusthed:{STAT} lav {150}
+{KEYWORD}Hastighed:{STAT} normal, derefter hurtig (når avisen mistes)
+{SHORTLINE}
+{FLAVOR}Aviszombien var *så* tæt på at færdiggøre sin sudoku. Det er ikke så mærkeligt, at han flipper ud.
+
+[SCREEN_DOOR_ZOMBIE_DESCRIPTION_HEADER]
+Hans insektnetdør er et effektivt skjold.
+
+[SCREEN_DOOR_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav {270}
+{KEYWORD}Insektnetdørens robusthed:{STAT} høj {1100}
+{KEYWORD}Svaghed:{STAT} fume-shroom{METAL} and Magnet-svamp{KEYWORD}
+{SHORTLINE}
+{FLAVOR}Han fik sin insektnetdør fra det sidste dårligt forsvarede hus, han besøgte, efter at han ÅD HUSEJERENS HJERNE.
+
+[FOOTBALL_ZOMBIE_DESCRIPTION_HEADER]
+Fodboldzombien laver de store spil.
+
+[FOOTBALL_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} meget høj {1670}
+{KEYWORD}Hastighed:{STAT} hurtig
+{KEYMETAL}Svaghed:{METAL} Magnet-svamp
+{SHORTLINE}
+{FLAVOR}Fodboldzombien giver 110 procent, hver gang han er på banen. Han er en holdspiller, 
+der bidrager både offensivt og defensivt. Han aner ikke, hvad amerikansk fodbold er.
+
+[DANCING_ZOMBIE_DESCRIPTION_HEADER]
+Enhver lighed mellem Dansezombien og nulevende eller afdøde personer er rent tilfældig.
+
+[DANCING_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {500}
+{KEYWORD}Særligt:{STAT} summons back-up dancers
+{SHORTLINE}
+{FLAVOR}Dansezombiens seneste album, "GrarrBRAINSarblarbl", stormer allerede op ad hitlisterne for de udøde.
+
+[BACKUP_DANCER_DESCRIPTION_HEADER]
+Disse zombier dukker op i grupper på fire, hver gang Dansezombien fyrer den af.
+
+[BACKUP_DANCER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav {270}
+{SHORTLINE}
+{FLAVOR}Backupdanserzombien brugte seks år på at perfektionere sin kunst på Chewliard 
+Scenekunstskole i Zombiew York.
+
+[DUCKY_TUBE_ZOMBIE_DESCRIPTION_HEADER]
+Baderingens form som en and gør, at zombien kan flyde på vandet.
+
+[DUCKY_TUBE_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav {270}
+{AQUATIC}Vises kun i bassinet
+{SHORTLINE}
+{FLAVOR}Det kræver en særlig slags zombie at være Andebadering-zombie. Ikke alle zombier kan klare det. 
+Nogle bryder sammen. De kan ikke holde til det. De går deres vej og opgiver hjerner for altid.
+
+[SNORKEL_ZOMBIE_DESCRIPTION_HEADER]
+Snorkelzombier kan svømme under vandet.
+
+[SNORKEL_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav {270}
+{KEYWORD}Særligt:{STAT} submerges to avoid attacks
+{AQUATIC}Vises kun i bassinet
+{SHORTLINE}
+{FLAVOR}Zombier trækker ikke vejret. De har ikke brug for luft. Så hvorfor har Snorkelzombien brug for en snorkel for at svømme under vandet?{KEYWORD}
+{FLAVOR}Svar: gruppepres.
+
+[ZOMBONI_DESCRIPTION_HEADER]
+Zombonien udsætter dine planter for is, damp og tryk.
+
+[ZOMBONI_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} høj {1350}
+{KEYWORD}Særligt:{STAT} knuser planter og efterlader et isspor
+{SHORTLINE}
+{FLAVOR}Må ikke forveksles med ismaskinen af mærket Zamboni®. Zamboni® og billedet af ismaskinen er registrerede varemærker tilhørende Frank J. Zamboni & Co., Inc., og "Zomboni" bruges med tilladelse. Hvis du har brug for isbehandling uden zombier, kan du besøge www.zamboni.com!
+
+[ZOMBIE_BOBSLED_TEAM_DESCRIPTION_HEADER]
+Disse zombier optræder i hold på fire.
+
+[ZOMBIE_BOBSLED_TEAM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav (each zombie) {270}
+{KEYWORD}Bobslædens robusthed:{STAT} lav {300}
+{KEYWORD}Særligt:{STAT} vises kun på is
+{SHORTLINE}
+{FLAVOR}Zombiebobslædeholdet har arbejdet hårdt for at nå så langt. De bor sammen, spiser hjerner 
+sammen og træner sammen for at blive en sammentømret zombieenhed.
+
+[DOLPHIN_RIDER_ZOMBIE_DESCRIPTION_HEADER]
+Delfinrytterzombier bruger delfiner til at udnytte svagheder i dit bassinforsvar.
+
+[DOLPHIN_RIDER_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {500}
+{KEYWORD}Hastighed:{STAT} hurtig, then slav (after jump)
+{KEYWORD}Særligt:{STAT} springer over den første plante, han møder
+{AQUATIC}Vises kun i bassinet
+{SHORTLINE}
+{FLAVOR}Delfinen er også en zombie.
+
+[ZOMBIE_YETI_DESCRIPTION_HEADER]
+Et sjældent og besynderligt væsen.
+
+[ZOMBIE_YETI_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} høj {1350}
+{KEYWORD}Særligt:{STAT} runs away after a short while
+{SHORTLINE}
+{FLAVOR}Man ved kun lidt om Yeti-zombien ud over hans navn, fødselsdato, personnummer, 
+uddannelseshistorik, tidligere arbejdserfaring og foretrukne sandwich (roastbeef og schweizerost).
+
+[JACK_IN_THE_BOX_ZOMBIE_DESCRIPTION_HEADER]
+Denne zombie har en eksplosiv overraskelse med sig.
+
+[JACK_IN_THE_BOX_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {500}
+{KEYWORD}Hastighed:{STAT} hurtig
+{KEYWORD}Særligt:{STAT} jack-in-the-box explodes
+{KEYMETAL}Svaghed:{METAL} Magnet-svamp
+{SHORTLINE}
+{FLAVOR}Denne zombie ryster, ikke fordi han fryser, men fordi han er vanvittig.
+
+[BALLOON_ZOMBIE_DESCRIPTION_HEADER]
+Ballonzombien svæver over kamppladsen og er immun over for de fleste angreb.
+
+[BALLOON_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav {270}
+{KEYWORD}Særligt:{STAT} flying
+{KEYWORD}Svaghed:{STAT} cactus and blover
+{SHORTLINE}
+{FLAVOR}Ballonzombien har virkelig været heldig. Det med ballonen virker faktisk, og 
+ingen af de andre zombier har opdaget det.
+
+[DIGGER_ZOMBIE_DESCRIPTION_HEADER]
+Denne zombie graver sig uden om dit forsvar.
+
+[DIGGER_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {370}
+{KEYWORD}Hastighed:{STAT} hurtig, then slav
+{KEYWORD}Særligt:{STAT} graver en tunnel under jorden og dukker op i venstre side af plænen
+{KEYWORD}Svaghed:{STAT} split pea{METAL} and Magnet-svamp{KEYWORD}
+{SHORTLINE}
+{FLAVOR}Graverzombien bruger tre dage om ugen på at få sine gravetilladelser i orden.
+
+[POGO_ZOMBIE_DESCRIPTION_HEADER]
+Pogozombien hopper for at komme uden om dit forsvar.
+
+[POGO_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {500}
+{KEYWORD}Særligt:{STAT} hopper over planter
+{KEYMETAL}Svaghed:{METAL} Magnet-svamp
+{SHORTLINE}
+{FLAVOR}Boing! Boing! Boing! Sådan lyder en stærk og effektiv zombie, når han gør det, han er bedst til.
+
+[BUNGEE_ZOMBIE_DESCRIPTION_HEADER]
+Bungeezombien angriber oppefra.
+
+[BUNGEE_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {400}
+{KEYWORD}Særligt:{STAT} firer sig ned fra himlen og stjæler en plante
+{SHORTLINE}
+{FLAVOR}Bungeezombien elsker at løbe risici. For hvad er meningen med at være død, hvis man ikke lever lidt?
+
+[LADDER_ZOMBIE_DESCRIPTION_HEADER]
+Stigezombien klatrer over forhindringer.
+
+[LADDER_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {500}
+{KEYWORD}Stigens robusthed:{STAT} middel {500}
+{KEYWORD}Hastighed:{STAT} hurtig, then slav (after placing ladder)
+{KEYWORD}Svaghed:{STAT} fume-shroom{METAL} and Magnet-svamp{KEYWORD}
+{SHORTLINE}
+{FLAVOR}Han købte stigen for 8,99 $.
+
+[CATAPULT_ZOMBIE_DESCRIPTION_HEADER]
+Katapultzombien betjener tunge maskiner.
+
+[CATAPULT_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} middel {850}
+{KEYWORD}Særligt:{STAT} kaster basketballer efter dine planter
+{SHORTLINE}
+{FLAVOR}Af alle de ting, Katapultzombien kunne skyde af sted med sin katapult, virkede basketballer 
+som det bedste og mest oplagte valg.
+
+[GARGANTUAR_DESCRIPTION_HEADER]
+Gargantuar er en gigantisk zombie.
+
+[GARGANTUAR_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} ekstremt høj {3000}
+{SHORTLINE}
+{FLAVOR}Når Gargantuar går, ryster jorden. Når han stønner, bliver de andre zombier tavse.
+Han er den zombie, som andre zombier drømmer om at blive. Men han kan stadig ikke finde en kæreste. 
+
+[IMP_DESCRIPTION_HEADER]
+Imp-zombier er små zombier, som Gargantuar slynger langt ind i dit forsvar.
+
+[IMP_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} lav {270}
+{SHORTLINE}
+{FLAVOR}Imp er måske lille, men han er sej og senet. Han er dygtig til zombie-judo, zombie-karate 
+og zombie-nævekamp. Han spiller også melodika.
+
+[BOSS_DESCRIPTION_HEADER]
+Dr. Zomboss hersker over dem alle.
+
+[BOSS_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed (i Zombot-rustningen):{STAT} ekstrem
+{SHORTLINE}
+{FLAVOR}Edgar George Zomboss tog sin doktorgrad i thanatologi på kun to år. Efter hurtigt at have mestret 
+thanatologisk teknologi byggede han sin frygtindgydende Zombot og gik i gang med at etablere fuldstændig dominans over sit lokalområde.
+
+[DOG_WALKING_ZOMBIE_DESCRIPTION]
+Beskrivelse af hundelufterzombien
+
+[DOG_ZOMBIE_DESCRIPTION]
+Beskrivelse af hundezombien
+
+[PROPELLER_ZOMBIE_DESCRIPTION]
+Beskrivelse af propelzombien
+
+[CRAZY_DAVE_201]
+Godaften, {PLAYER_NAME}.
+[CRAZY_DAVE_202]
+De zombier giver bare ikke op, vel?
+[CRAZY_DAVE_203]
+Du vil opdage, at det er anderledes at kæmpe mod zombier om natten end om dagen.
+[CRAZY_DAVE_204]
+For det første falder der ikke sol ned fra himlen.
+[CRAZY_DAVE_205]
+Men du kan stadig få sol fra solsikker.
+[CRAZY_DAVE_206]
+Og heldigvis har du nogle pufsvampe.
+[CRAZY_DAVE_207]
+Plant så mange af dem, du kan, så skal det nok gå helt fint.
+
+[CRAZY_DAVE_301]
+Hey, du fandt min bilnøgle!
+[CRAZY_DAVE_302]
+Ved du, hvad det betyder...
+[CRAZY_DAVE_303]
+Skøre Daves Dimserier har åbent! {MOUTH_SMALL_SMILE}
+[CRAZY_DAVE_304]
+Kig dig omkring! Se, om du ikke kan finde noget, du kan lide! {MOUTH_SMALL_SMILE}
+
+[CRAZY_DAVE_401]
+Har du nogensinde spillet et spil, der hedder Zombie-smæk?
+[CRAZY_DAVE_402]
+Det er ligesom at jage egernkravlere.
+[CRAZY_DAVE_403]
+Du ved, de små pelsede gnavere, der graver huller i din plæne?
+[CRAZY_DAVE_404]
+Ja, lige sådan, men i stedet for egernkravlere er det zombier.
+[CRAZY_DAVE_405]
+{SHOW_HAMMER}And instead of a shovel, it's a mallet.
+[CRAZY_DAVE_406]
+Og i stedet for MIG er det DIG! {MOUTH_BIG_SMILE} {SCREAM}
+
+[CRAZY_DAVE_501]
+Det ser ud til, at zombierne har opgivet at angribe din forhave.
+[CRAZY_DAVE_502]
+Nu prøver de sig med din baghave.
+[CRAZY_DAVE_503]
+Og som om det ikke var nok, kan du ikke engang bruge dine svampe!
+[CRAZY_DAVE_504]
+For de falder i søvn om dagen!
+[CRAZY_DAVE_505]
+Er det ikke bare herligt!
+
+[CRAZY_DAVE_601]
+DU HAR FUNDET MIN MAGISKE TACO!! {SCREAM2}
+[CRAZY_DAVE_602]
+{SHOW_MONEYBAG}I must have it! I'll give you $1000!
+[CRAZY_DAVE_603]
+JA! TACOEN ER MIN! {SCREAM}
+[CRAZY_DAVE_604]
+Hvorfor gav jeg dig så mange penge for en taco?
+[CRAZY_DAVE_605]
+{SHAKE}BECAUSE I'M CRAAAAZY!!!! {MOUTH_BIG_SMILE}
+[CRAZY_DAVE_606]
+Kig dig omkring i min butik! Du vil se, at jeg har fået nogle nye varer på lager!
+
+[CRAZY_DAVE_701]
+Det mærkelige ved zombiefremstillingen er, at de nogle gange bliver helt små.
+[CRAZY_DAVE_702]
+Rigtig små og RIGTIG ONDE!
+[CRAZY_DAVE_703]
+Pas på dine skinneben! {SCREAM}
+
+[CRAZY_DAVE_801]
+Ved du hvad, de plejede at kalde mig "Tågemanden"
+[CRAZY_DAVE_802]
+fordi jeg gemte mig i tågen og SPRANG FREM FORAN FOLK! {MOUTH_BIG_SMILE}
+[CRAZY_DAVE_803]
+Ak ja, det var tider. {MOUTH_SMALL_SMILE}
+
+[CRAZY_DAVE_1101]
+Hvorfor blev det pludselig så mørkt?
+[CRAZY_DAVE_1102]
+Det kan ikke være godt.
+[CRAZY_DAVE_1103]
+Nå, men jeg håber, du overlever natten!
+
+[CRAZY_DAVE_1201]
+Wow! De har endda fundet en vej op på dit tag!
+[CRAZY_DAVE_1202]
+Det er godt nok nogle ihærdige zombier, min ven.
+[CRAZY_DAVE_1203]
+Du bliver nødt til at bruge kålkastere her på grund af tagets hældning.
+[CRAZY_DAVE_1204]
+Husk det, så skal det nok gå!
+
+[CRAZY_DAVE_1301]
+Zenhaven er ret smart, hva’?
+[CRAZY_DAVE_1302]
+Du kan besøge den når som helst fra hovedmenuen.
+[CRAZY_DAVE_1303]
+Men nok om det! Det er tid til at forsvare dit hus!
+[CRAZY_DAVE_1304]
+Jeg er nødt til at advare dig...
+[CRAZY_DAVE_1305]
+Du kommer til at hade den næste bane.
+[CRAZY_DAVE_1306]
+Hvorfor? Fordi det er bungeezombie efter bungeezombie uden pause.
+[CRAZY_DAVE_1307]
+Jeg hader de forbandede bungeezombier!!! {SCREAM2}
+[CRAZY_DAVE_1308]
+Jeg hader dem!!
+[CRAZY_DAVE_1309]
+Jeg hader dem af hele mit hjerte!
+[CRAZY_DAVE_1310]
+Og med al min hævngerrighed!
+[CRAZY_DAVE_1311]
+A-hurra! Der kommer de idioter nu!
+
+[CRAZY_DAVE_1401]
+Hey, du har indtil videre samlet {MONEY} i mønter!
+[CRAZY_DAVE_1402]
+Når du har samlet {UPGRADE_COST}, sælger jeg dig noget virkelig sejt!
+
+[CRAZY_DAVE_1501]
+Hey! Vil du købe en ekstra frøplads?
+[CRAZY_DAVE_1502]
+Det koster {UPGRADE_COST}, men så kan du vælge 7 frø pr. bane i stedet for 6!
+[CRAZY_DAVE_1503]
+{NO_CLICK}How's that sound?
+[CRAZY_DAVE_1510]
+Fint! Og hey, når du har sparet {UPGRADE_COST} op, sælger jeg dig opgraderingen til 8 frøpladser!
+[CRAZY_DAVE_1511]
+Vi ses senere!
+[CRAZY_DAVE_1520]
+Øv, min ven!
+
+[CRAZY_DAVE_1551]
+Hey! Vil du købe en ekstra frøplads?
+[CRAZY_DAVE_1552]
+Det koster {UPGRADE_COST}, men så kan du vælge 8 frø pr. bane i stedet for 7!
+[CRAZY_DAVE_1553]

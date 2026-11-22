@@ -1,0 +1,461 @@
+
+[CREDITS_ROLES8]
+^
+[CREDITS_NAMES8]
+
+[CREDITS_ROLES9]
+PROGRAMMERING
+GRAFIK
+PRODUCENT
+TEKNISK TROLDOM
+KVALITETSSIKRING
+
+[CREDITS_NAMES9]
+DAVID FRANZI
+MONTE MICHAELIS
+T. CARL KWOH
+MICHAEL FROMWILLER
+BOB CHURCH
+
+[CREDITS_ROLES10]
+^
+[CREDITS_NAMES10]
+
+[CREDITS_ROLES11]
+^TAK FORDI DU SPILLEDE!
+[CREDITS_NAMES11]
+
+[CREDITS_REPLAY_BUTTON]
+SPIL IGEN
+
+[CREDITS_MAIN_MENU_BUTTON]
+HOVEDMENU
+
+[VISIT_TREE_HEADER]
+Besøg træet?
+
+[VISIT_TREE_BODY]
+Vil du besøge Visdommens Træ nu?
+
+[CREDITS_PAUSE_HEADER]
+RULLETEKSTERNE ER SAT PÅ PAUSE
+
+[CREDITS_PAUSE_BODY]
+Klik for at fortsætte rulleteksterne.
+
+Du kan også se rulleteksterne senere
+under indstillingerne i hovedmenuen.
+
+[CREDITS_RESUME_BUTTON]
+Fortsæt rulleteksterne
+
+[GET_FULL_VERSION_BUTTON]
+Køb den fulde version
+
+[UPSELL_PAUSE_HEADER]
+PAUSE
+
+[UPSELL_PAUSE_BODY]
+Klik for at fortsætte.
+
+[UPSELL_RESUME_BUTTON]
+Fortsæt
+
+[INTRO_PRESENTS]
+PopCap Games præsenterer
+
+[CANT_USE_CODE]
+Visdommens Træ er ikke højt nok til det!
+
+[ADVENTURE_COMPLETE_HEADER]
+Eventyr gennemført
+
+[ADVENTURE_COMPLETE_BODY]
+Flere minispil, puslespil og overlevelsestilstande er blevet låst op! Se også de nye varer i Crazy Daves butik!
+
+[ADVICE_NEED_WHEELBARROW]
+Hvis du vil flytte dine planter mellem haverne,
+skal du købe en trillebør i butikken!
+
+[AVAILABLE_IN_FULL_VERSION]
+Denne plante fås kun i DEN FULDE VERSION!
+
+[REPLAY_LEVEL_HEADER]
+Spil banen igen?
+
+[REPLAY_LEVEL_BODY]
+Vil du spille bane 3-4 igen?
+
+[RENAME_BUTTON]
+Omdøb
+
+[DELETE_BUTTON]
+Slet
+
+[CREATE_NEW_USER]
+(Opret en ny bruger)
+
+[WHO_ARE_YOU]
+HVEM ER DU?
+
+[GAME_PAUSED]
+SPILLET ER SAT PÅ PAUSE
+
+[CLICK_TO_RESUME]
+Klik for at fortsætte spillet
+
+[RESUME_GAME]
+Fortsæt spillet
+
+[INVALID_CODE]
+Ugyldig kode
+
+[INVALID_CODE_MESSAGE]
+Licenskoden, du indtastede, er ikke gyldig for dette navn.
+
+Kontrollér, at navn og registreringsnummer er indtastet korrekt.
+
+[USER_ERROR_MESSAGE]
+Indtast dit navn for at oprette en ny brugerprofil, hvor rekorder og spilfremskridt gemmes.
+
+[ENTER_YOUR_NAME]
+Indtast dit navn
+
+[NAME_CONFLICT]
+Navnekonflikt
+
+[ENTER_UNIQUE_PLAYER_NAME]
+Det indtastede navn er allerede i brug. Indtast et unikt spillernavn.
+
+[ARE_YOU_SURE]
+Er du sikker?
+
+[DELETE_USER_WARNING]
+Dette vil permanent fjerne '%s' fra spillerlisten!
+
+[RENAME_USER]
+OMDØB BRUGER
+
+[NEW_USER]
+NY BRUGER
+
+[PLEASE_ENTER_NAME]
+Indtast dit navn:
+
+[STORE]
+Butik
+
+[NO_WINDOWED_MODE]
+Vinduestilstand ikke tilgængelig
+
+[INVALID_WINDOWS_MODE]
+Vinduestilstand er kun tilgængelig, hvis skrivebordet kørte i enten
+16-biters eller 32-biters farvetilstand, da du startede spillet.
+
+
+Hvis du vil køre spillet i vinduestilstand, skal du afslutte spillet og skifte skrivebordet til 16-biters eller 32-biters farvetilstand.
+
+[NOT_SUPPORTED]
+Ikke understøttet
+
+[HARDWARE_ACCELERATION_NOT_SUPPORTED]
+Hardwareacceleration kan ikke aktiveres på denne computer.
+
+Dit grafikkort opfylder ikke
+minimumskravene
+til dette spil.
+
+[SLOW_PERFORMANCE]
+Dit grafikkort understøtter muligvis ikke denne funktion fuldt ud.
+
+Hvis spillet kører langsommere, skal du deaktivere hardwareacceleration.
+
+[OPEN_URL]
+Åbn følgende URL i din browser
+
+%s
+
+URL'en er allerede kopieret til udklipsholderen.
+
+[OPEN_BROWSER]
+Åbn browser
+
+[OPENING_BROWSER]
+Åbner browser
+
+[NOT_ENOUGH_MONEY]
+Ikke nok penge
+
+[CANNOT_AFFORD_ITEM]
+Du har ikke råd til denne vare endnu. Tjen flere mønter ved at dræbe zombier!
+
+[BUY_ITEM_HEADER]
+Køb denne vare?
+
+[BUY_ITEM]
+Er du sikker på, at du vil købe denne vare?
+
+[NOW_YOU_CAN_CHOOSE_X_SEEDS]
+Nu kan du vælge at tage %d frø med dig på hver bane!
+
+[MORE_SLOTS]
+Flere pladser!
+
+[RESTART_LEVEL]
+Er du sikker på, at du vil genstarte banen?
+
+[NEW_GAME_HEADER]
+Nyt spil?
+
+[NEW_GAME]
+Er du sikker på, at du vil starte et nyt spil?
+
+[LEAVE_GAME_HEADER]
+Forlad spillet?
+
+[LEAVE_GAME]
+Vil du vende tilbage
+til hovedmenuen?
+
+Dit spil bliver gemt.
+
+[REGISTER_HEADER]
+REGISTRÉR DIG!
+
+[REGISTER]
+Din prøveversion af ZomBotany er udløbet!
+
+Du skal registrere din kopi
+for at fortsætte med at spille.
+
+[OPTIONS_MUSIC_LABEL]
+Musik
+
+[OPTIONS_SOUNDFX]
+Lydeffekter
+
+[OPTIONS_3D_ACCELERATION]
+3D-acceleration
+
+[OPTIONS_FULL_SCREEN]
+Fuld skærm
+
+[LIMBO_PAGE_BUTTON]
+Limbo-siden
+
+[ALMANAC_HEADER]
+Almanak
+
+[CONTINUE_GAME_HEADER]
+FORTSÆT SPILLET?
+
+[CONTINUE_GAME_OR_RESTART]
+Vil du fortsætte dit aktuelle spil eller genstarte banen?
+
+[CONTINUE_GAME]
+Vil du fortsætte dit aktuelle spil eller starte et nyt spil?
+
+[PROGRESS_METER_TEXT]
+%d/%d %s
+
+[NUMBER_OF_TROPHIES]
+%d/%d
+
+[LEVELS_COMPLETED]
+%s - %s
+
+[WELCOME_USER_NAME]
+%s!
+
+[MULTIPLIED_X]
+x%d
+
+[SQUIRREL]
+Egern
+
+[TREE_OF_WISDOM]
+Visdommens Træ
+
+[UPSELL]
+Tilbud
+
+[INTRO]
+Introduktion
+
+[IMITATED_PLANT]
+Imitator {PLANT}
+
+[CREDIT_GAME_DESIGN]
+Spildesign
+
+[CREDITS_PROGRAMMING]
+Programmering
+
+[CREDITS_ART]
+Grafik
+
+[CREDITS_MUSIC_SOUND]
+Musik og lyd
+
+
+[STEAM_CLOUD_UPLOAD_HEADER]
+Steam Cloud-gemning er aktiv
+
+[STEAM_CLOUD_UPLOAD_MESSAGE]
+Steam Cloud-gemning er aktiveret, så dine gemte spil bliver opbevaret i skyen og er tilgængelige på alle maskiner, du logger ind på. Dette vil dog overskrive eventuelle eksisterende gemte spil på andre maskiner. Hvis du trykker på ‘Annullér’, deaktiveres Steam Cloud for denne session.
+
+[STEAM_CLOUD_UPLOAD_OKAY_BUTTON]
+OK
+
+[STEAM_CLOUD_UPLOAD_CANCEL_BUTTON]
+ANNULLÉR
+
+[STEAM_CLOUD_CONFLICT_MESSAGE]
+Vi har registreret, at du både har en Steam Cloud-gemning af dette spil og en gemning på denne maskine. Hvilken gemning vil du bruge? (Hvis du trykker på ‘Annullér’, deaktiveres Steam Cloud for denne session.)
+
+[STEAM_CLOUD_CONFLICT_LOCAL_BUTTON]
+LOKAL GEMNING
+
+[STEAM_CLOUD_CONFLICT_CLOUD_BUTTON]
+STEAM-GEMNING
+
+[STEAM_CLOUD_CONFLICT_CANCEL_BUTTON]
+ANNULLÉR
+
+[ACHIEVEMENT_HOME_SECURITY_TITLE]
+Sikkerhed i hjemmets have
+
+[ACHIEVEMENT_HOME_SECURITY_DESCRIPTION]
+Gennemfør eventyrtilstand.
+
+[ACHIEVEMENT_SPUDOW_TITLE]
+SPUDOW!
+
+[ACHIEVEMENT_SPUDOW_DESCRIPTION]
+Spræng en zombie i luften med en kartoffelmine.
+
+[ACHIEVEMENT_EXPLODONATOR_TITLE]
+Eksplodinator
+
+[ACHIEVEMENT_EXPLODONATOR_DESCRIPTION]
+Udslet 10 zombier med én enkelt kirsebærbombe.
+
+[ACHIEVEMENT_MORTICULTURALIST_TITLE]
+Mortikulturist
+
+[ACHIEVEMENT_MORTICULTURALIST_DESCRIPTION]
+Saml alle 49 planter (inklusive planterne fra Crazy Daves butik).
+
+[ACHIEVEMENT_DONT_PEA_IN_POOL_TITLE]
+Skyd ikke ærter i poolen
+
+[ACHIEVEMENT_DONT_PEA_IN_POOL_DESCRIPTION]
+Gennemfør en poolbane om dagen uden at bruge nogen form for ærteskytte.
+
+[ACHIEVEMENT_ROLL_SOME_HEADS_TITLE]
+Rul nogle hoveder
+
+[ACHIEVEMENT_ROLL_SOME_HEADS_DESCRIPTION]
+Vælt 5 zombier med én enkelt valnød.
+
+[ACHIEVEMENT_GROUNDED_TITLE]
+Jordforbindelse
+
+[ACHIEVEMENT_GROUNDED_DESCRIPTION]
+Besejr en normal tagbane uden at bruge katapultplanter.
+
+[ACHIEVEMENT_ZOMBOLOGIST_TITLE]
+Kryptozombolog
+
+[ACHIEVEMENT_ZOMBOLOGIST_DESCRIPTION]
+Find yetizombien.
+
+[ACHIEVEMENT_PENNY_PINCHER_TITLE]
+Påholdende
+
+[ACHIEVEMENT_PENNY_PINCHER_DESCRIPTION]
+Saml 30 mønter i træk på én bane uden at lade nogen forsvinde.
+
+[ACHIEVEMENT_SUNNY_DAYS_TITLE]
+Solrige dage
+
+[ACHIEVEMENT_SUNNY_DAYS_DESCRIPTION]
+Saml 8.000 sol på én bane.
+
+[ACHIEVEMENT_POPCORN_PARTY_TITLE]
+Popcornfest
+
+[ACHIEVEMENT_POPCORN_PARTY_DESCRIPTION]
+Besejr 2 gargantuarer med majskolbeprojektiler på én bane.
+
+[ACHIEVEMENT_GOOD_MORNING_TITLE]
+Godmorgen
+
+[ACHIEVEMENT_GOOD_MORNING_DESCRIPTION]
+Gennemfør en bane om dagen ved kun at plante svampe og kaffebønner.
+
+[ACHIEVEMENT_NO_FUNGUS_AMONG_US_TITLE]
+Ingen svampe her
+
+[ACHIEVEMENT_NO_FUNGUS_AMONG_US_DESCRIPTION]
+Gennemfør en bane om natten uden at plante svampe.
+
+[ACHIEVEMENT_NOBEL_PEAS_PRIZE_TITLE]
+Nobelærteprisen
+
+[ACHIEVEMENT_NOBEL_PEAS_PRIZE_DESCRIPTION]
+Få det gyldne solsikketrofæ.
+
+[ACHIEVEMENT_BETTER_OFF_DEAD_TITLE]
+Bedre død end levende
+
+[ACHIEVEMENT_BETTER_OFF_DEAD_DESCRIPTION]
+Nå en stime på 10 i Jeg, zombie – uendelig.
+
+[ACHIEVEMENT_CHINA_SHOP_TITLE]
+Porcelænsbutik
+
+[ACHIEVEMENT_CHINA_SHOP_DESCRIPTION]
+Nå en stime på 15 i Vasebryder – uendelig.
+
+[ACHIEVEMENT_BEYOND_THE_GRAVE_TITLE]
+Hinsides graven
+
+[ACHIEVEMENT_BEYOND_THE_GRAVE_DESCRIPTION]
+Gennemfør alle 20 minispil.
+
+[ACHIEVEMENT_IMMORTAL_TITLE]
+Udødelig
+
+[ACHIEVEMENT_IMMORTAL_DESCRIPTION]
+Overlev 20 bølger af ren zombiegrusomhed.
+
+[ACHIEVEMENT_TOWERING_WISDOM_TITLE]
+Tårnhøj visdom
+
+[ACHIEVEMENT_TOWERING_WISDOM_DESCRIPTION]
+Få Visdommens Træ til at vokse til 100 fod.
+
+[ACHIEVEMENT_MUSTACHE_MODE_TITLE]
+Overskægstilstand
+
+[ACHIEVEMENT_MUSTACHE_MODE_DESCRIPTION]
+Aktivér overskægstilstand
+
+[ACHIEVEMENT_DISCO_IS_UNDEAD_TITLE]
+Disco er udød
+
+[ACHIEVEMENT_DISCO_IS_UNDEAD_DESCRIPTION]
+Hypnotisér den forreste zombiedanser.
+
+[ACHIEVEMENT_ACHIEVED]
+Præstation: {ACHIEVEMENT}!
+
+[ACHIEVEMENT_EARNED]
+{ACHIEVEMENT} opnået!
+
+[ACHIEVEMENTS_TITLE]
+PRÆSTATIONER
+
+[ZOMBATAR_PAGE]
+Side %d / %d

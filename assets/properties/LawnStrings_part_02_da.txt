@@ -1,0 +1,423 @@
+{FLAVOR}Nogle mener, at kartoffelminen er doven, og at han altid udsætter alting til sidste øjeblik. Kartoffelminen siger ingenting. Han har for travlt med at tænke på sin investeringsstrategi.
+
+[REPEATER_DESCRIPTION_HEADER]
+Dobbeltærteskytter skyder to ærter ad gangen.
+
+[REPEATER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal (for hver ært)
+{KEYWORD}Skudhastighed:{STAT} 2x
+{SHORTLINE}
+{FLAVOR}Dobbeltærteskytten er barsk. Han kommer fra gaden. Han finder sig ikke i noget fra nogen, hverken planter eller zombier, og han skyder ærter for at holde folk på afstand. Men inderst inde længes dobbeltærteskytten efter kærlighed.
+
+[SNOW_PEA_DESCRIPTION_HEADER]
+Sneærter skyder frosne ærter, der skader og gør fjenden langsommere.
+
+[SNOW_PEA_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal, gør zombier langsommere
+{SHORTLINE}
+{FLAVOR}Folk fortæller ofte sneærten, hvor "cool" han er, eller opfordrer ham til at "tage det køligt". De siger, at han skal "holde sig iskold". Sneærten ruller bare med øjnene. Han har hørt det hele før.
+
+[CHOMPER_DESCRIPTION_HEADER]
+Sluggerplanter kan sluge en zombie hel, men er sårbare, mens de tygger.
+
+[CHOMPER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} enorm
+{KEYWORD}Rækkevidde:{STAT} meget kort
+{KEYWORD}Særligt:{STAT} lang pause mellem hvert bid
+{SHORTLINE}
+{FLAVOR}Sluggeren var tæt på at få et job med at udføre stunts i Little Shop of Horrors, men det gik i vasken, da hans agent krævede for meget på forhånd. Sluggeren er dog ikke bitter. Han siger, at det bare er en del af branchen.
+
+[PUFF_SHROOM_DESCRIPTION_HEADER]
+Pufsvampe er billige, men kan kun skyde over kort afstand.
+
+[PUFF_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal
+{KEYWORD}Rækkevidde:{STAT} kort
+{NOCTURNAL}Sover om dagen
+{SHORTLINE}
+{FLAVOR}"Jeg blev først for nylig klar over, at zombier findes," siger pufsvampen. "Ligesom mange andre svampe troede jeg bare, at de var eventyrfigurer eller filmmonstre. Hele denne oplevelse har virkelig åbnet mine øjne."
+
+[SUN_SHROOM_DESCRIPTION_HEADER]
+Solsvampe giver små sole i begyndelsen og normale sole senere.
+
+[SUN_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Solproduktion:{STAT} lav, derefter normal
+{NOCTURNAL}Sover om dagen
+{SHORTLINE}
+{FLAVOR}Solsvampen hader sol. Han hader den så meget, at når den ophober sig i hans system, spytter han den ud så hurtigt, han kan. Han kan simpelthen ikke udstå den. For ham er sol noget vulgært.
+
+[FUME_SHROOM_DESCRIPTION_HEADER]
+Gassvampe skyder gas, der kan trænge gennem sikkerhedsdøre.
+
+[FUME_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal, trænger gennem sikkerhedsdøre
+{KEYWORD}Rækkevidde:{STAT} alle zombier i gasskyen
+{NOCTURNAL}Sover om dagen
+{SHORTLINE}
+{FLAVOR}"Jeg havde et blindgydejob, hvor jeg producerede gærsporer til et bageri," siger gassvampen. "Så fortalte pufsvampen, velsigne ham, mig om denne fantastiske mulighed for at blæse zombier væk. Nu føler jeg virkelig, at jeg gør en forskel."
+
+[GRAVE_BUSTER_DESCRIPTION_HEADER]
+Plant gravædere på grave for at fjerne dem.
+
+[GRAVE_BUSTER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Anvendelse:{STAT} engangsbrug, skal plantes på grave
+{KEYWORD}Særligt:{STAT} fjerner grave
+{SHORTLINE}
+{FLAVOR}På trods af sit frygtindgydende udseende vil gravæderen gerne have, at alle ved, at han elsker killinger og bruger sin fritid som frivillig på et lokalt rehabiliteringscenter for zombier. "Det er bare det rigtige at gøre," siger han.
+
+[HYPNO_SHROOM_DESCRIPTION_HEADER]
+Når hypnosesvampe bliver spist, får de zombien til at vende om og kæmpe for dig.
+
+[HYPNO_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Anvendelse:{STAT} engangsbrug, ved berøring
+{KEYWORD}Særligt:{STAT} får en zombie til at kæmpe for dig
+{NOCTURNAL}Sover om dagen
+{SHORTLINE}
+{FLAVOR}"Zombier er vores venner," erklærer hypnosesvampen. "De er nogle stærkt misforståede væsner, som spiller en vigtig rolle i vores økosystem. Vi kan og bør gøre mere for at få dem over på vores side."
+
+[SCAREDY_SHROOM_DESCRIPTION_HEADER]
+Bangebuksesvampe er langtrækkende skytter, der gemmer sig, når fjender kommer tæt på.
+
+[SCAREDY_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal
+{KEYWORD}Særligt:{STAT} holder op med at skyde, når en fjende er tæt på
+{NOCTURNAL}Sover om dagen
+{SHORTLINE}
+{FLAVOR}"Hvem der?" hvisker bangebuksesvampen med næsten uhørlig stemme. "Gå væk. Jeg vil ikke se nogen. Medmindre det er manden fra cirkusset."
+
+[ICE_SHROOM_DESCRIPTION_HEADER]
+Issvampe lammer midlertidigt alle zombier på skærmen.
+
+[ICE_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} meget lille, lammer zombier
+{KEYWORD}Rækkevidde:{STAT} alle zombier på skærmen
+{KEYWORD}Anvendelse:{STAT} engangsbrug, øjeblikkelig
+{NOCTURNAL}Sover om dagen
+{SHORTLINE}
+{FLAVOR}Issvampen rynker panden, ikke fordi han er ulykkelig eller misbilliger noget, men på grund af en barndomsskade, der lammede hans ansigtsnerver.
+
+[DOOM_SHROOM_DESCRIPTION_HEADER]
+Dommedagssvampe ødelægger alt i et stort område og efterlader et krater, hvor der ikke kan plantes.
+
+[DOOM_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} enorm
+{KEYWORD}Rækkevidde:{STAT} alle zombier i et kæmpestort område
+{KEYWORD}Anvendelse:{STAT} engangsbrug, øjeblikkelig
+{KEYWORD}Særligt:{STAT} efterlader et krater
+{NOCTURNAL}Sover om dagen
+{SHORTLINE}
+{FLAVOR}"Du kan være glad for, at jeg er på din side," siger dommedagssvampen. "Jeg kunne ødelægge alt, hvad du holder af. Det ville ikke være svært."
+
+[LILY_PAD_DESCRIPTION_HEADER]
+Åkandeblade lader dig plante landplanter oven på dem.
+
+[LILY_PAD_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Særligt:{STAT} landplanter kan plantes oven på den
+{AQUATIC}Skal plantes i vand
+{SHORTLINE}
+{FLAVOR}Åkandeblad klager aldrig. Åkandeblad vil aldrig vide, hvad der foregår. Plant en plante oven på åkandeblad, og han siger ikke et ord. Har han overraskende meninger eller chokerende hemmeligheder? Ingen ved det. Åkandeblad holder det hele for sig selv.
+
+[SQUASH_DESCRIPTION_HEADER]
+Squashplanter maser den første zombie, der kommer tæt på.
+
+[SQUASH_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} enorm
+{KEYWORD}Rækkevidde:{STAT} kort, rammer alle zombier, den lander på
+{KEYWORD}Anvendelse:{STAT} engangsbrug
+{SHORTLINE}
+{FLAVOR}"Jeg er klar!" råber squashen. "Lad os gøre det! Sæt mig ind! Der er ingen bedre! Jeg er din mand! Kom nu! Hvad venter du på? Jeg har brug for det her!"
+
+[THREEPEATER_DESCRIPTION_HEADER]
+Trippelærteskytter skyder ærter i tre baner.
+
+[THREEPEATER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal (for hver ært)
+{KEYWORD}Rækkevidde:{STAT} tre baner
+{SHORTLINE}
+{FLAVOR}Trippelærteskytten kan lide at læse, spille backgammon og sidde helt stille i lange perioder i parken. Han nyder at gå til koncerter, især moderne jazz. "Jeg leder bare efter den eneste ene," siger han. Trippelærteskyttens yndlingstal er 5.
+
+[TANGLE_KELP_DESCRIPTION_HEADER]
+Filtret tang er vandplanter, der trækker den første zombie, der nærmer sig, ned under vandet.
+
+[TANGLE_KELP_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} enorm
+{KEYWORD}Anvendelse:{STAT} engangsbrug, ved berøring
+{AQUATIC}Skal plantes i vand
+{SHORTLINE}
+{FLAVOR}"Jeg er fuldstændig usynlig," tænker den filtrede tang. "Jeg gemmer mig lige her under overfladen, og ingen vil få øje på mig." Vennerne fortæller ham, at de sagtens kan se ham, men han ændrer sig aldrig.
+
+[JALAPENO_DESCRIPTION_HEADER]
+Jalapeñoer udsletter alle zombier i en hel bane.
+
+[JALAPENO_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} enorm
+{KEYWORD}Rækkevidde:{STAT} alle zombier i en bane
+{KEYWORD}Anvendelse:{STAT} engangsbrug, øjeblikkelig
+{SHORTLINE}
+{FLAVOR}"NNNNNGGGGGG!!!!!!!!" siger jalapeñoen. Han er ikke ved at eksplodere, ikke denne gang. Men snart. Åh, meget snart. Det er tæt på. Han ved det, han kan mærke det, hele hans liv har ført frem til dette øjeblik.
+
+[SPIKEWEED_DESCRIPTION_HEADER]
+Piggræs punkterer dæk og skader alle zombier, der træder på det.
+
+[SPIKEWEED_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal
+{KEYWORD}Rækkevidde:{STAT} alle zombier, der går hen over den
+{KEYWORD}Særligt:{STAT} kan ikke spises af zombier
+{SHORTLINE}
+{FLAVOR}Hockey er piggræssets store besættelse. Han har sæsonkort til de bedste pladser. Han holder nøje øje med sine yndlingsspillere og vinder konsekvent kontorets hockeypulje. Der er kun ét problem: Han er rædselsslagen for pucke.
+
+[TORCHWOOD_DESCRIPTION_HEADER]
+Fakkeltræer forvandler ærter, der passerer gennem dem, til ildkugler, som gør dobbelt så meget skade.
+
+[TORCHWOOD_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Særligt:{STAT} fordobler skaden fra ærter, der passerer gennem den. Ildkugler skader nærliggende zombier ved nedslag
+{SHORTLINE}
+{FLAVOR}Alle kan lide og respekterer fakkeltræet. De kan lide ham for hans integritet, hans urokkelige venskab og hans evne til at øge ærters skade markant. Men fakkeltræet har en hemmelighed: Han kan ikke læse.
+
+[TALL_NUT_DESCRIPTION_HEADER]
+Højvalnødder er solide murplanter, som ikke kan springes over.
+
+[TALL_NUT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} meget høj
+{KEYWORD}Særligt:{STAT} kan ikke springes over eller hoppes over
+{SHORTLINE}
+{FLAVOR}Folk spekulerer på, om der er rivalisering mellem valnød og højvalnød. Højvalnød ler med en dyb, fyldig latter. "Hvordan skulle der kunne være noget imellem os? Vi er brødre. Hvis I vidste, hvad valnød har gjort for mig..." Højvalnøds stemme dør hen, og han smiler indforstået.
+
+[SEA_SHROOM_DESCRIPTION_HEADER]
+Havsvampe er vandplanter, der skyder sporer på kort afstand.
+
+[SEA_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal
+{KEYWORD}Rækkevidde:{STAT} kort
+{AQUATIC}Skal plantes i vand
+{NOCTURNAL}Sover om dagen
+{SHORTLINE}
+{FLAVOR}Havsvampen har aldrig set havet. Det står i hans navn, og han har hørt masser om det, men han har bare aldrig fundet tid til det. En dag skal det dog nok ske.
+
+[PLANTERN_DESCRIPTION_HEADER]
+Lanterneplanter oplyser et område, så du kan se gennem tågen.
+
+[PLANTERN_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Rækkevidde:{STAT} én bane
+{KEYWORD}Særligt:{STAT} lader dig se gennem tågen
+{SHORTLINE}
+{FLAVOR}Lanterneplanten trodser videnskaben. Sådan er det bare. Andre planter spiser lys og udskiller ilt; lanterneplanten spiser mørke og udskiller lys. Lanterneplanten er hemmelighedsfuld omkring, hvordan den gør det. "Jeg vil ikke sige 'trolddom', jeg ville heller ikke bruge udtrykket 'mørke kræfter', jeg... Jeg tror, jeg har sagt nok."
+
+[CACTUS_DESCRIPTION_HEADER]
+Kaktusser skyder pigge, der kan ramme både mål på jorden og i luften.
+
+[CACTUS_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal
+{KEYWORD}Rækkevidde:{STAT} jord og luft
+{SHORTLINE}
+{FLAVOR}Hun er ganske vist lidt stikkende, men kaktussens pigge skjuler et blødt hjerte fyldt med kærlighed og velvilje. Hun vil bare gerne kramme og krammes. De fleste kan ikke helt håndtere det, men kaktussen tager det roligt. Hun har set et bæltedyr i et stykke tid, og det ser virkelig ud til at fungere.
+
+[BLOVER_DESCRIPTION_HEADER]
+Vindblomster blæser alle ballon-zombier og tågen væk.
+
+[BLOVER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Anvendelse:{STAT} engangsbrug, øjeblikkelig
+{KEYWORD}Særligt:{STAT} blæser alle ballon-zombier væk
+{SHORTLINE}
+{FLAVOR}Da vindblomsten var fem år, fik han en skinnende ny fødselsdagskage. Han ønskede sig noget, pustede og pustede, men kunne kun slukke 60 % af lysene. I stedet for at give op brugte han nederlaget som motivation til at gøre en endnu større indsats lige siden.
+
+[SPLIT_PEA_DESCRIPTION_HEADER]
+Delingsærter skyder ærter både fremad og bagud.
+
+[SPLIT_PEA_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal
+{KEYWORD}Rækkevidde:{STAT} fremad og bagud
+{KEYWORD}Skudhastighed:{STAT} 1x fremad, 2x bagud
+{SHORTLINE}
+{FLAVOR}"Ja, jeg er tvilling," siger delingsærten. "Jeg ved det, stor overraskelse. Men det betaler sig i mit arbejde at have to hoveder -- eller rettere ét hoved med en stor, hovedlignende udvækst bagpå."
+
+[STARFRUIT_DESCRIPTION_HEADER]
+Stjernefrugter skyder stjerner i 5 retninger.
+
+[STARFRUIT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal
+{KEYWORD}Rækkevidde:{STAT} 5 retninger
+{SHORTLINE}
+{FLAVOR}"Åh, mand," siger stjernefrugten. "Jeg var hos tandlægen forleden, og han sagde, at jeg har fire huller. Jeg har -- tæl efter -- ÉN tand! Fire huller i én tand? Hvordan kan det ske?"
+
+[PUMPKIN_DESCRIPTION_HEADER]
+Græskar beskytter planter, der befinder sig inde i deres skaller.
+
+[PUMPKIN_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Robusthed:{STAT} høj
+{KEYWORD}Særligt:{STAT} kan plantes oven på en anden plante
+{SHORTLINE}
+{FLAVOR}Græskar har ikke hørt fra sin fætter Renfield på det seneste. Åbenbart er Renfield en stor stjerne, en slags... hvad var det nu... sportshelt? Peggle-mester? Græskar forstår det ikke rigtig. Han passer bare sit arbejde.
+
+[MAGNET_SHROOM_DESCRIPTION_HEADER]
+Magnetsvampe fjerner hjelme og andre metalgenstande fra zombier.
+
+[MAGNET_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Rækkevidde:{STAT} nærliggende zombier
+{KEYWORD}Særligt:{STAT} fjerner metalgenstande fra zombier
+{NOCTURNAL}Sover om dagen
+{SHORTLINE}
+{FLAVOR}Magnetisme er en stærk kraft. Meget stærk. Nogle gange skræmmer den magnetsvampen en smule. Han er ikke sikker på, om han kan håndtere den slags ansvar.
+
+[CABBAGE_PULT_DESCRIPTION_HEADER]
+Kålkatapulter kaster kål efter fjenden.
+
+[CABBAGE_PULT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal
+{KEYWORD}Rækkevidde:{STAT} i bue
+{SHORTLINE}
+{FLAVOR}Kålkatapulten har det fint med at kaste kål efter zombier. Det er trods alt det, han får løn for, og han er god til det. Han forstår bare ikke, hvordan zombierne overhovedet kommer op på taget.
+
+[FLOWER_POT_DESCRIPTION_HEADER]
+Blomsterkrukker lader dig plante på taget.
+
+[FLOWER_POT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Særligt:{STAT} lader dig plante på taget
+{SHORTLINE}
+{FLAVOR}"Jeg er en krukke til planter. Men jeg er også en plante. ER DIT SIND EKSPLODERET ENDNU?"
+
+[KERNEL_PULT_DESCRIPTION_HEADER]
+Majskatapulter kaster majskorn og smør efter zombier.
+
+[KERNEL_PULT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} let (majskorn), normal (smør)
+{KEYWORD}Rækkevidde:{STAT} i bue
+{KEYWORD}Særligt:{STAT} smør lammer zombier
+{SHORTLINE}
+{FLAVOR}Majskatapulten er den ældste af katapultbrødrene. Af de tre er han den eneste, der konsekvent husker de andres fødselsdage. Han minder dem også lidt for ofte om det.
+
+[COFFEE_BEAN_DESCRIPTION_HEADER]
+Brug kaffebønner til at vække sovende svampe.
+
+[COFFEE_BEAN_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Anvendelse:{STAT} engangsbrug, øjeblikkelig
+{KEYWORD}Særligt:{STAT} kan plantes oven på en anden plante og vækker svampe
+{SHORTLINE}
+{FLAVOR}"Hej, venner, hej!" siger kaffebønnen. "Hej! Hvad så? Hvem er det? Hej! Så du den tingest? Hvilken ting? Wow! Løver!" Ja, kaffebønnen bliver bestemt let begejstret.
+
+[GARLIC_DESCRIPTION_HEADER]
+Hvidløg leder zombierne over i andre baner.
+
+[GARLIC_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Anvendelse:{STAT} ved berøring
+{KEYWORD}Særligt:{STAT} leder zombierne over i andre baner
+{SHORTLINE}
+{FLAVOR}At lede zombier over i andre baner er ikke bare hvidløgets arbejde. Det er hans passion. Han har en avanceret doktorgrad i omdirigering fra universitetet i Bruxelles. Han kan tale hele dagen om baneretninger og frastødningssystemer. Derhjemme skubber han endda ting ind på alternative veje. På en eller anden måde finder hans kone sig i det.
+
+[UMBRELLA_LEAF_DESCRIPTION_HEADER]
+Paraplyblade beskytter nærliggende planter mod bungee-zombier og katapulter.
+
+[UMBRELLA_LEAF_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Særligt:{STAT} beskytter tilstødende planter mod bungee-zombier og katapulter
+{SHORTLINE}
+{FLAVOR}"SPROING!" siger paraplybladet. "Kunne du lide det? Jeg kan gøre det igen. SPROING! Woo! Det er mig, der springer op for at beskytte tingene omkring mig. Ja. Lige sådan. PRÆCIS sådan. Tro på det."
+
+[MARIGOLD_DESCRIPTION_HEADER]
+Morgenfruer giver dig sølv- og guldmønter.
+
+[MARIGOLD_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Særligt:{STAT} giver mønter
+{SHORTLINE}
+{FLAVOR}Morgenfruen bruger meget tid på at beslutte, om hun skal spytte en sølvmønt eller en guldmønt ud. Hun tænker over det og vurderer mulighederne. Hun laver grundig research og følger med i de nyeste publikationer. Sådan holder vindere sig foran.
+
+[MELON_PULT_DESCRIPTION_HEADER]
+Melonkatapulter gør stor skade på grupper af zombier.
+
+[MELON_PULT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} stor
+{KEYWORD}Rækkevidde:{STAT} i bue
+{KEYWORD}Særligt:{STAT} meloner skader nærliggende fjender ved nedslag
+{SHORTLINE}
+{FLAVOR}Melonkatapulten lider ikke af falsk beskedenhed. "For sol mod skade leverer jeg det hårdeste slag på græsplænen," siger han. "Jeg praler ikke. Regn på det. Så vil du se."
+
+[GATLING_PEA_DESCRIPTION_HEADER]
+Gatlingærter skyder fire ærter ad gangen.
+
+[GATLING_PEA_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} normal (for hver ært)
+{KEYWORD}Skudhastighed:{STAT} 4x
+{KEYWORD}Skal plantes oven på dobbeltærteskytter
+{SHORTLINE}
+{FLAVOR}Gatlingærtens forældre blev bekymrede, da han fortalte, at han ville i militæret. "Men skat, det er så farligt!" sagde de i kor. Gatlingærten nægtede at rokke sig. "Livet er farligt," svarede han med stålsat overbevisning i øjnene.
+
+[TWIN_SUNFLOWER_DESCRIPTION_HEADER]
+Dobbeltsolsikker giver dobbelt så meget sol som en normal solsikke.
+
+[TWIN_SUNFLOWER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Solproduktion:{STAT} dobbelt
+{KEYWORD}Skal plantes oven på solsikker
+{SHORTLINE}
+{FLAVOR}Det var en vanvittig nat med forbudt videnskab, der bragte dobbeltsolsikken til live. Torden bragede over dem, mærkelige lys flimrede, og selv den hylende vind syntes at hvæse sin vrede protest. Men forgæves. Dobbeltsolsikken var i live, I LIVE!
+
+[GLOOM_SHROOM_DESCRIPTION_HEADER]
+Mørkesvampe udsender kraftig gas i området omkring sig.
+
+[GLOOM_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skal plantes oven på gassvampe
+{SHORTLINE}
+{FLAVOR}"Jeg har altid nydt at udsende kraftig gas," siger mørkesvampen. "Jeg ved godt, at mange ikke synes om det. De siger, det er uhøfligt, eller at det lugter dårligt. Det eneste, jeg kan sige, er: Vil du hellere have, at zombierne æder din hjerne?"
+
+[CATTAIL_DESCRIPTION_HEADER]
+Dunhamre kan angribe alle baner og også skyde ballon-zombier ned.
+
+[CATTAIL_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skal plantes oven på åkandeblade
+{SHORTLINE}
+{FLAVOR}"Vov!" siger dunhammeren. "Vov vov vov! Forvirrer det dig? Forventer du, at jeg skal sige 'miav' som en kat, bare fordi ordet 'kat' indgår i mit navn, og jeg også ligner en kat? Sådan fungerer tingene ikke her. Jeg nægter at blive sat i bås."
+
+[WINTER_MELON_DESCRIPTION_HEADER]
+Vintermeloner gør stor skade på grupper af zombier og gør dem langsommere.
+
+[WINTER_MELON_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Skade:{STAT} meget stor
+{KEYWORD}Rækkevidde:{STAT} i bue
+{KEYWORD}Skudhastighed:{STAT} 1/2x
+{KEYWORD}Særligt:{STAT} meloner skader og fryser nærliggende fjender ved nedslag
+{KEYWORD}Skal plantes oven på melonkatapulter
+{SHORTLINE}
+{FLAVOR}Vintermelonen forsøger at berolige sine nerver. Han hører zombierne nærme sig. Klarer han den? Klarer nogen den?
+
+[GOLD_MAGNET_DESCRIPTION_HEADER]
+Guldmagneter samler mønter og diamanter for dig.
+
+[GOLD_MAGNET_DESCRIPTION]
